@@ -1,0 +1,200 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body {
+  background-color: white;
+  margin: 85px 10% 5% 10%;
+}
+
+/* * * * * * * * * * * * * * * * * * * * *\
+|* all the many things having to do with *|
+|* the nav bar                           *|
+\* * * * * * * * * * * * * * * * * * * * */
+
+header {
+  /* bar across the top */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+
+  /* width does not include padding */
+  width: 80%;
+  padding: 8px 10%;
+
+  /* black background */
+  background: black;
+  background-image: -webkit-linear-gradient(top, #333333, #000000);
+  background-image: -moz-linear-gradient(top, #333333, #000000);
+  background-image: -ms-linear-gradient(top, #333333, #000000);
+  background-image: -o-linear-gradient(top, #333333, #000000);
+  color: white;
+
+  /* orange border + drop shadow */
+  border-bottom: #F58025 4px solid;
+  box-shadow: 0px 0px 6px 0px #999999;
+  -moz-box-shadow: 0px 0px 6px 0px #999999;
+  -webkit-box-shadow: 0px 0px 6px 0px #999999;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * *\
+|* The header bar has two children: logo and links.*|
+|* All the stuff in logo is aligned left center, *|
+|* links are aligned right-center.               *|
+\* * * * * * * * * * * * * * * * * * * * * * * * */
+
+header {
+  display: table;
+}
+
+header #logo {
+  text-align: left;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+header #links {
+  text-align: right;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * *\
+|* The #logo part of the header bar has an image *|
+|* and an h1 element as children               *|
+\* * * * * * * * * * * * * * * * * * * * * * * */
+
+header #logo img {
+  height: 30px;
+  display: inline;
+}
+
+header #logo h1 {
+  display: inline;
+  font-family: 'Raleway', Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 24pt;
+  color: white;
+}
+
+header #logo {
+  text-decoration: none;
+}
+
+header #links {
+  padding: 0;
+}
+
+header #links li {
+  display: inline-block;
+}
+
+header #links a {
+  font-size: 14pt;
+  line-height: 1;
+  font-family: 'Raleway', Helvetica, sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  color: #CCCCCC;
+  font-weight: bold;
+  padding: 8px;
+  margin: 0px 2px;
+}
+
+header #links a:hover {
+  color: white;
+}
+
+header #links a#here {
+  color: white;
+  background: #333333;
+  border-color: #333333;
+  border-style: solid;
+  margin: 0px;
+  border-width: 0px 2px;
+  border-radius: 6px;
+}
+
+header #links ul li {
+  display: inline-block;
+}
+
+/*header, header #logo > *, header ul li a {*/
+header #links a {
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+header.smaller {
+  height: 35px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-bottom-width: 3px;
+}
+
+header.smaller #logo img {
+  height: 20px;
+}
+
+header.smaller #logo h1 {
+  font-size: 16pt;
+}
+
+header.smaller #links a {
+  font-size: 11pt;
+  padding: 5px;
+}
+
+header.smaller #links a#here {
+  border-width: 0px 2px;
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  header {
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 92%;
+  }
+
+  header #links a {
+    padding: 8px 6px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  body {
+    margin-top: 180px;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  header {
+    position: absolute;
+    padding: 1px 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  header #logo {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 10px;
+  }
+
+  header #links {
+    width: 350px;
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+  }
+
+  header #links a {}
+}

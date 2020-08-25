@@ -1,0 +1,480 @@
+/* Google fonts */
+@import "https://fonts.googleapis.com/css?family=Oxygen:400,700|Oswald";
+
+/************************/
+/*   body and headers   */
+/************************/
+
+body {
+  font-family: "Oxygen", Helvetica, sans-serif;
+  font-size: 12pt;
+}
+
+
+/* line height changes based on width of window */
+body,
+td {
+  line-height: 1.8;
+}
+
+@media screen and (max-width: 1200px) {
+
+  body,
+  td {
+    line-height: 1.6;
+  }
+}
+
+@media screen and (max-width: 900px) {
+
+  body,
+  td {
+    line-height: 1.4;
+  }
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Oswald", Georgia, Utopia, Charter, serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 24pt;
+}
+
+h2 {
+  font-size: 20pt;
+}
+
+
+
+/*********************************************/
+/*  paragraph first strong gets padding to   */
+/*  act as a de facto header for paragraph   */
+/*********************************************/
+
+p>strong:first-child {
+  padding-right: 5px;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+::selection {
+  background: #333;
+  color: white;
+}
+
+a[href*='introcs.cs.princeton.edu'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/booksite.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='goo.gl'],
+a[href*='java_visualize'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/java-visualizer.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href$='.pdf'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/pdf.gif") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href$='.java'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/java.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='websheets'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/websheets.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='.zip'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/zip.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='.txt'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/txt.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='dropbox.cs.princeton.edu'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/dropbox.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='tigerfile.cs.princeton.edu'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/tigerfile.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='docs.google.com'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/gdocs.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='docs.google.com/presentation'] {
+  padding: 5px 0px 5px 17px;
+  background: transparent url("../images/icons/gslides.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='youtu.be'],
+a[href*='salon.cs.princeton.edu'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/salon.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='checklist'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/checklist.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='piazza.com'] {
+  padding: 5px 20px 5px 0px;
+  background: transparent url("../images/icons/piazza.jpg") no-repeat center right;
+  border-right: 2px solid transparent;
+}
+
+a[href*='github.com'] {
+  padding: 5px 20px 5px 0px;
+  background: transparent url("../images/icons/github.png") no-repeat center right;
+  border-right: 2px solid transparent;
+}
+
+a[href^='mailto:'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/email.png") no-repeat center left;
+  border-right: 2px solid transparent;
+}
+
+a[href*='codepost.io'],
+a[href*='codePost.io'] {
+  padding: 5px 0px 5px 20px;
+  background: transparent url("../images/icons/codePost.png") no-repeat center left;
+  border-right: 2px solid transparent;
+  background-size: 14px auto;
+}
+
+td,
+th {
+  padding: 15px;
+}
+
+tr> :first-child {
+  padding-left: 20px;
+}
+
+tr> :last-child {
+  padding-right: 20px;
+}
+
+th {
+  text-align: center;
+}
+
+/**************\
+|* WIDE TABLE *|
+\**************/
+
+.wide-table {
+  margin: 20px auto;
+  border-spacing: 0px;
+  width: 100%;
+}
+
+.wide-table td,
+.wide-table th {
+  text-align: center;
+  padding: 20px 15px;
+  border-left: 1px;
+  border-right: 1px;
+}
+
+.wide-table td:first-child,
+.wide-table th:first-child {
+  padding-left: 50px;
+}
+
+.wide-table td:last-child,
+.wide-table th:last-child {
+  padding-right: 50px;
+}
+
+.wide-table tr:nth-child(even) {
+  background: #F1F1F1;
+}
+
+.wide-table tr:nth-child(odd) {
+  background: #FFFFFF;
+}
+
+.wide-table td[colspan="100%"],
+.wide-table th[colspan="100%"] {
+  padding: 40px;
+  /*  background: white; */
+}
+
+.wide-table th {
+  text-transform: uppercase;
+}
+
+
+
+.alert-box {
+  width: 90%;
+  margin: 20px auto;
+  text-align: center;
+
+  padding: 10px;
+  padding-left: 50px;
+
+  background: #FFF8F1 url("../images/alert.png") no-repeat 15px 50%;
+
+  border: #CCCCCC solid 2px;
+  box-shadow: 3px 3px #999999;
+}
+
+
+a[alt]:hover {
+  position: relative;
+}
+
+
+a[alt]:hover:after {
+  content: attr(alt);
+  text-align: center;
+  padding: 4px 8px;
+  color: #333;
+  position: absolute;
+  left: -75px;
+  width: 250px;
+  top: 100%;
+  z-index: 20px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+
+img[alt]:hover {
+  position: relative;
+}
+
+
+img[alt]:hover:after {
+  content: attr(alt);
+  text-align: center;
+  padding: 4px 8px;
+  color: #333;
+  position: absolute;
+  left: -75px;
+  width: 250px;
+  top: 100%;
+  z-index: 20px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+
+
+/*****************/
+/* syllabus page */
+/*****************/
+
+#staff {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+#staff li {
+  display: block;
+  text-align: center;
+  padding: 0 2em;
+}
+
+#staff img {
+  height: 100px;
+  width: 100x;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+#staff a[href^="mailto:"] {
+    font-weight: bold;
+    font-size: 10pt;
+
+}
+
+
+/**********************/
+/* Not-so-wide table! */
+/**********************/
+
+@media screen and (max-width: 1200px) {
+
+  .wide-table td,
+  .wide-table th {
+    padding: 15px 10px;
+    font-size: 11pt;
+    line-height: 1.7;
+  }
+
+  .wide-table td:first-child,
+  .wide-table th:first-child {
+    padding-left: 10px;
+  }
+
+  .wide-table td:last-child,
+  .wide-table th:last-child {
+    padding-right: 10px;
+  }
+
+  .wide-table td[colspan="100%"],
+  .wide-table th[colspan="100%"] {
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+
+  /* Least-wide table! */
+  .wide-table td,
+  .wide-table th {
+    line-height: 1.6;
+    padding: 15px 2px;
+    font-size: 10pt;
+  }
+
+  .wide-table td:first-child,
+  .wide-table th:first-child {
+    padding-left: 10px;
+  }
+
+  .wide-table td:last-child,
+  .wide-table th:last-child {
+    padding-right: 10px;
+  }
+
+  h1 {
+    font-size: 22pt;
+    line-height: 1;
+  }
+
+  h2 {
+    font-size: 16pt;
+    line-height: 1;
+  }
+
+  .alert-box {
+    width: 90%;
+    padding: 10px;
+    background: #FFF8F1;
+  }
+
+
+  /* syllabus page */
+  #staff-table img {
+    height: 50px;
+    width: 50px;
+  }
+
+  /* assignments page */
+  #assignments-table td:nth-child(2),
+  #assignments-table th:nth-child(2) {
+    display: none;
+  }
+
+  /* exams page */
+  #exams-table th:nth-child(1) {
+    width: 5%;
+  }
+
+  /* help page */
+  .fc-slats .fc-time {
+    font-size: 8pt;
+    padding: 0px;
+    margin: 0px;
+  }
+}
+
+
+
+
+/* special info box */
+table.special-info {
+  margin: auto;
+  border-spacing: 0px;
+  border: 4px solid #333;
+  box-shadow: 2px 0px 2px #999;
+}
+
+table.special-info td,
+table.special-info th {
+  padding: 15px 30px;
+  text-align: center;
+}
+
+table.special-info tr:nth-child(odd) {
+  background: #FDFBFA;
+}
+
+table.special-info tr:nth-child(even) {
+  background: #DDD;
+  /*FDFBFA;*/
+}
+
+table.special-info tr:nth-child(1) {
+  background: #333;
+  /*color:white;*/
+  color: #fff;
+  font-family: "Raleway";
+  font-weight: bold;
+}
