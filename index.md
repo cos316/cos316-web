@@ -43,3 +43,23 @@ Instructor
 [Prof. Wyatt Lloyd](mailto:wlloyd@cs.princeton.edu)\
 Instructor
 
+* ![](/images/staff/jeffrey-helt.jpg)\
+[Jeffrey Helt](mailto:jhelt@cs.princeton.edu)\
+Preceptor
+
+* ![](/images/staff/natalie-popescu.png)\
+[Natalie Popescu](mailto:npopescu@cs.princeton.edu)\
+Preceptor
+
+* ![](/images/staff/yue-tan.jpg)\
+[Yue Tan](mailto:yuetan@cs.princeton.edu)\
+Preceptor
+
+* ![](/images/staff/wei-tang.png)\
+[Wei Tang](mailto:weit@princeton.edu)\
+Preceptor
+
+* ![](/images/staff/teague-tomesh.jpg)\
+[Teague Tomesh](mailto:ttomesh@princeton.edu)\
+Preceptor
+
