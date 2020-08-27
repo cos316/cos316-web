@@ -36,7 +36,7 @@ your Dean or Director of Studies and our approval.
 
 | DATE DUE               |TOPIC                  |MATERIALS
 | -----------------------|-----------------------|---------------------------------------------------------
-| | |
+|                        |                       |
 
 ## Collaboration Policy
 

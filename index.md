@@ -36,30 +36,30 @@ Potential Problem Sets - 10%
 
 {:#staff}
 * ![](/images/staff/amit-levy.jpg)\
-[Prof. Amit Levy](mailto:aalevy@cs.princeton.edu)\
+Prof. Amit Levy\
 Instructor
 
 * ![](/images/staff/wyatt-lloyd.jpg)\
-[Prof. Wyatt Lloyd](mailto:wlloyd@cs.princeton.edu)\
+Prof. Wyatt Lloyd\
 Instructor
 
 * ![](/images/staff/jeffrey-helt.jpg)\
-[Jeffrey Helt](mailto:jhelt@cs.princeton.edu)\
+Jeffrey Helt\
 Preceptor
 
 * ![](/images/staff/natalie-popescu.png)\
-[Natalie Popescu](mailto:npopescu@cs.princeton.edu)\
+Natalie Popescu\
 Preceptor
 
 * ![](/images/staff/yue-tan.jpg)\
-[Yue Tan](mailto:yuetan@cs.princeton.edu)\
+Yue Tan\
 Preceptor
 
 * ![](/images/staff/wei-tang.png)\
-[Wei Tang](mailto:weit@princeton.edu)\
+Wei Tang\
 Preceptor
 
 * ![](/images/staff/teague-tomesh.jpg)\
-[Teague Tomesh](mailto:ttomesh@princeton.edu)\
+Teague Tomesh\
 Preceptor
 
