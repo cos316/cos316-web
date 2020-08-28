@@ -31,8 +31,9 @@ programming language and the Git distributed version control system.
 **Grading.** Assignments - 50%; Final Project - 10%; Two Exams - 30%;
 Potential Problem Sets - 10%
 
-
 ## Course Staff
+
+You may contact course staff via the [Ed discussion board](https://us.edstem.org/courses/2353/discussion/).
 
 {:#staff}
 * ![](/images/staff/amit-levy.jpg)\
