@@ -11,7 +11,7 @@ Discussion](https://us.edstem.org/courses/2353/discussion/113925)
 
 |Date   | Topic | Instructor | Slides| Reading |
 |-------|-------|-------|-----|--------------------|
-| 8/31  | What is a System? | Wyatt Lloyd | | |
+| 8/31  | What is a System? | Wyatt Lloyd | [PDF](/lectures/L1-systems.pdf) | |
 | 9/02  | Course Overview   | Wyatt Lloyd | | |
 | 9/07  | **Naming**        | Amit Levy | | |
 | 9/09  | Unix File System  | Amit Levy | | |
