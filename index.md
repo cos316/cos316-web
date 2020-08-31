@@ -5,7 +5,7 @@ layout: default
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Fall 2020.
 
-**Time** Lectures are Monday and Wednesady 1:30-2:30pm [Princeton
+**Time** Lectures are Monday and Wednesady 1:30-2:20pm [Princeton
 time](https://www.timeanddate.com/worldclock/converter.html?iso=20200831T173000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44).
 
 **Location** Because Fall 2020 is remote at Princeton, the "location" of the course is via
