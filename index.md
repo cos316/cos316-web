@@ -30,8 +30,7 @@ there is no one book that covers the right material in an up-to-date
 fashion. Some required articles/papers/blogs/etc. will be posted
 on-line.
 
-**Grading.**
-Being finalized, check back soon.
+**Grading.** Programming assigments 60%, Problem Sets 20%, Final Project 20%.
 
 ## Course Staff
 
