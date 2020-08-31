@@ -324,22 +324,22 @@ img[alt]:hover:after {
 /* syllabus page */
 /*****************/
 
-#staff {
+.staff {
   list-style: none;
   padding: 0;
   display: flex;
   width: 100%;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
-#staff li {
+.staff li {
   display: block;
   text-align: center;
   padding: 0 2em;
 }
 
-#staff img {
+.staff img {
   height: 100px;
   width: 100x;
   -webkit-border-radius: 5px;
@@ -347,7 +347,7 @@ img[alt]:hover:after {
   border-radius: 5px;
 }
 
-#staff a[href^="mailto:"] {
+.staff a[href^="mailto:"] {
     font-weight: bold;
     font-size: 10pt;
 

@@ -5,6 +5,18 @@ layout: default
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Fall 2020.
 
+**Location** Because Fall 2020 is remote at Princeton, the "location" of the course is via
+video conference and an Ed discussion board.
+
+  * [Ed discussion board]
+  * Links for the
+    [lecture](https://us.edstem.org/courses/2353/discussion/113925) and precept
+    video conferences are accessible to
+    registered students on the Ed discussion board.
+
+**Time** Lectures are Monday and Wednesady 1:30-2:30pm [Princeton
+time](https://www.timeanddate.com/worldclock/converter.html?iso=20200831T173000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44).
+
 **Description.** This course teaches students the design,
 implementation, and evaluation of computer systems, including operating
 systems, networking, and distributed systems.The course will teach
@@ -17,25 +29,16 @@ and evaluate new systems components.
 **Textbook.** There is no required textbook in this course, because
 there is no one book that covers the right material in an up-to-date
 fashion. Some required articles/papers/blogs/etc. will be posted
-on-line. We also suggest the following textbook:
-
-Principles of Computer System Design by M. Frans Kaashoek, Jerome H.
-Saltzer. Morgan Kaufmann. May 2009
-
-An online version of the textbook is available at [Association of
-Computing Machinery (ACM)](https://acm.org), which is available to all
-student members. Membership (\$19) in ACM also provides access to a wide
-variety of other resources, such as textbooks and videos on the Go
-programming language and the Git distributed version control system.
+on-line.
 
 **Grading.**
 Being finalized, check back soon.
 
 ## Course Staff
 
-You may contact course staff via the [Ed discussion board](https://us.edstem.org/courses/2353/discussion/).
+You may contact course staff via the [Ed discussion board].
 
-{:#staff}
+{:.staff}
 * ![](/images/staff/amit-levy.jpg)\
 Prof. Amit Levy\
 Instructor
@@ -44,6 +47,7 @@ Instructor
 Prof. Wyatt Lloyd\
 Instructor
 
+{:.staff}
 * ![](/images/staff/jeffrey-helt.jpg)\
 Jeffrey Helt\
 Preceptor
@@ -64,3 +68,4 @@ Preceptor
 Teague Tomesh\
 Preceptor
 
+[Ed discussion board]: https://us.edstem.org/courses/2353/discussion/
