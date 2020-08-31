@@ -5,17 +5,16 @@ layout: default
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Fall 2020.
 
+**Time** Lectures are Monday and Wednesady 1:30-2:30pm [Princeton
+time](https://www.timeanddate.com/worldclock/converter.html?iso=20200831T173000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44).
+
 **Location** Because Fall 2020 is remote at Princeton, the "location" of the course is via
 video conference and an Ed discussion board.
 
+  * [Lecture zoom room](https://vault.cs50.io/42152b38-6256-4f17-839f-bd1a3994a40f
+    "Must Sign In To View"). Link is also available in [this Ed Discussion](https://us.edstem.org/courses/2353/discussion/113925).
   * [Ed discussion board]
-  * Links for the
-    [lecture](https://us.edstem.org/courses/2353/discussion/113925) and precept
-    video conferences are accessible to
-    registered students on the Ed discussion board.
 
-**Time** Lectures are Monday and Wednesady 1:30-2:30pm [Princeton
-time](https://www.timeanddate.com/worldclock/converter.html?iso=20200831T173000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44).
 
 **Description.** This course teaches students the design,
 implementation, and evaluation of computer systems, including operating

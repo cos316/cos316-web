@@ -3,8 +3,11 @@ title: Lectures
 layout: default
 ---
 
-Lectures meet on Monday and Wednesday 1:30-2:20pm in this [zoom room](https://vault.cs50.io/42152b38-6256-4f17-839f-bd1a3994a40f "Must Sign In To View").
-Link is also available in [Ed Discussion](https://us.edstem.org/courses/2353/discussion/113925)
+Lectures meet on Monday and Wednesday 1:30-2:20pm ([Princeton
+time](https://www.timeanddate.com/worldclock/converter.html?iso=20200831T173000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44))
+in this [zoom room](https://vault.cs50.io/42152b38-6256-4f17-839f-bd1a3994a40f
+"Must Sign In To View").  Link is also available in [Ed
+Discussion](https://us.edstem.org/courses/2353/discussion/113925)
 
 |Date   | Topic | Instructor | Slides| Reading |
 |-------|-------|-------|-----|--------------------|
