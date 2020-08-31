@@ -28,8 +28,8 @@ student members. Membership (\$19) in ACM also provides access to a wide
 variety of other resources, such as textbooks and videos on the Go
 programming language and the Git distributed version control system.
 
-**Grading.** Assignments - 50%; Final Project - 10%; Two Exams - 30%;
-Potential Problem Sets - 10%
+**Grading.**
+Being finalized, check back soon.
 
 ## Course Staff
 
