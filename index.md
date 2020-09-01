@@ -13,6 +13,7 @@ video conference and an Ed discussion board.
 
   * [Lecture zoom room](https://vault.cs50.io/42152b38-6256-4f17-839f-bd1a3994a40f
     "Must Sign In To View"). Link is also available in [this Ed Discussion](https://us.edstem.org/courses/2353/discussion/113925).
+  * [Precept zoom rooms](https://us.edstem.org/courses/2353/discussion/115604)
   * [Ed discussion board]
 
 
