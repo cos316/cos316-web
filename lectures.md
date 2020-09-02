@@ -9,6 +9,10 @@ in this [zoom room](https://vault.cs50.io/42152b38-6256-4f17-839f-bd1a3994a40f
 "Must Sign In To View").  Link is also available in [Ed
 Discussion](https://us.edstem.org/courses/2353/discussion/113925)
 
+Recording of lectures will be made available
+[here](https://us.edstem.org/courses/2353/discussion/115390). You are
+expected to attend lecture live if that is at all reasonable for you.
+
 |Date   | Topic | Instructor | Slides| Reading |
 |-------|-------|-------|-----|--------------------|
 | 8/31  | What is a System? | Wyatt Lloyd | [PDF](/lectures/L1-systems.pdf) | |
