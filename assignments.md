@@ -11,7 +11,7 @@ All problem sets (PSETS) must be done **individually**.
 
 All programming assignments must be done in groups of two partners.
 
-There is a final project, which is due on Dean\'s Date January 14, 2020.
+There is a final project, which is due on Dean\'s Date: December 8, 2020 at 5:00pm Princeton Time.
 
 **Regrades:** If you feel we have made a mistake while grading your
 work, email your preceptor with a short note describing the potential
@@ -19,19 +19,19 @@ mistake. You must do this within two weeks of the work being returned.
 
 **Late days:** You may use up to seven (7) late days for programming
 assignments. The late days are assigned retroactively to give you the
-best possible overall grade on your programming assignments. Programming
-assignments are in general due at 11:00pm. Your score for one
-programming assignment is the commit with the highest graded score and
-valid submission time. You do not need to declare the use of late days
-for each individual assignment. At the end of the semester, we will find
-the best allocation of late days across all your programming
-assignments, such that all your submissions sums to the highest score.
+best possible overall grade on your programming
+assignments. Programming assignments are due at 11:00pm Princeton
+Time. Your score for one programming assignment is the commit with the
+highest graded score and valid submission time. You do not declare the
+use of late days. At the end of the semester, we find the best
+allocation of late days across all your programming assignments, such
+that all your submissions sum to the highest score.
 
 You may not use late days for problem sets and the Dean\'s Date project
 
 Late assignment penalties will be waived only in the case of
 unforeseeable circumstances like medical emergencies, as documented by
-your Dean or Director of Studies and our approval.
+your Dean or Director of Studies and with our approval.
 
 
 | DATE DUE               |TOPIC                     |MATERIALS
