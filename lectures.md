@@ -15,8 +15,8 @@ expected to attend lecture live if that is at all reasonable for you.
 
 |Date   | Topic | Instructor | Slides| Reading |
 |-------|-------|-------|-----|--------------------|
-| 8/31  | What is a System? | Wyatt Lloyd | [PDF](/lectures/L1-systems.pdf) | |
-| 9/02  | Course Overview   | Wyatt Lloyd | | |
+| 8/31  | What is a System? | Wyatt Lloyd | [PDF](/lectures/L01-systems.pdf) | |
+| 9/02  | Course Overview   | Wyatt Lloyd | [PDF](/lectures/L02-overview.pdf) | |
 | 9/07  | **Naming**        | Amit Levy | | |
 | 9/09  | Unix File System  | Amit Levy | | |
 | 9/14  | Git               | Amit Levy | | |
