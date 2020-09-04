@@ -17,5 +17,5 @@ Precept slides will be posted
 
 |Date   | Topic | Materials      |
 |-------|-------|----------------|
-| 9/03  | Go    | Coming soon... |
+| 9/03  | Go    | [PDF](/precepts/Go-Programming.pdf) |
 
