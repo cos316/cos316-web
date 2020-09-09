@@ -67,4 +67,17 @@ Preceptor
 Teague Tomesh\
 Preceptor
 
+{:.staff}
+* ![](/images/staff/allan-korir.jpg)\
+Allan Korir\
+Lab TA
+
+* ![](/images/staff/arthur-yan.jpg)\
+Arthur Yan\
+Lab TA
+
+* ![](/images/staff/catherine-yu.jpg)\
+Catherine Yu\
+Lab TA
+
 [Ed discussion board]: https://us.edstem.org/courses/2353/discussion/
