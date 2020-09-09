@@ -18,7 +18,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 8/31  | What is a System? | Wyatt Lloyd | [PDF](/lectures/L01-systems.pdf) | |
 | 9/02  | Course Overview   | Wyatt Lloyd | [PDF](/lectures/L02-overview.pdf) | |
 | 9/07  | **Naming**        | Amit Levy | [PDF](/lectures/L03-naming.pdf) | |
-| 9/09  | Unix File System  | Amit Levy | Coming soon... | [The Evolution of the UNIX Time-sharing System](/readings/unix_history.pdf) (Optional) |
+| 9/09  | Unix File System  | Amit Levy | [PDF](/lectures/L04-unix-fs.pdf) | [The Evolution of the UNIX Time-sharing System](/readings/unix_history.pdf) (Optional) |
 | 9/14  | Git               | Amit Levy | Coming soon... | [Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
 | 9/16  | Network Naming    | Wyatt Lloyd | | |
 | 9/21  | **Caching**       | Amit Levy | | |
