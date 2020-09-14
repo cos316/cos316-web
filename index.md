@@ -35,16 +35,18 @@ on-line.
 
 ## Course Staff
 
-You may contact course staff via the [Ed discussion board].
+You may contact course staff via the [Ed discussion board]. Office hours are in Princeton time (EST), with video rooms linked from [this Ed discussion post](https://us.edstem.org/courses/2353/discussion/124703).
 
 {:.staff}
 * ![](/images/staff/amit-levy.jpg)\
 Prof. Amit Levy\
-Instructor
+Instructor\
+Office Hours: [Mon. 8:00pm-9:00pm](https://www.timeanddate.com/worldclock/converter.html?iso=20200901T000000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44)
 
 * ![](/images/staff/wyatt-lloyd.jpg)\
 Prof. Wyatt Lloyd\
-Instructor
+Instructor\
+Office Hours: [Th. 10:30am-11:30am](https://www.timeanddate.com/worldclock/converter.html?iso=20200910T143000&p1=179&p2=234&p3=104&p4=33&p5=136&p6=268&p7=44)
 
 {:.staff}
 * ![](/images/staff/jeffrey-helt.jpg)\
