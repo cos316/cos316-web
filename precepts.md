@@ -15,7 +15,7 @@ Precepts meet on Thursdays. Zoom links are available on [Ed Discussion](https://
 
 Precept slides will be posted 
 
-|Date   | Topic | Materials      |
-|-------|-------|----------------|
-| 9/03  | Go    | [PDF](/precepts/Go-Programming.pdf) |
-
+|Date   | Topic    | Materials      |
+|-------|----------|----------------|
+| 9/03  | Go       | [PDF](/precepts/Go-Programming.pdf) |
+| 9/10  | Sockets  | [PDF](/precepts/Socket-Programming.pdf) |
