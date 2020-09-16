@@ -20,7 +20,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 9/07  | **Naming**        | Amit Levy | [PDF](/lectures/L03-naming.pdf) | | |
 | 9/09  | Unix File System  | Amit Levy | [PDF](/lectures/L04-unix-fs.pdf) | [](https://docs.google.com/document/d/1PZeeoFLXQvRJTWzQlOwF4SfvKgiB4pJfJ5qMZkiTCTw/edit?usp=sharing) [](/notes/Naming in UNIX File Systems.pdf) | [The Evolution of the UNIX Time-sharing System](/readings/unix_history.pdf) (Optional) |
 | 9/14  | Git               | Amit Levy | [PDF](/lectures/L05-git.pdf) | [](https://docs.google.com/document/d/1XYgXSpXXiJbCfIpH3TH_r_gcV0bIJbO5fn0sq5D8j2c/edit?usp=sharing) [](/notes/Git.pdf) | [Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
-| 9/16  | Network Naming    | Wyatt Lloyd | | | |
+| 9/16  | Network Naming    | Wyatt Lloyd | [PDF](/lectures/L06-network-naming.pdf) | | |
 | 9/21  | **Caching**       | Amit Levy | | | |
 | 9/23  | CPU Caching       | Amit Levy | | | |
 | 9/28  | CDN Caching       | Wyatt Lloyd | | | |
