@@ -19,3 +19,4 @@ Precept slides will be posted
 |-------|----------|----------------|
 | 9/03  | Go       | [PDF](/precepts/Go-Programming.pdf) |
 | 9/10  | Sockets  | [PDF](/precepts/Socket-Programming.pdf) |
+| 9/17  | HTTP     | [PDF](/precepts/HTTP.pdf) |
