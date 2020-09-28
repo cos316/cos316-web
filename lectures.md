@@ -23,7 +23,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 9/16  | Network Naming    | Wyatt Lloyd | [PDF](/lectures/L06-network-naming.pdf) | | |
 | 9/21  | **Caching**       | Amit Levy | [PDF](/lectures/L07-caching.pdf) | | |
 | 9/23  | CPU Caching       | Amit Levy | [PDF](/lectures/L08-cpucache.pdf) | | |
-| 9/28  | CDN Caching       | Wyatt Lloyd | | | |
+| 9/28  | CDN Caching       | Wyatt Lloyd [PDF](/lectures/L09-cdn-caching.pdf)| | | |
 | 9/30  | Relaxed Belady    | Wyatt Lloyd | | | [Learning Relaxed Belady for Content Distribution Network Caching](https://sunnyszy.github.io/assets/files/nsdi2020_lrb.pdf) |
 | 10/05 | **Layering**      | Wyatt Lloyd | | | |
 | 10/07 | Virtual Machines  | Amit Levy | | | |
