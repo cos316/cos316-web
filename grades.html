@@ -1,0 +1,176 @@
+---
+title: Grades
+layout: default
+---
+{% raw %}
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<div id="app">
+  <a v-bind:href="loginUrl" v-if="loginUrl">Login</a>
+  <template v-if="loggedIn">
+    <a href="#" v-on:click="logout">Logout</a>
+    <assignment-list></assignment-list>
+  </template>
+</div>
+
+<script>
+  const service = location.origin + location.pathname;
+  const baseApiUrl = "https://cos316.princeton.edu/.grader/api/";
+  let accessToken = window.sessionStorage.accessToken;
+  function fetchApi(path, params) {
+    if (!params) { params = {} }
+    if (!params.headers) { params.headers = {}; }
+    if (accessToken) {
+      params.headers["Authorization"] = "Bearer " + accessToken;
+    }
+    return fetch(baseApiUrl + path, params);
+  }
+</script>
+
+<script type="text/x-template" id="assignmentList">
+  <div v-if="assignment">
+    <h2>
+      <a href="#" v-on:click="descend(false)">Assignments</a> >
+      {{ assignment.slug }}
+    </h2>
+    <repo-list :assignment="assignment.slug"></repo-list>
+  </div>
+  <ul v-else>
+    <li v-for="assignment in assignments" :key="assignment.id">
+      <a href="#" v-on:click="descend(assignment)">{{ assignment.slug }}</a>
+    </li>
+  </ul>
+</script>
+<script>
+  Vue.component('assignment-list', {
+    template: '#assignmentList',
+    data: function () {
+      return {
+        assignments: [],
+        assignment: false
+      }
+    },
+    created: async function() {
+      this.assignments = await (await fetchApi("assignments")).json();
+    },
+    methods: {
+      descend: function(assignment) {
+        this.assignment = assignment;
+        return false;
+      }
+    }
+  });
+</script>
+
+<script type="text/x-template" id="repositoriesList">
+  <div v-if="repository">
+    <a href="#" v-on:click="repository = false">&larr; back</a>
+    <repo-details :repository="repository"></repo-details>
+  </div>
+  <div v-else>
+    <p>{{ repositories.length }}</p>
+    <ul>
+      <li v-for="repository in repositories" :key="repository.id">
+        <a href="#" v-on:click="descend(repository)">{{ repository.name }}</a>
+      </li>
+    </ul>
+  </div>
+</script>
+<script>
+  Vue.component('repo-list', {
+    template: '#repositoriesList',
+    props: ["assignment"],
+    data: function () {
+      return {
+        repositories: [],
+        repository: false
+      }
+    },
+    created: async function() {
+      this.repositories = await (await fetchApi("assignments/" + this.assignment + "/repositories")).json();
+    },
+    methods: {
+      descend: function(repository) {
+        this.repository = repository;
+        return false;
+      }
+    }
+  });
+</script>
+
+<script type="text/x-template" id="repositoryDetails">
+  <div>
+    <h4><a :href="'https://github.com/' + repository.name" target="_new">{{ repository.name }}</a></h4>
+    <ol>
+      <li v-for="grade in grades">{{ grade.submitted.toLocaleString() }}: {{(grade.grade * 100).toFixed(0)}}%</li>
+    </ol>
+  </div>
+</script>
+<script>
+  Vue.component('repo-details', {
+    template: '#repositoryDetails',
+    props: ["repository"],
+    data: function () {
+      return {
+        grades: {},
+      }
+    },
+    created: async function() {
+      this.grades = (await (await fetchApi("repositories/" + this.repository.id + "/grades")).json()).map(elm => {
+        elm.submitted = new Date(elm.submitted);
+        return elm;
+      });
+    },
+    methods: {
+      descend: function(repository) {
+        this.repository = repository;
+        return false;
+      }
+    }
+  });
+</script>
+
+<script>
+  var app = new Vue({
+    el: '#app',
+    data: {
+      loggedIn: !!accessToken,
+      loginUrl: false
+    },
+    created: async function() {
+      const ticket = new URLSearchParams(window.location.search).get("ticket");
+      if (ticket) {
+        const response = await fetchApi("", {
+          method: "POST",
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+          },
+          body: "ticket=" + ticket + "&" + "service=" + service,
+        });
+        accessToken = (await response.json()).jwt;
+        window.sessionStorage.accessToken = accessToken;
+        window.history.replaceState({}, document.title, window.location.pathname);
+        this.loggedIn = !!accessToken;
+      } else {
+        const response = await fetchApi("");
+        if (!response.ok) {
+          this.loggedIn = false;
+          this.loginUrl = (await response.json()).cas_server + "/login?service=" + location.origin + location.pathname
+        }
+      }
+    },
+    methods: {
+      logout: async function() {
+        delete window.sessionStorage.accessToken;
+        accessToken = undefined;
+        this.loggedIn = false;
+        const response = await fetchApi("");
+        if (!response.ok) {
+          this.loginUrl = (await response.json()).cas_server + "/login?service=" + location.origin + location.pathname
+        }
+      }
+    }
+  })
+</script>
+
+{% endraw %}
