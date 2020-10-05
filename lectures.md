@@ -25,7 +25,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 9/23  | CPU Caching       | Amit Levy   | [PDF](/lectures/L08-cpucache.pdf) | | |
 | 9/28  | CDN Caching       | Wyatt Lloyd | [PDF](/lectures/L09-cdn-caching.pdf) | | |
 | 9/30  | Relaxed Belady    | Wyatt Lloyd | [PDF](/lectures/L10-lrb.pdf) | | [Learning Relaxed Belady for Content Distribution Network Caching](https://sunnyszy.github.io/assets/files/nsdi2020_lrb.pdf) |
-| 10/05 | **Layering**      | Wyatt Lloyd | | | |
+| 10/05 | **Layering**      | Wyatt Lloyd | [PDF](/lectures/L11-layering-networking.pdf) | | |
 | 10/07 | Virtual Machines  | Amit Levy   | | | |
 | 10/12 |  *FALL BREAK*     | | | | |
 | 10/14 | Mosh              | Amit Levy   | | | [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf) |
