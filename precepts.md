@@ -23,3 +23,4 @@ Precept slides will be posted
 | 9/24  | Tests and Benchmarks | [PDF](/precepts/Testing-and-Benchmarking.pdf) |
 | 10/01 | Caches   | [PDF](/precepts/Cache-Eviction.pdf) |
 | 10/08 | SQL      | [PDF](/precepts/SQL.pdf) |
+| 10/15 | Reflection | [PDF](/precepts/Reflection1.pdf) |
