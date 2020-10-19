@@ -26,9 +26,9 @@ expected to attend lecture live if that is at all reasonable for you.
 | 9/28  | CDN Caching       | Wyatt Lloyd | [PDF](/lectures/L09-cdn-caching.pdf) | | |
 | 9/30  | Relaxed Belady    | Wyatt Lloyd | [PDF](/lectures/L10-lrb.pdf) | | [Learning Relaxed Belady for Content Distribution Network Caching](https://sunnyszy.github.io/assets/files/nsdi2020_lrb.pdf) |
 | 10/05 | **Layering**      | Wyatt Lloyd | [PDF](/lectures/L11-layering-networking.pdf) | | |
-| 10/07 | Virtual Machines  | Amit Levy   | | | |
+| 10/07 | Virtual Machines  | Amit Levy   | [PDF](/lectures/L12-virtual-machines.pdf) | | |
 | 10/12 |  *FALL BREAK*     | | | | |
-| 10/14 | Mosh              | Amit Levy   | | | [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf) |
+| 10/14 | Mosh              | Amit Levy   | [PDF](/lectures/L13-mosh.pdf) | | [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf) |
 | 10/19 | **Concurrency**   | Wyatt Lloyd | | | |
 | 10/21 | Consistency Models| Wyatt Lloyd | | | |
 | 10/23 | Congestion Control| Wyatt Lloyd | | | |
