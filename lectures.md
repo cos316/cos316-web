@@ -29,7 +29,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 10/07 | Virtual Machines  | Amit Levy   | [PDF](/lectures/L12-virtual-machines.pdf) | | |
 | 10/12 |  *FALL BREAK*     | | | | |
 | 10/14 | Mosh              | Amit Levy   | [PDF](/lectures/L13-mosh.pdf) | | [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf) |
-| 10/19 | **Concurrency**   | Wyatt Lloyd | | | |
+| 10/19 | **Concurrency**   | Wyatt Lloyd | [PDF](/lectures/L14-concurrency-time.pdf) | | |
 | 10/21 | Consistency Models| Wyatt Lloyd | | | |
 | 10/23 | Congestion Control| Wyatt Lloyd | | | |
 | 10/28 | Events vs. Threads| Amit Levy   | | | |
