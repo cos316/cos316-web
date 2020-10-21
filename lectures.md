@@ -29,15 +29,15 @@ expected to attend lecture live if that is at all reasonable for you.
 | 10/07 | Virtual Machines  | Amit Levy   | [PDF](/lectures/L12-virtual-machines.pdf) | | |
 | 10/12 |  *FALL BREAK*     | | | | |
 | 10/14 | Mosh              | Amit Levy   | [PDF](/lectures/L13-mosh.pdf) | | [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf) |
-| 10/19 | **Concurrency**   | Wyatt Lloyd | [PDF](/lectures/L14-concurrency-time.pdf) | | |
-| 10/21 | Consistency Models| Wyatt Lloyd | | | |
-| 10/23 | Congestion Control| Wyatt Lloyd | | | |
-| 10/28 | Events vs. Threads| Amit Levy   | | | |
-| 11/02 | **Access Control**| Amit Levy   | | | |
-| 11/04 | Capabilities      | Amit Levy   | | | |
-| 11/09 | IFC               | Amit Levy   | | | |
-| 11/11 | Hails             | Amit Levy   | | | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.amitlevy.com/papers/hails-osdi2012.pdf) |
-| 11/16 | **Scheduling**    | Wyatt Lloyd | | | |
-| 11/18 | TBD               | | | | |
+| 10/19 | **Concurrency**   | Wyatt Lloyd | [PDF](/lectures/L14-concurrency-time.pdf) | | [Time, Clocks and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/pubs.html#time-clocks) |
+| 10/21 | Logical Time      | Wyatt Lloyd | [PDF](/lectures/L15-more-time.pdf ) | | |
+| 10/23 | Consistency Models| Wyatt Lloyd | | | |
+| 10/28 | Congestion Control| Wyatt Lloyd | | | |
+| 11/02 | Events vs. Threads| Amit Levy   | | | |
+| 11/04 | **Access Control**| Amit Levy   | | | |
+| 11/09 | Capabilities      | Amit Levy   | | | |
+| 11/11 | IFC               | Amit Levy   | | | |
+| 11/16 | Hails             | Amit Levy   | | | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.amitlevy.com/papers/hails-osdi2012.pdf) |
+| 11/18 | **Scheduling**    | Wyatt Lloyd | | | |
 | 11/22 | TBD               | | | | |
  
