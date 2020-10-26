@@ -24,3 +24,4 @@ Precept slides will be posted
 | 10/01 | Caches   | [PDF](/precepts/Cache-Eviction.pdf) |
 | 10/08 | SQL      | [PDF](/precepts/SQL.pdf) |
 | 10/15 | Reflection | [PDF](/precepts/Reflection1.pdf) |
+| 10/22 | Reflection - 2 | [PDF](/precepts/Reflection2.pdf) |
