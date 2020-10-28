@@ -34,7 +34,7 @@ Your 2 page project report must include the following 4 sections:
 4. Outcome. Describe the outcome of your project. Was it fully successful or partially successful? What works completely, what works mostly, and what doesn't work?
 
 **Video Demo**
-Your video demo should be at most 5 minutes long. (Shorter is fine.) It should show your code running with you explaining what is happening. One easy way to record this video is in a zoom meeting by yourself, see instructions from Zoom here: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
+Your video demo should be at most 5 minutes long. (Shorter is fine.) It should show your code running with you explaining what is happening. One easy way to record this video is in a zoom meeting by yourself, see instructions from Zoom [here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
 
 ### Example project ideas:
 

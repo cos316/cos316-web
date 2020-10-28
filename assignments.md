@@ -11,7 +11,7 @@ All problem sets (PSETS) must be done **individually**.
 
 All programming assignments must be done in groups of two partners.
 
-There is a final project, which is due on Dean\'s Date: December 8, 2020 at 5:00pm Princeton Time.
+There is a (final project)[/final], which is due on Dean\'s Date: December 8, 2020 at 5:00pm Princeton Time.
 
 **Regrades:** If you feel we have made a mistake while grading your
 work, email your preceptor with a short note describing the potential
