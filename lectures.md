@@ -32,7 +32,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 10/19 | **Concurrency**   | Wyatt Lloyd | [PDF](/lectures/L14-concurrency-time.pdf) | | [Time, Clocks and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/pubs.html#time-clocks) |
 | 10/21 | Logical Time      | Wyatt Lloyd | [PDF](/lectures/L15-more-time.pdf ) | | |
 | 10/26 | Consistency Models| Wyatt Lloyd | [PDF](/lectures/L16-consistency.pdf) | | |
-| 10/28 | Congestion Control| Wyatt Lloyd | | | |
+| 10/28 | Congestion Control| Wyatt Lloyd | [PDF](/lectures/L17-congestion.pdf) | | |
 | 11/02 | Events vs. Threads| Amit Levy   | | | |
 | 11/04 | **Access Control**| Amit Levy   | | | |
 | 11/09 | Capabilities      | Amit Levy   | | | |
