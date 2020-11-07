@@ -26,3 +26,4 @@ Precept slides will be posted
 | 10/15 | Reflection | [PDF](/precepts/Reflection1.pdf) |
 | 10/22 | Reflection - 2 | [PDF](/precepts/Reflection2.pdf) |
 | 10/29 | Concurrency | [PDF](/precepts/Concurrency1.pdf) |
+| 11/05 | Concurrency - 2 | [PDF](/precepts/Concurrency2.pdf) |
