@@ -35,7 +35,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 10/28 | Congestion Control| Wyatt Lloyd | [PDF](/lectures/L17-congestion.pdf) | | |
 | 11/02 | Events vs. Threads| Amit Levy   | [PDF](/lectures/L18-eventsvsthreads.pdf) | | [Why Are Threads a Bad Idea](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf) [Why Are Events a Bad Idea](https://www.usenix.org/legacy/events/hotos03/tech/full_papers/vonbehren/vonbehren.pdf) |
 | 11/04 | **Access Control**| Amit Levy   | [PDF](/lectures/L19-access-control.pdf) | | |
-| 11/09 | Capabilities      | Amit Levy   | | | |
+| 11/09 | Capabilities      | Amit Levy   | [PDF](/lectures/L20-capabilities.pdf) | | |
 | 11/11 | IFC               | Amit Levy   | | | |
 | 11/16 | Hails             | Amit Levy   | | | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.amitlevy.com/papers/hails-osdi2012.pdf) |
 | 11/18 | **Scheduling**    | Wyatt Lloyd | | | |
