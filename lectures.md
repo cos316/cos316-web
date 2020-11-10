@@ -39,5 +39,5 @@ expected to attend lecture live if that is at all reasonable for you.
 | 11/11 | IFC               | Amit Levy   | | | |
 | 11/16 | Hails             | Amit Levy   | | | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.amitlevy.com/papers/hails-osdi2012.pdf) |
 | 11/18 | **Scheduling**    | Wyatt Lloyd | | | |
-| 11/22 | TBD               | | | | |
+| 11/23 | TBD               | | | | |
  
