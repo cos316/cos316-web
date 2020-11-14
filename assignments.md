@@ -42,7 +42,7 @@ your Dean or Director of Studies and with our approval.
 | 10/14                  | In-memory cache          | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/138959)
 | 10/28                  | Object Relational Mapper | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/150607)
 | 11/11                  | Connection pool          | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/164032)
-| 11/25                  | Access control           | Coming soon...
+| 11/25                  | Access control           | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/176008)
 
 ## Collaboration Policy
 
