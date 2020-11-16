@@ -37,7 +37,7 @@ expected to attend lecture live if that is at all reasonable for you.
 | 11/04 | **Access Control**| Amit Levy   | [PDF](/lectures/L19-access-control.pdf) | | |
 | 11/09 | Capabilities      | Amit Levy   | [PDF](/lectures/L20-capabilities.pdf) | | |
 | 11/11 | Mandatory Access & Information Flow | Amit Levy   | [PDF](/lectures/L21-mac.pdf) | | |
-| 11/16 | Hails             | Amit Levy   | | | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.amitlevy.com/papers/hails-osdi2012.pdf) |
+| 11/16 | Hails             | Amit Levy   | [PDF](/lectures/L22-hails.pdf) | | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.amitlevy.com/papers/hails-osdi2012.pdf) |
 | 11/18 | **Tying It All Together**    | Wyatt Lloyd | | | |
 | 11/23 | **Ask Us Anything** | Amit Levy & Wyatt Lloyd | | | |
  
