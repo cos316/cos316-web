@@ -36,6 +36,10 @@ Your 2 page project report must include the following 4 sections:
 **Video Demo**
 Your video demo should be at most 5 minutes long. (Shorter is fine.) It should show your code running with you explaining what is happening. One easy way to record this video is in a zoom meeting by yourself, see instructions from Zoom [here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
 
+### Submission
+
+You will submit your deliverables using [tiger file](https://tigerfile.cs.princeton.edu/COS316_F2020/Final_Project).
+
 ### Example project ideas:
 
 Assignment 2 (routing): An alternative routing scheme, for example, for hierarchical/nested controllers.
