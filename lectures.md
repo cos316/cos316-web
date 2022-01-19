@@ -26,7 +26,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 3/22 | Logical Time      | Jennifer Rexford |   | | |
 | 3/24 | Consistency Models| Jennifer Rexford |   | | |
 | 3/29 | Congestion Control| Jennifer Rexford |   | | |
-| 3/31 | Events vs. Threads| Amit Levy   |   |
+| 3/31 | TBD (Research)    | Amit Levy   |   |
 | 4/05 | **Access Control**| Amit Levy   |   | | |
 | 4/07 | Capabilities      | Amit Levy   |   | | |
 | 4/12 | Mandatory Access & Information Flow | Amit Levy   |   | | |
