@@ -3,15 +3,15 @@ title: Programming Assignments and Problem Sets
 layout: default
 ---
 
-Programming assignments will be published, submitted and testing using
-[GitHub](https://github.com). You will need to create a GitHub account
-using your Princeton email address.
+Programming assignments will be published, submitted and tested using
+[GitHub](https://github.com). You will need to create a GitHub account using
+your Princeton email address.
 
 All problem sets (PSETS) must be done **individually**.
 
 All programming assignments must be done in groups of two partners.
 
-There is a (final project)[/final], which is due on Dean\'s Date: December 8, 2020 at 5:00pm Princeton Time.
+There is a [final project](/final), due on Dean\'s Date.
 
 **Regrades:** If you feel we have made a mistake while grading your
 work, email your preceptor with a short note describing the potential
@@ -35,14 +35,14 @@ your Dean or Director of Studies and with our approval.
 
 
 | DATE DUE               |TOPIC                     | MATERIALS
-| -----------------------|--------------------------|---------------------------------------------------------
-| (not for a grade)      | Virtual Machine          | [assignment0](https://github.com/cos316/COS316-Public/blob/master/assignments/assignment0/README.md)
-| 09/16                  | Socket programming       | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/117978)
-| 09/30                  | HTTP Routing Framework   | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/126485)
-| 10/14                  | In-memory cache          | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/138959)
-| 10/28                  | Object Relational Mapper | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/150607)
-| 11/11                  | Connection pool          | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/164032)
-| 11/25                  | Access control           | [Ed discussion announcement](https://us.edstem.org/courses/2353/discussion/176008)
+| -----------------------|--------------------------|---------------------------------------------------------|
+| (not for a grade)      | Virtual Machine          | |
+| 09/16                  | Socket programming       | |
+| 09/30                  | HTTP Routing Framework   | |
+| 10/14                  | In-memory cache          | |
+| 10/28                  | Object Relational Mapper | |
+| 11/11                  | Connection pool          | |
+| 11/25                  | Access control           | |
 
 ## Collaboration Policy
 

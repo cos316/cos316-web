@@ -3,6 +3,9 @@ title: Precepts
 layout: default
 ---
 
+Check back soon for details
+
+<!--
 Precepts meet on Thursdays. Zoom links are available on [Ed Discussion](https://us.edstem.org/courses/2353/discussion/115604).
 
 | Precept | Princeton Time | Preceptor |
@@ -27,3 +30,4 @@ Precept slides will be posted
 | 10/22 | Reflection - 2 | [PDF](/precepts/Reflection2.pdf) |
 | 10/29 | Concurrency | [PDF](/precepts/Concurrency1.pdf) |
 | 11/05 | Concurrency - 2 | [PDF](/precepts/Concurrency2.pdf) |
+-->
