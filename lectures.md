@@ -7,7 +7,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 
 |Date   | Topic | Instructor | Slides| Notes | Reading |
 |-------|-------|------------|-------|-------|------------|
-| 1/25  | What is a System?| Jennifer Rexford |  | | |
+| 1/25  | What is a System?| Jennifer Rexford | [L01](lectures/L01-systems.pdf) | | |
 | 1/27  | Course Overview  | Jennifer Rexford | | | |
 | 2/01  | **Naming**       | Amit Levy   |   | | |
 | 2/03  | Unix File System | Amit Levy   |   |
