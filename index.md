@@ -5,7 +5,7 @@ layout: default
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Spring 2022.
 
-**Time** Lectures are Tuesday and Thursday, 10:00am-10:50am [(Zoom link)](https://princeton.zoom.us/j/99476809145), [Precepts](precepts) are on Thursdays.
+**Time** Lectures are Tuesday and Thursday, 10:00am-10:50am ([Zoom link])(https://princeton.zoom.us/j/99476809145), [Precepts](precepts) are on Thursdays.
 
 **Location** [Computer Science Building](https://api.princeton.edu/campus-map/link?id=0167), Room 104
 
