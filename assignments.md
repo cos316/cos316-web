@@ -36,13 +36,13 @@ your Dean or Director of Studies and with our approval.
 
 | DATE DUE               |TOPIC                     | MATERIALS
 | -----------------------|--------------------------|---------------------------------------------------------|
-| (not for a grade)      | Virtual Machine          | |
-| 09/16                  | Socket programming       | |
-| 09/30                  | HTTP Routing Framework   | |
-| 10/14                  | In-memory cache          | |
-| 10/28                  | Object Relational Mapper | |
-| 11/11                  | Connection pool          | |
-| 11/25                  | Access control           | |
+| 02/02                  | Development Environment  | |
+| 02/09                  | Socket programming       | |
+| 02/23                  | HTTP Routing Framework   | |
+| 03/04                  | In-memory cache          | |
+| 03/23                  | Object Relational Mapper | |
+| 04/06                  | Connection pool          | |
+| 04/20                  | Access control           | |
 
 ## Collaboration Policy
 
