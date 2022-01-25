@@ -62,7 +62,7 @@ Preceptor
 Natalie Popescu\
 Preceptor
 
-* ![](#/images/staff/john-yang.jpg)\
+* ![](/images/staff/john-yang.jpg)\
 John Yang\
 Preceptor
 
