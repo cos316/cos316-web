@@ -49,7 +49,7 @@ Preceptor
 Mary Hogan\
 Preceptor
 
-* ![](#)\
+* ![](/images/staff/julian-knodt.png)\
 Julian Knodt\
 Preceptor
 
