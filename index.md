@@ -46,19 +46,19 @@ Instructor\
 Office Hours: TBD
 
 {:.staff}
-* ![](#)\
+* ![](images/staff/qingchen-dang.jpg)\
 Qingchen Dang\
 Preceptor
 
-* ![](#)\
+* ![](images/staff/mary-hogan.jpg)\
 Mary Hogan\
 Preceptor
 
-* ![](/images/staff/julian-knodt.png)\
+* ![](images/staff/julian-knodt.png)\
 Julian Knodt\
 Preceptor
 
-* ![](/images/staff/natalie-popescu.png)\
+* ![](images/staff/natalie-popescu.png)\
 Natalie Popescu\
 Preceptor
 
