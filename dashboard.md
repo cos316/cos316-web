@@ -79,7 +79,7 @@ layout: default
           body: JSON.stringify(data),
         });
         let respData = await response.json();
-        this.assignments[assignment].repo = respData.name;
+        this.assignments[assignment].repo = "https://github.com/" + respData.name;
       },
       me: async function(jwt) {
         if (jwt) {
