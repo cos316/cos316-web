@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{:.announce}
+Assignment 0 is released! Go to the [dashboard](/dashboard) to get started!
+
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Spring 2022.
 

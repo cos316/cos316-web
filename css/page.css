@@ -60,6 +60,15 @@ h2 {
 /*  act as a de facto header for paragraph   */
 /*********************************************/
 
+.announce {
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1em;
+  border: 3px solid #ccc;
+  background-color: #fff2aa;
+}
+
 p>strong:first-child {
   padding-right: 5px;
 }

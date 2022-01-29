@@ -51,9 +51,9 @@ layout: default
           if (event.source === this.casPopup) {
             this.jwt = event.data;
             window.sessionStorage.setItem("snapfaas-jwt", event.data);
-          } else if (event.source === githubPopup) {
+          } else if (event.source === this.githubPopup) {
             if (event.data == "jwt_please") {
-              event.source.postMessage(jwt, baseUrl);
+              event.source.postMessage(this.jwt, baseUrl);
             } else {
                 this.githubUser = JSON.parse(event.data);
             }
@@ -63,7 +63,7 @@ layout: default
     },
     methods: {
       start: async function(assignment) {
-        this.starting[assignment] = true;
+        this.$set(this.starting, assignment, true);
         let url = new URL(baseUrl);
         url.pathname = "/assignments";
         let data = {
@@ -73,7 +73,7 @@ layout: default
         let response = await fetch(url, {
           method: 'POST',
           headers: new Headers({
-              'Authorization': 'Bearer '+jwt,
+              'Authorization': 'Bearer '+ this.jwt,
               'Content-Type': 'application/json',
           }),
           body: JSON.stringify(data),
@@ -100,7 +100,7 @@ layout: default
         }
       },
       pairWithGithub: function() {
-        githubPopup = window.open(baseUrl + "/login/github", "Login", "popup");
+        this.githubPopup = window.open(baseUrl + "/login/github", "Login", "popup");
       },
       getAssignments: async function() {
         let response = await fetch(baseUrl + "/get?keys=cos316/assignments", {
