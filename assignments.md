@@ -50,7 +50,7 @@ In other words, there is no penalty for pushing regularly to your repository,
 and you should know within a few minutes how much of the assignment you've
 successfully completed.
 
-To begin working on a released assignment, using the assignment [dashbaord](/dashboard).
+To begin working on a released assignment, using the assignment [dashboard](/dashboard).
 
 
 |            | DATE DUE               |TOPIC                     |
