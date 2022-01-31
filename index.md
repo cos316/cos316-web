@@ -59,7 +59,10 @@ Preceptor
 
 * ![](images/staff/julian-knodt.png)\
 Julian Knodt\
-Preceptor
+Preceptor\
+Office Hours:\
+Monday 2 P.M\
+Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
 
 * ![](images/staff/natalie-popescu.png)\
 Natalie Popescu\
