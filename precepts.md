@@ -12,7 +12,7 @@ Precepts meet on Thursdays in the [Friend Center](https://api.princeton.edu/camp
 | 3       | 3:30-4:20pm  | John      | 109  |
 | 4       | 7:30-8:20pm  | Julian    | 108  |
 
-Precept slides will be posted here
+Precept slides:
 
 |Date   | Topic    | Materials      |
 |-------|----------|----------------|
