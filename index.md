@@ -40,38 +40,39 @@ You may contact course staff via the Ed discussion board. Office hours are in Pr
 {:.staff}
 * ![](/images/staff/amit-levy.jpg)\
 Prof. Amit Levy\
-Instructor\
-Office Hours:\
-Tuesday 11am-12pm\
+Office Hours:
+Tue. 11am-12pm\
 COS 307/[Zoom](https://princeton.zoom.us/my/alevy)
 
 * ![](/images/staff/jenn-rexford.jpg)\
 Prof. Jennifer Rexford\
-Instructor\
 Office Hours: TBD
 
 {:.staff}
 * ![](images/staff/qingchen-dang.jpg)\
 Qingchen Dang\
-Preceptor
+Office Hours:
+Fri. 1pm-2pm
 
 * ![](images/staff/mary-hogan.jpg)\
 Mary Hogan\
-Preceptor
+Office Hours:
+Tue. 1pm-2pm
 
 * ![](images/staff/julian-knodt.png)\
 Julian Knodt\
-Preceptor\
-Office Hours:\
-Monday 2pm-3pm\
+Office Hours:
+Mon. 2pm-3pm\
 Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
 
 * ![](images/staff/natalie-popescu.png)\
 Natalie Popescu\
-Preceptor
+Office Hours:
+Wed. 11am-12pm
 
 * ![](/images/staff/john-yang.jpg)\
 John Yang\
-Preceptor
+Office Hours:
+Wed. 2pm-3pm
 
 <!--[Ed discussion board]: https://us.edstem.org/courses/2353/discussion/-->
