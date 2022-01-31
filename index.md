@@ -41,7 +41,9 @@ You may contact course staff via the Ed discussion board. Office hours are in Pr
 * ![](/images/staff/amit-levy.jpg)\
 Prof. Amit Levy\
 Instructor\
-Office Hours: TBD
+Office Hours:\
+Tuesday 11am-12pm\
+COS 307/[Zoom](https://princeton.zoom.us/my/alevy)
 
 * ![](/images/staff/jenn-rexford.jpg)\
 Prof. Jennifer Rexford\
@@ -61,7 +63,7 @@ Preceptor
 Julian Knodt\
 Preceptor\
 Office Hours:\
-Monday 2 P.M\
+Monday 2pm-3pm\
 Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
 
 * ![](images/staff/natalie-popescu.png)\
