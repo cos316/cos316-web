@@ -42,7 +42,7 @@ You may contact course staff via the Ed discussion board. Office hours are in Pr
 Prof. Amit Levy\
 Office Hours:
 Tue. 11am-12pm\
-COS 307/[Zoom](https://princeton.zoom.us/my/alevy)
+COS 307/[Zoom](https://princeton.zoom.us/j/99461859886)
 
 * ![](/images/staff/jenn-rexford.jpg)\
 Prof. Jennifer Rexford\
