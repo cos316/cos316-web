@@ -14,10 +14,10 @@ Precepts meet on Thursdays in the [Friend Center](https://api.princeton.edu/camp
 
 Precept slides will be posted here
 
+<!--
 |Date   | Topic    | Materials      |
 |-------|----------|----------------|
 | 9/03  | Go       | [PDF](/precepts/Go-Programming.pdf) |
-<!--
 | 9/10  | Sockets  | [PDF](/precepts/Socket-Programming.pdf) |
 | 9/17  | HTTP     | [PDF](/precepts/HTTP.pdf) |
 | 9/24  | Tests and Benchmarks | [PDF](/precepts/Testing-and-Benchmarking.pdf) |
