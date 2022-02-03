@@ -218,7 +218,6 @@ th {
         });
         let now = new Date();
         let baseAssignments = Object.fromEntries(Object.entries((await response.json())).map(([k,v]) => [k, JSON.parse(v)]))["cos316/assignments"];
-        baseAssignments["assignment1"]["release_date"] = now.toJSON();
         let keys = Object.entries(baseAssignments).filter(([k,v]) => now >= new Date(v["release_date"])).map(([key, v]) =>  "cos316/assignments/" + key + "/" + this.user);
         let url = new URL(baseUrl);
         url.pathname = "/get";
