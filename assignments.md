@@ -138,7 +138,7 @@ take to be ready to use GitHub to submit your assignments.
 
 ### Do this once at the beginning of the course
 
-**Create a GitHub Account**
+**Creating a GitHub Account**
 
 If you already have a GitHub account you are willing to use for 
 this course, then you're done - proceed to the next step.
@@ -150,12 +150,12 @@ ensure the "Help me set up an organization" box is unchecked.
 
 ### Do these once per assignment
 
-**Start the assignment**
+**Starting the assignment**
 
 Navigate to your [COS316 Dashboard](https://cos316.princeton.edu/dashboard)
 and start the assignment. 
 
-**Select your partner**
+**Selecting your partner**
 
 All assignments after assignment 0 should be completed in pairs. 
 If you are working on assignment 0, you can proceed to the next 
@@ -173,7 +173,7 @@ the form: `https://github.com/cos316/<assignment#>-<unique-name>`.
 If your partner has already selected you for this assigment, you 
 will be shown a link to the same, shared Github repository.
 
-**Grant the COS316 Grader permission to your Github 
+**Granting the COS316 Grader permission to your Github 
 (assignment 0 only)**
 
 The first time you go through this process, you should be prompted 
