@@ -14,7 +14,7 @@ in stdenv.mkDerivation {
   builder = writeText "builder.sh" ''
     source ${stdenv}/setup
     cp -r $src/* .
-    jekyll build
+    JEKYLL_ENV=production jekyll build
     mkdir -p $out
     cp -r _site/* $out/
     '';
