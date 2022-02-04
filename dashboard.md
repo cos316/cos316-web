@@ -74,7 +74,7 @@ th {
     methods: {
       select: function(student) {
         this.partnerSearch = "";
-        this.partners.push(student);
+        this.partners.add(student);
       }
     },
     computed: {
@@ -161,7 +161,7 @@ th {
         this.$set(this.starting, assignment, true);
         let url = new URL(baseUrl);
         url.pathname = "/assignments";
-        partners.add(this.user);
+        partners.add({ netid: this.user.split("@")[0] });
         let data = {
             assignment: assignment,
             users: Array.from(partners).map(partner => partner.netid + "@princeton.edu"),
