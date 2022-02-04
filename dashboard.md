@@ -3,12 +3,16 @@ title: Assignment Dashboard
 layout: default
 ---
 
-{% raw %}
+{% if jekyll.environment == "production" %}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
+{% else %}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{% endif %}
+{% raw %}
 <style>
 .tableFixHead {
   overflow-y: auto;
-  height: 20em;
+  max-height: 20em;
 }
 .tableFixHead thead th {
   position: sticky;
@@ -32,35 +36,17 @@ th {
     <a href="#" v-on:click="logout">Logout</a>
     <template v-if="githubUser">
     <p>You are logged in as <em>{{user}}</em> and GitHub user <em>{{githubUser}}</em></p>
-    <template v-for="(value, assignment) in assignments">
-      <h2>{{ value.assignment.title }}</h2>
-      <p v-if="value.repo">
-      Your repository: <a v-bind:href="value.repo" target="new">{{value.repo}}</a>
-      </p>
-      <p v-else-if="starting[assignment]">
-      <em>Creating repository...</em>
-      </p>
-      <p v-else>
-      To begin working on this assignment, we need to create a repository for you.
-      <a href="#" v-on:click="start(assignment)">Click here to start</a>
-      </p>
-    </template>
-    <h2>Partner Search</h2>
-    <p>Use the class roster below to find a partner to work with.</p>
-    <div class="tableFixHead">
-      <table>
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>E-mail</th>
-          </tr>
-        </thead>
-        <tr v-for="student in enrolledStudents">
-          <td>{{student.name}}</td>
-          <td><a v-bind:href="'mailto:' + student.netid + '@princeton.edu?Subject=Work+together+on+COS316+assignment%3F'" target="new">{{student.netid}}@princeton.edu</a></td>
-        </tr>
-      </table>
-    </div>
+      <template v-for="(value, assignment) in assignments">
+        <h2 v-bind:id="assignment">{{ value.assignment.title }}</h2>
+        <p v-if="value.repo">
+        Your repository: <a v-bind:href="value.repo" target="new">{{value.repo}}</a>
+        </p>
+        <p v-else-if="starting[assignment]">
+        <em>Creating repository...</em>
+        </p>
+        <assignment-create v-bind:roster="enrolledStudents" v-bind:assignment="value" v-bind:assignment-key="assignment" v-else v-on:start="start">
+        </assignment-create>
+      </template>
     </template>
     <template v-else>
       <p>You must also pair your NetID with a GitHub account by logging in with Github</p>
@@ -74,6 +60,77 @@ th {
 </div>
 <script>
   let baseUrl = "https://sns29.cs.princeton.edu";
+  
+  Vue.component('assignment-create', {
+    props: [ 'assignment', 'assignmentKey', 'roster' ],
+    data: function() {
+      return {
+        partnerSearch: "",
+        searchStudents: [],
+        partners: new Set(),
+        showRoster: false,
+      };
+    },
+    methods: {
+      select: function(student) {
+        this.partnerSearch = "";
+        this.partners.add(student);
+      }
+    },
+    computed: {
+      searched: function() {
+        let prtnr = this.partnerSearch.toLowerCase();
+        if (prtnr.length > 0 || this.showRoster) {
+          return this.roster.filter((student) =>
+            student.name.toLowerCase().includes(prtnr) ||
+            student.netid.toLowerCase().includes(prtnr)
+          );
+        } else {
+          return [];
+        }
+      }
+    },
+    template: `
+      <div>
+        <p v-if="partners.size > 0">
+          You've chosen to work with
+          <span v-for="(partner, idx) in partners"><em>{{ partner.name }} ({{ partner.netid }})</em><span v-if="idx + 1 < partners.size">, </span></span>.
+        </p>
+        <template v-if="(assignment.assignment.group_size || 0) - partners.size > 1">
+        <p>This is a group assignment, you must choose {{
+        assignment.assignment.group_size - 1 - partners.size }} more classmate(s) to work
+        with. <em>Do not add people to your team without the permission from them</em>.</p>
+        <p>
+        <input type="search" placeholder="Find a partner by name or NetID" id="partner_search" style="padding: 1em; font-size: 1.2em; width: 25em;" v-model="partnerSearch"/>
+        <a href="#" v-on:click="showRoster = false; partnerSearch = ''" v-if="showRoster">hide</a><a href="#" v-on:click="showRoster = true" v-else>view all</a>
+        </p>
+        <div class="tableFixHead" v-if="searched.length > 0">
+          <table>
+            <thead>
+              <tr>
+                <th>&nbsp;</th>
+                <th>Name</th>
+                <th>E-mail</th>
+              </tr>
+            </thead>
+            <tr v-for="student in searched">
+              <td width="7em"><a href="#" v-on:click="select(student)">Select</a></td>
+              <td>{{student.name}}</td>
+              <td><a v-bind:href="'mailto:' + student.netid + '@princeton.edu?Subject=Work+together+on+COS316+assignment%3F'" target="new">{{student.netid}}@princeton.edu</a></td>
+            </tr>
+          </table>
+        </div>
+        </template>
+        <template v-else>
+        <p>
+          To begin working on this assignment, we need to create a repository for you.
+          <a href="#" v-on:click="$emit('start', assignmentKey, partners)">Click here to start</a>
+        </p>
+        </template>
+      </div>
+    `
+  });
+  
   var app = new Vue({
     el: '#app',
     data: {
@@ -100,13 +157,14 @@ th {
       this.me(this.jwt);
     },
     methods: {
-      start: async function(assignment) {
+      start: async function(assignment, partners) {
         this.$set(this.starting, assignment, true);
         let url = new URL(baseUrl);
         url.pathname = "/assignments";
+        partners.add({ netid: this.user.split("@")[0] });
         let data = {
             assignment: assignment,
-            users: [this.user],
+            users: Array.from(partners).map(partner => partner.netid + "@princeton.edu"),
         };
         let response = await fetch(url, {
           method: 'POST',
@@ -117,7 +175,11 @@ th {
           body: JSON.stringify(data),
         });
         let respData = await response.json();
-        this.assignments[assignment].repo = "https://github.com/cos316/" + respData.name;
+        if (respData["error"]) {
+          alert(respData["error"]);
+        } else {
+          this.assignments[assignment].repo = "https://github.com/cos316/" + respData.name;
+        }
       },
       me: async function(jwt) {
         if (jwt) {
@@ -154,9 +216,9 @@ th {
               'Authorization': 'Bearer ' + this.jwt
           }),
         });
+        let now = new Date();
         let baseAssignments = Object.fromEntries(Object.entries((await response.json())).map(([k,v]) => [k, JSON.parse(v)]))["cos316/assignments"];
-        let keys = Object.keys(baseAssignments);
-        keys = keys.map((key) => "cos316/assignments/" + key + "/" + this.user);
+        let keys = Object.entries(baseAssignments).filter(([k,v]) => now >= new Date(v["release_date"])).map(([key, v]) =>  "cos316/assignments/" + key + "/" + this.user);
         let url = new URL(baseUrl);
         url.pathname = "/get";
         url.searchParams.append("keys", keys);; 
@@ -188,7 +250,7 @@ th {
       enrolledStudents: function() {
         if (this.enrollments) {
           return Object.entries(this.enrollments)
-                  .filter(([key, value]) => value.type == "StudentEnrollment")
+                  .filter(([key, value]) => value.type == "StudentEnrollment" && (key + "@princeton.edu") != this.user)
                   .map(([key, value]) => Object.assign({netid: key}, value))
                   .sort((student1, student2) => {
                     if (student1["last"] == student2["last"]) {
@@ -210,7 +272,7 @@ th {
         if (newGhUser) {
           this.getAssignments();
         }
-      }
+      },
     }
   })
 </script>
