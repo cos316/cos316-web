@@ -67,7 +67,7 @@ th {
       return {
         partnerSearch: "",
         searchStudents: [],
-        partners: [],
+        partners: new Set(),
         showRoster: false,
       };
     },
@@ -92,13 +92,13 @@ th {
     },
     template: `
       <div>
-        <p v-if="partners.length > 0">
+        <p v-if="partners.size > 0">
           You've chosen to work with
-          <span v-for="(partner, idx) in partners"><em>{{ partner.name }} ({{ partner.netid }})</em><span v-if="idx + 1 < partners.length">, </span></span>.
+          <span v-for="(partner, idx) in partners"><em>{{ partner.name }} ({{ partner.netid }})</em><span v-if="idx + 1 < partners.size">, </span></span>.
         </p>
-        <template v-if="(assignment.assignment.group_size || 0) - partners.length > 1">
+        <template v-if="(assignment.assignment.group_size || 0) - partners.size > 1">
         <p>This is a group assignment, you must choose {{
-        assignment.assignment.group_size - 1 - partners.length }} more classmate(s) to work
+        assignment.assignment.group_size - 1 - partners.size }} more classmate(s) to work
         with. <em>Do not add people to your team without the permission from them</em>.</p>
         <p>
         <input type="search" placeholder="Find a partner by name or NetID" id="partner_search" style="padding: 1em; font-size: 1.2em; width: 25em;" v-model="partnerSearch"/>
@@ -158,13 +158,13 @@ th {
     },
     methods: {
       start: async function(assignment, partners) {
-        console.log(arguments);
         this.$set(this.starting, assignment, true);
         let url = new URL(baseUrl);
         url.pathname = "/assignments";
+        partners.add(this.user);
         let data = {
             assignment: assignment,
-            users: partners.map(partner => partner.netid + "@princeton.edu").concat(this.user),
+            users: Array.from(partners).map(partner => partner.netid + "@princeton.edu"),
         };
         let response = await fetch(url, {
           method: 'POST',
@@ -250,7 +250,7 @@ th {
       enrolledStudents: function() {
         if (this.enrollments) {
           return Object.entries(this.enrollments)
-                  .filter(([key, value]) => value.type == "StudentEnrollment")
+                  .filter(([key, value]) => value.type == "StudentEnrollment" && (key + "@princeton.edu") != this.user)
                   .map(([key, value]) => Object.assign({netid: key}, value))
                   .sort((student1, student2) => {
                     if (student1["last"] == student2["last"]) {
