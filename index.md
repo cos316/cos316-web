@@ -46,7 +46,9 @@ COS 307/[Zoom](https://princeton.zoom.us/j/99461859886)
 
 * ![](/images/staff/jenn-rexford.jpg)\
 Prof. Jennifer Rexford\
-Office Hours: TBD
+Office Hours:
+Thu. 3:30-4:30pm\
+COS 207/[Zoom](https://princeton.zoom.us/j/98330151609)
 
 {:.staff}
 * ![](images/staff/qingchen-dang.jpg)\
