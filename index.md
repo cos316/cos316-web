@@ -73,7 +73,7 @@ Wed. 11am-12pm
 * ![](/images/staff/john-yang.jpg)\
 John Yang\
 Office Hours:
-Wed. 11am-12pm\
+Wed. 5pm-6pm\
 [Zoom](https://princeton.zoom.us/j/4233501129)
 
 <!--[Ed discussion board]: https://us.edstem.org/courses/2353/discussion/-->
