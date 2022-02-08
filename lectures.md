@@ -11,7 +11,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 1/27  | Course Overview  | Jennifer Rexford | [L02](/lectures/L02-overview.pdf) | | |
 | 2/01  | **Naming**       | Amit Levy   | [L03](/lectures/L03-naming.pdf)  | | |
 | 2/03  | Unix File System | Amit Levy   | [L04](/lectures/L04-unix-fs.pdf)  | [PDF](/notes/Naming in UNIX File Systems.pdf) | |
-| 2/08  | Git              | Amit Levy   |   | | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
+| 2/08  | Git              | Amit Levy   | [L05](/lectures/L05-git.pdf)  | [PDF](/notes/Content Addressable Storage & Git.pdf) | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
 | 2/10  | Network Naming   | Jennifer Rexford | [L06](/lectures/L06-network-naming.pdf)  | | |
 | 2/15  | **Caching**      | Amit Levy   |   | | |
 | 2/17  | CPU Caching      | Amit Levy   |   | | |
