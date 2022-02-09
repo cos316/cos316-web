@@ -116,7 +116,7 @@ th {
             <tr v-for="student in searched">
               <td width="7em"><a href="#" v-on:click="select(student)">Select</a></td>
               <td>{{student.name}}</td>
-              <td><a v-bind:href="'mailto:' + student.netid + '@princeton.edu?Subject=Work+together+on+COS316+assignment%3F'" target="new">{{student.netid}}@princeton.edu</a></td>
+              <td><a v-bind:href="'mailto:' + student.email + '?Subject=Work+together+on+COS316+assignment%3F'" target="new">{{student.email}}</a></td>
             </tr>
           </table>
         </div>
@@ -218,7 +218,11 @@ th {
         });
         let now = new Date();
         let baseAssignments = Object.fromEntries(Object.entries((await response.json())).map(([k,v]) => [k, JSON.parse(v)]))["cos316/assignments"];
-        let keys = Object.entries(baseAssignments).filter(([k,v]) => now >= new Date(v["release_date"])).map(([key, v]) =>  "cos316/assignments/" + key + "/" + this.user);
+        let keys = Object.entries(baseAssignments)
+        if (window.location.search != "?prerelease") {
+          keys = keys.filter(([k,v]) => now >= new Date(v["release_date"]));
+        }
+        keys = keys.map(([key, v]) =>  "cos316/assignments/" + key + "/" + this.user);
         let url = new URL(baseUrl);
         url.pathname = "/get";
         url.searchParams.append("keys", keys);; 
@@ -249,8 +253,10 @@ th {
     computed: {
       enrolledStudents: function() {
         if (this.enrollments) {
+          let kind = Object.entries(this.enrollments)
+                      .find(([k, v]) => v.email == this.user)[1].type;
           return Object.entries(this.enrollments)
-                  .filter(([key, value]) => value.type == "StudentEnrollment" && (key + "@princeton.edu") != this.user)
+                  .filter(([key, value]) => value.type == kind && value.email != this.user)
                   .map(([key, value]) => Object.assign({netid: key}, value))
                   .sort((student1, student2) => {
                     if (student1["last"] == student2["last"]) {
