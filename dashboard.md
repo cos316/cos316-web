@@ -73,18 +73,21 @@ th {
     },
     methods: {
       select: function(student) {
-        this.partnerSearch = "";
         this.partners.add(student);
+        this.$forceUpdate();
+        this.partnerSearch = "";
       }
     },
     computed: {
       searched: function() {
         let prtnr = this.partnerSearch.toLowerCase();
-        if (prtnr.length > 0 || this.showRoster) {
+        if (prtnr.length > 0) {
           return this.roster.filter((student) =>
             student.name.toLowerCase().includes(prtnr) ||
             student.netid.toLowerCase().includes(prtnr)
           );
+        } else if (this.showRoster) {
+          return this.roster;
         } else {
           return [];
         }
