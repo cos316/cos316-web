@@ -37,6 +37,17 @@ Late assignment penalties will be waived only in the case of
 unforeseeable circumstances like medical emergencies, as documented by
 your Dean or Director of Studies and with our approval.
 
+## Problem Sets
+
+|      | DATE DUE               |
+|------| -----------------------|
+|PSET 1| 02/16                  |
+|PSET 2| 02/25                  |
+|PSET 3| 03/18                  |
+|PSET 4| 03/30                  |
+|PSET 5| 04/13                  |
+|PSET 6| 04/22                  |
+
 ## Programming Assignments
 
 You will complete programming assignments in groups of two (except assignment
