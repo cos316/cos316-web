@@ -16,7 +16,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 2/15  | **Caching**      | Amit Levy   | [L07](/lectures/L07-caching.pdf) | | |
 | 2/17  | CPU Caching      | Amit Levy   |   | | |
 | 2/22  | CDN Caching      | Jennifer Rexford |   | | |
-| 2/24  | TBD (Research)   | Jennifer Rexford |   |
+| 2/24  | NetCache (Research)   | Jennifer Rexford |   |
 | 3/01 | **Layering** (in Networking)  | Jennifer Rexford |   | | |
 | 3/03 | The Cloud  | Amit Levy   |   | | |
 | 3/08 |  *SPRING BREAK*   | | | | |
