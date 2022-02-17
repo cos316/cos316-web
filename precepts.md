@@ -19,9 +19,9 @@ Precept slides:
 | 1/27  | Go       | [PDF](/precepts/Go-Programming.pdf) |
 | 2/03  | Sockets  | [PDF](/precepts/Socket-Programming.pdf) |
 | 2/10  | HTTP     | [PDF](/precepts/HTTP.pdf) |
+| 2/17  | Tests and Benchmarks | [PDF](/precepts/Testing-and-Benchmarking.pdf) |
 
 <!--
-| 2/17  | Tests and Benchmarks | [PDF](/precepts/Testing-and-Benchmarking.pdf) |
 | 2/24  | Caches   | [PDF](/precepts/Cache-Eviction.pdf) |
 | 3/03  | SQL      | [PDF](/precepts/SQL.pdf) |
 | 3/10  | Reflection | [PDF](/precepts/Reflection1.pdf) |
