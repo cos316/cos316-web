@@ -14,7 +14,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 2/08  | Git              | Amit Levy   | [L05](/lectures/L05-git.pdf)  | [PDF](/notes/Content Addressable Storage & Git.pdf) | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
 | 2/10  | Network Naming   | Jennifer Rexford | [L06](/lectures/L06-network-naming.pdf)  | | |
 | 2/15  | **Caching**      | Amit Levy   | [L07](/lectures/L07-caching.pdf) | | |
-| 2/17  | CPU Caching      | Amit Levy   |   | | |
+| 2/17  | CPU Caching      | Amit Levy   | [L08](/lectures/L08-cpucache.pdf)  | | |
 | 2/22  | CDN Caching      | Jennifer Rexford |   | | |
 | 2/24  | NetCache (Research)   | Jennifer Rexford |   | | [NetCache: Balancing Key-Value Stores with Fast In-Network Caching](/readings/netcache.pdf) |
 | 3/01 | **Layering** (in Networking)  | Jennifer Rexford |   | | |
