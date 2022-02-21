@@ -257,9 +257,9 @@ th {
       enrolledStudents: function() {
         if (this.enrollments) {
           let kind = Object.entries(this.enrollments)
-                      .find(([k, v]) => v.email == this.user)[1].type;
+                      .find(([k, v]) => v.email == this.user.toLowerCase())[1].type;
           return Object.entries(this.enrollments)
-                  .filter(([key, value]) => value.type == kind && value.email != this.user)
+                  .filter(([key, value]) => value.type == kind && value.email != this.user.toLowerCase())
                   .map(([key, value]) => Object.assign({netid: key}, value))
                   .sort((student1, student2) => {
                     if (student1["last"] == student2["last"]) {
