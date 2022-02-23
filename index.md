@@ -54,12 +54,14 @@ COS 207/[Zoom](https://princeton.zoom.us/j/98330151609)
 * ![](images/staff/qingchen-dang.jpg)\
 Qingchen Dang\
 Office Hours:
-Fri. 1pm-2pm
+Fri. 1pm-2pm\
+[Zoom](https://princeton.zoom.us/j/99777951345)
 
 * ![](images/staff/mary-hogan.jpg)\
 Mary Hogan\
 Office Hours:
-Tue. 1pm-2pm
+Tue. 1pm-2pm\
+[Zoom](https://princeton.zoom.us/j/3627976305)
 
 * ![](images/staff/julian-knodt.png)\
 Julian Knodt\
@@ -70,7 +72,8 @@ Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
 * ![](images/staff/natalie-popescu.png)\
 Natalie Popescu\
 Office Hours:
-Wed. 11am-12pm
+Wed. 11am-12pm\
+[Zoom](https://princeton.zoom.us/my/npopescu)
 
 * ![](/images/staff/john-yang.jpg)\
 John Yang\
