@@ -16,7 +16,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 2/15  | **Caching**      | Amit Levy   | [L07](/lectures/L07-caching.pdf) | | |
 | 2/17  | CPU Caching      | Amit Levy   | [L08](/lectures/L08-cpucache.pdf)  | | |
 | 2/22  | Web Caching      | Jennifer Rexford |[L09](/lectures/L09-cdn-caching.pdf)  | | |
-| 2/24  | NetCache (Research)   | Jennifer Rexford |   | | [NetCache: Balancing Key-Value Stores with Fast In-Network Caching](/readings/netcache.pdf) |
+| 2/24  | NetCache (Research)   | Jennifer Rexford |[L10](/lectures/L10-NetCache.pdf)   | | [NetCache: Balancing Key-Value Stores with Fast In-Network Caching](/readings/netcache.pdf) |
 | 3/01 | **Layering** (in Networking)  | Jennifer Rexford |   | | |
 | 3/03 | The Cloud  | Amit Levy   |   | | |
 | 3/08 |  *SPRING BREAK*   | | | | |
