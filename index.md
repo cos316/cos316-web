@@ -72,7 +72,7 @@ Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
 * ![](images/staff/natalie-popescu.png)\
 Natalie Popescu\
 Office Hours:
-Wed. 11am-12pm\
+Wed. 10am-11am\
 [Zoom](https://princeton.zoom.us/my/npopescu)
 
 * ![](/images/staff/john-yang.jpg)\
