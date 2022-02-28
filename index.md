@@ -3,7 +3,7 @@ layout: default
 ---
 
 {:.announce}
-Assignment 2 is released! Go to the [dashboard](/dashboard) to get started!
+Assignment 3 is released! Go to the [dashboard](/dashboard) to get started!
 
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Spring 2022.
@@ -72,7 +72,7 @@ Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
 * ![](images/staff/natalie-popescu.png)\
 Natalie Popescu\
 Office Hours:
-Wed. 11am-12pm\
+Wed. 10am-11am\
 [Zoom](https://princeton.zoom.us/my/npopescu)
 
 * ![](/images/staff/john-yang.jpg)\
