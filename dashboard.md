@@ -124,7 +124,7 @@ th {
           </table>
         </div>
         </template>
-        <template v-else>
+        <template>
         <p>
           To begin working on this assignment, we need to create a repository for you.
           <a href="#" v-on:click="$emit('start', assignmentKey, partners)">Click here to start</a>
