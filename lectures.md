@@ -30,7 +30,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 4/05 | **Access Control** | Amit Levy   |   | | |
 | 4/07 | Capabilities      | Amit Levy   |   | | |
 | 4/12 | Mandatory Access & Information Flow | Amit Levy   |   | | |
-| 4/14 | TBD (Research)  | Amit Levy   |   |
+| 4/14 | Network Access Control  | Jennifer Rexford   |   |
 | 4/19 | **Tying It All Together**    | Jennifer Rexford |   | | |
 | 4/21 | **Ask Us Anything** | Amit Levy & Jennifer Rexford | | | No slides, come with your questions about systems. |
  
