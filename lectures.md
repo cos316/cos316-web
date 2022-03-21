@@ -21,7 +21,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 3/03 | The Cloud  | Amit Levy   | [L11](/lectures/L11-the-cloud.pdf)  | | |
 | 3/08 |  *SPRING BREAK*   | | | | |
 | 3/10 |  *SPRING BREAK*   | | | | |
-| 3/15 | "Hey, you, get off of my cloud" (Research) | Amit Levy   |   | | [Hey, you, get off my cloud: Exploring Information Leakage in Third-Party Compute Clouds](/readings/cloudsec.pdf) |
+| 3/15 | "Hey, you, get off of my cloud" (Research) | Amit Levy   | [L12](/lectures/L12-hey-you.pdf) | | [Hey, you, get off my cloud: Exploring Information Leakage in Third-Party Compute Clouds](/readings/cloudsec.pdf) |
 | 3/17 | **Resource Allocation** (Congestion Control)   | Jennifer Rexford | [L13](/lectures/L13-congestion.pdf)  |
 | 3/22 | Tock (Research)    | Amit Levy   |   | | [Multiprogrammming a 64kB Computer Safely and Efficiently](/readings/tock.pdf) |
 | 3/24 | **Concurrency**   | Jennifer Rexford |   |
