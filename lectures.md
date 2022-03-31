@@ -25,7 +25,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 3/17 | **Resource Allocation** (Congestion Control)   | Jennifer Rexford | [L13](/lectures/L13-congestion.pdf)  |
 | 3/22 | Tock (Research)    | Amit Levy   | [L14](/lectures/L14-tock.pdf)  | | [Multiprogrammming a 64kB Computer Safely and Efficiently](/readings/tock.pdf) |
 | 3/24 | **Concurrency**   | Jennifer Rexford | [L15](/lectures/L15-concurrency-time.pdf)   |
-| 3/29 | Logical Time      | Amit Levy |   | | |
+| 3/29 | Logical Time      | Amit Levy | [L16](/lectures/L16-more-time.pdf)  | | |
 | 3/31 | Consistency Models | Amit Levy |   | | |
 | 4/05 | **Access Control** | Amit Levy   |   | | |
 | 4/07 | Capabilities      | Amit Levy   |   | | |
