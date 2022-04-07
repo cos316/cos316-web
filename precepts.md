@@ -25,7 +25,7 @@ Precept slides:
 | 3/17  | Reflection | [PDF](/precepts/Reflection1.pdf) |
 | 3/24  | Reflection - 2 | [PDF](/precepts/Reflection2.pdf) |
 | 3/31  | Concurrency | [PDF](/precepts/Concurrency1.pdf) |
+| 4/07  | Concurrency - 2 | [PDF](/precepts/Concurrency2.pdf) |
 
 <!--
-| 4/07  | Concurrency - 2 | [PDF](/precepts/Concurrency2.pdf) |
 -->
