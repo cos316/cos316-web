@@ -31,6 +31,6 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 4/07 | ACLs & Capabilities | Amit Levy   | [L19](/lectures/L19-acl-capabilities.pdf)   | | |
 | 4/12 | Mandatory Access & Information Flow | Amit Levy | [L21](/lectures/L21-mac.pdf) | | |
 | 4/14 | Network Access Control  | Jennifer Rexford   | [L21](/lectures/L21-nacl.pdf)   |
-| 4/19 | **Tying It All Together**    | Jennifer Rexford |[L22](/lectures/L22-wrapup.pdf)   | | |
+| 4/19 | **Tying It All Together**    | Jennifer Rexford |[L22](/lectures/L23-wrapup.pdf)   | | |
 | 4/21 | **Ask Us Anything** | Amit Levy & Jennifer Rexford | | | No slides, come with your questions about systems. |
  
