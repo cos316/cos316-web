@@ -18,7 +18,7 @@ your final project topic during precepts.
 
 ### Deliverables
 
-You will have three deliverables due on Dean's Date: 5pm Princeton Time on December 8, 2020. They are:
+You will have three deliverables due on Dean's Date: 5pm Princeton Time on May 3rd, 2022. They are:
 1. A tarball with your code and tests.
 2. A 2-page project report.
 3. A video demo of your project that is 5 minutes or less.
@@ -38,7 +38,7 @@ Your video demo should be at most 5 minutes long. (Shorter is fine.) It should s
 
 ### Submission
 
-You will submit your deliverables using [tiger file](https://tigerfile.cs.princeton.edu/COS316_F2020/Final_Project).
+You will submit your deliverables using [tiger file](https://tigerfile.cs.princeton.edu/COS316_S2022/Final_Project).
 
 ### Example project ideas:
 
@@ -53,4 +53,3 @@ Assignment 4 (ORM): Add selection and projection operations
 
 Assignment 5 (connection pool): Compare a mutex vs. channel based implementation of a pool
 
-Assignment 6 (access control): Client or server side of an  Single-Sign-On SSO protocol (e.g., CAS, OAuth, OpenID)
