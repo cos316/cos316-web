@@ -14,11 +14,11 @@
 
 <body>
     <header>
-        <a id="logo" href="/"> <img src="{{ site.base_url  }}images/shield.png">
+        <a id="logo" href="{% link index.md %}"> <img src="{{ site.base_url  }}images/shield.png">
             <h1><b>COS</b>316</h1>
         </a>
         <ul id="links">
-            <li><a href="/">Home</a></li>
+            <li><a href="{% link index.md %}">Home</a></li>
             <li><a href="{% link lectures.md %}">Lectures</a></li>
             <li><a href="{% link precepts.md %}">Precepts</a></li>
             <li><a href="{% link assignments.md %}">Assignments/PSETS</a></li>
