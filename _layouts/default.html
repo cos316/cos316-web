@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" type="text/css" href="/css/nav.css">
-    <link rel="stylesheet" type="text/css" href="/css/page.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.base_url  }}css/nav.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.base_url  }}css/page.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css">
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js'></script>
     <link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/vnd.microsoft.icon" />
@@ -14,15 +14,15 @@
 
 <body>
     <header>
-        <a id="logo" href="/"> <img src="/images/shield.png">
+        <a id="logo" href="/"> <img src="{{ site.base_url  }}images/shield.png">
             <h1><b>COS</b>316</h1>
         </a>
         <ul id="links">
             <li><a href="/">Home</a></li>
-            <li><a href="/lectures">Lectures</a></li>
-            <li><a href="/precepts">Precepts</a></li>
-            <li><a href="/assignments">Assignments/PSETS</a></li>
-            <li><a href="/dashboard">Assignment Dashboard</a></li>
+            <li><a href="{% link lectures.md %}">Lectures</a></li>
+            <li><a href="{% link precepts.md %}">Precepts</a></li>
+            <li><a href="{% link assignments.md %}">Assignments/PSETS</a></li>
+            <li><a href="{% link dashboard.md %}">Assignment Dashboard</a></li>
             <!--li><a href="/final">Final Project</a></li-->
             <!--li><a href="/calendar">Calendar</a></li-->
         </ul>

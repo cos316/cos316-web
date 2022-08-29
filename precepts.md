@@ -16,16 +16,16 @@ Precept slides:
 
 |Date   | Topic    | Materials      |
 |-------|----------|----------------|
-| 1/27  | Go       | [PDF](/precepts/Go-Programming.pdf) |
-| 2/03  | Sockets  | [PDF](/precepts/Socket-Programming.pdf) |
-| 2/10  | HTTP     | [PDF](/precepts/HTTP.pdf) |
-| 2/17  | Tests and Benchmarks | [PDF](/precepts/Testing-and-Benchmarking.pdf) |
-| 2/24  | Caches   | [PDF](/precepts/Cache-Eviction.pdf) |
-| 3/03  | SQL      | [PDF](/precepts/SQL.pdf) |
-| 3/17  | Reflection | [PDF](/precepts/Reflection1.pdf) |
-| 3/24  | Reflection - 2 | [PDF](/precepts/Reflection2.pdf) |
-| 3/31  | Concurrency | [PDF](/precepts/Concurrency1.pdf) |
-| 4/07  | Concurrency - 2 | [PDF](/precepts/Concurrency2.pdf) |
+| 1/27  | Go       | [PDF]({% link precepts/Go-Programming.pdf %}) |
+| 2/03  | Sockets  | [PDF]({% link precepts/Socket-Programming.pdf %}) |
+| 2/10  | HTTP     | [PDF]({% link precepts/HTTP.pdf %}) |
+| 2/17  | Tests and Benchmarks | [PDF]({% link precepts/Testing-and-Benchmarking.pdf %}) |
+| 2/24  | Caches   | [PDF]({% link precepts/Cache-Eviction.pdf %}) |
+| 3/03  | SQL      | [PDF]({% link precepts/SQL.pdf %}) |
+| 3/17  | Reflection | [PDF]({% link precepts/Reflection1.pdf %}) |
+| 3/24  | Reflection - 2 | [PDF]({% link precepts/Reflection2.pdf %}) |
+| 3/31  | Concurrency | [PDF]({% link precepts/Concurrency1.pdf %}) |
+| 4/07  | Concurrency - 2 | [PDF]({% link precepts/Concurrency2.pdf %}) |
 
 <!--
 -->

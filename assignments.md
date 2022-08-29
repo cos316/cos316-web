@@ -6,7 +6,7 @@ layout: default
 ## Overview
 
 Course evaluation consists of programming assignments and problem sets,
-generally due on alternating weeks, as well as a [final project](/final).
+generally due on alternating weeks, as well as a [final project]({% link final.md %}).
 
 Problem sets review material from lecture and must be done **individually**.
 They are to be completed on Gradescope and will be posted to the [Ed Discussion
@@ -61,7 +61,7 @@ In other words, there is no penalty for pushing regularly to your repository,
 and you should know within a few minutes how much of the assignment you've
 successfully completed.
 
-To begin working on a released assignment, using the assignment [dashboard](/dashboard).
+To begin working on a released assignment, using the assignment [dashboard]({% link dashboard.md %}).
 
 
 |            | DATE DUE               |TOPIC                     |

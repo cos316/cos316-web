@@ -3,7 +3,7 @@ layout: default
 ---
 
 {:.announce}
-Assignment 5 is released! Go to the [dashboard](/dashboard) to get started!
+Assignment 5 is released! Go to the [dashboard](dashboard) to get started!
 
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Spring 2022.
@@ -38,13 +38,13 @@ on-line.
 You may contact course staff via the Ed discussion board. Office hours are in Princeton time (EST).
 
 {:.staff}
-* ![](/images/staff/amit-levy.jpg)\
+* ![](images/staff/amit-levy.jpg)\
 Prof. Amit Levy\
 Office Hours:
 Tue. 11am-12pm\
 COS 307/[Zoom](https://princeton.zoom.us/j/99461859886)
 
-* ![](/images/staff/jenn-rexford.jpg)\
+* ![](images/staff/jenn-rexford.jpg)\
 Prof. Jennifer Rexford\
 Office Hours:
 Thu. 3:30-4:30pm\
@@ -75,7 +75,7 @@ Office Hours:
 Wed. 10am-11am\
 [Zoom](https://princeton.zoom.us/my/npopescu)
 
-* ![](/images/staff/john-yang.jpg)\
+* ![](images/staff/john-yang.jpg)\
 John Yang\
 Office Hours:
 Wed. 5pm-6pm\
