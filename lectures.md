@@ -5,6 +5,8 @@ layout: default
 
 Lectures meet on Tuesday and Thursday 10:00-10:50am
 
+<!--
+
 |Date   | Topic | Instructor | Slides| Notes | Reading |
 |-------|-------|------------|-------|-------|------------|
 | 1/25  | What is a System? | Jennifer Rexford | [L01]({% link lectures/L01-systems.pdf %}) | | |
@@ -34,3 +36,4 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 4/19 | **Tying It All Together**    | Jennifer Rexford |[L22]({% link lectures/L23-wrapup.pdf %})   | | |
 | 4/21 | **Ask Us Anything** | Amit Levy & Jennifer Rexford | | | No slides, come with your questions about systems. |
  
+-->

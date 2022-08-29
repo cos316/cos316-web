@@ -39,14 +39,14 @@ your Dean or Director of Studies and with our approval.
 
 ## Problem Sets
 
-|      | DATE DUE               |
-|------| -----------------------|
-|PSET 1| 02/16                  |
-|PSET 2| 02/25                  |
-|PSET 3| 03/18                  |
-|PSET 4| 03/30                  |
-|PSET 5| 04/15                  |
-|PSET 6| 04/22                  |
+|        | DATE DUE |
+|--------|----------|
+| PSET 1 |          |
+| PSET 2 |          |
+| PSET 3 |          |
+| PSET 4 |          |
+| PSET 5 |          |
+| PSET 6 |          |
 
 ## Programming Assignments
 
@@ -64,14 +64,14 @@ successfully completed.
 To begin working on a released assignment, using the assignment [dashboard]({% link dashboard.md %}).
 
 
-|            | DATE DUE               |TOPIC                     |
-|------------| -----------------------|--------------------------|
-|Assignment 0| 02/02                  | Development Environment  |
-|Assignment 1| 02/09                  | Socket programming       |
-|Assignment 2| 02/23                  | HTTP Routing Framework   |
-|Assignment 3| 03/04                  | In-memory cache          |
-|Assignment 4| 03/30                  | Object Relational Mapper |
-|Assignment 5| 04/20                  | Connection pool          |
+|              | DATE DUE | TOPIC                    |
+|--------------|----------|--------------------------|
+| Assignment 0 |          | Development Environment  |
+| Assignment 1 |          | Socket programming       |
+| Assignment 2 |          | HTTP Routing Framework   |
+| Assignment 3 |          | In-memory cache          |
+| Assignment 4 |          | Object Relational Mapper |
+| Assignment 5 |          | Connection pool          |
 
 ## Collaboration Policy
 

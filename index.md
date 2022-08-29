@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{:.announce}
-Assignment 5 is released! Go to the [dashboard](dashboard) to get started!
-
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Spring 2022.
 
@@ -42,43 +39,15 @@ You may contact course staff via the Ed discussion board. Office hours are in Pr
 Prof. Amit Levy\
 Office Hours:
 Tue. 11am-12pm\
-COS 307/[Zoom](https://princeton.zoom.us/j/99461859886)
+COS 307
 
-* ![](images/staff/jenn-rexford.jpg)\
-Prof. Jennifer Rexford\
+* ![](images/staff/ravi-netravali.jpg)\
+Prof. Ravi Netravali\
 Office Hours:
-Thu. 3:30-4:30pm\
-COS 207/[Zoom](https://princeton.zoom.us/j/98330151609)
+Thu. 11am-12pm\
+TBD
+
 
 {:.staff}
-* ![](images/staff/qingchen-dang.jpg)\
-Qingchen Dang\
-Office Hours:
-Fri. 1pm-2pm\
-[Zoom](https://princeton.zoom.us/j/99777951345)
-
-* ![](images/staff/mary-hogan.jpg)\
-Mary Hogan\
-Office Hours:
-Tue. 1pm-2pm\
-[Zoom](https://princeton.zoom.us/j/3627976305)
-
-* ![](images/staff/julian-knodt.png)\
-Julian Knodt\
-Office Hours:
-Mon. 2pm-3pm\
-Friend 010/[Zoom](https://princeton.zoom.us/my/jknodt)
-
-* ![](images/staff/natalie-popescu.png)\
-Natalie Popescu\
-Office Hours:
-Wed. 10am-11am\
-[Zoom](https://princeton.zoom.us/my/npopescu)
-
-* ![](images/staff/john-yang.jpg)\
-John Yang\
-Office Hours:
-Wed. 5pm-6pm\
-[Zoom](https://princeton.zoom.us/j/4233501129)
 
 <!--[Ed discussion board]: https://us.edstem.org/courses/2353/discussion/-->
