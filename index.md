@@ -70,7 +70,7 @@ TBD
 * ![](images/staff/nobody.jpg)\
 Wei Luo\
 Office Hours:
-Fri. 2:30pm-3:30pm\
+Thu. 2:30pm-3:30pm\
 TBD
 
 * ![](images/staff/me_princeton.jpg)\
