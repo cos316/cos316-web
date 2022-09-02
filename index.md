@@ -7,10 +7,9 @@ Design, Spring 2022.
 
 ### Quick Links
 
-  * [Ed Discussion Board](https://edstem.org/us/courses/19325)
-  * [Lecture Zoom Link](https://princeton.zoom.us/j/99476809145) (if you can't attend lecture due to isolation)
+  * [Ed Discussion Board](https://edstem.org/)
 
-**Time** Lectures are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays.
+**Time** [Lectures](lectures) are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays.
 
 **Location** [Computer Science Building](https://api.princeton.edu/campus-map/link?id=0167), Room 104, and [Zoom link](https://princeton.zoom.us/j/99476809145)
 
@@ -50,4 +49,46 @@ TBD
 
 {:.staff}
 
+* ![](images/staff/nobody.jpg)\
+Neil Agarwal\
+Office Hours:
+Mon. 3:30-4:30pm\
+TBD
+
+* ![](images/staff/nobody.jpg)\
+Shai Caspin\
+Office Hours:
+Tue. TBD\
+TBD
+
+* ![](images/staff/nobody.jpg)\
+Nicolaas Kaashoek\
+Office Hours:
+Wed. 10am-11am\
+TBD
+
+* ![](images/staff/nobody.jpg)\
+Wei Luo\
+Office Hours:
+Fri. 2:30pm-3:30pm\
+TBD
+
+* ![](images/staff/nobody.jpg)\
+Zhenyu Song\
+Office Hours:
+Mon. 11am-12pm\
+TBD
+
+
+* ![](images/staff/nobody.jpg)\
+Yue Tan\
+Office Hours:
+Fri. 11am-12pm\
+TBD
+
+* ![](images/staff/nobody.jpg)\
+Ryan Torok\
+Office Hours:
+Fri. 3:30pm-4:30pm\
+TBD
 <!--[Ed discussion board]: https://us.edstem.org/courses/2353/discussion/-->
