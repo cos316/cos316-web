@@ -61,7 +61,7 @@ Office Hours:
 Tue. TBD\
 TBD
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/nick-kaashoek.jpg)\
 Nicolaas Kaashoek\
 Office Hours:
 Wed. 10am-11am\
