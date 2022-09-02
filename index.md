@@ -55,7 +55,7 @@ Office Hours:
 Mon. 3:30-4:30pm\
 TBD
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/shai.jpg)\
 Shai Caspin\
 Office Hours:
 Tue. TBD\
