@@ -67,7 +67,7 @@ Office Hours:
 Wed. 10am-11am\
 TBD
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/wei-luo.jpg)\
 Wei Luo\
 Office Hours:
 Thu. 2:30pm-3:30pm\
