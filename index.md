@@ -73,11 +73,11 @@ Office Hours:
 Fri. 2:30pm-3:30pm\
 TBD
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/me_princeton.jpg)\
 Zhenyu Song\
 Office Hours:
 Mon. 11am-12pm\
-TBD
+Research area: machine learning to improve system design.
 
 
 * ![](images/staff/nobody.jpg)\
