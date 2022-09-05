@@ -3,15 +3,15 @@ layout: default
 ---
 
 Welcome to the homepage for COS 316, Principles of Computer System
-Design, Spring 2022.
+Design, Fall 2022.
 
 ### Quick Links
 
-  * [Ed Discussion Board](https://edstem.org/)
+  * [Ed Discussion Board](https://edstem.org/us/courses/23475)
 
 **Time** [Lectures](lectures) are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays.
 
-**Location** [Computer Science Building](https://api.princeton.edu/campus-map/link?id=0167), Room 104, and [Zoom link](https://princeton.zoom.us/j/99476809145)
+**Location** [Computer Science Building](https://api.princeton.edu/campus-map/link?id=0167), Room 104
 
 **Description.** This course teaches students the design,
 implementation, and evaluation of computer systems, including operating
@@ -31,7 +31,8 @@ on-line.
 
 ## Course Staff
 
-You may contact course staff via the Ed discussion board. Office hours are in Princeton time (EST).
+You may contact course staff via the Ed discussion board. Office hours are in
+Princeton (Eastern) time.
 
 {:.staff}
 * ![](images/staff/amit-levy.jpg)\
@@ -91,4 +92,3 @@ Ryan Torok\
 Office Hours:
 Fri. 3:30pm-4:30pm\
 TBD
-<!--[Ed discussion board]: https://us.edstem.org/courses/2353/discussion/-->
