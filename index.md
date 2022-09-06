@@ -50,7 +50,7 @@ TBD
 
 {:.staff}
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/neil-agarwal.jpg)\
 Neil Agarwal\
 Office Hours:
 Mon. 3:30-4:30pm\
