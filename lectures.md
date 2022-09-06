@@ -5,11 +5,12 @@ layout: default
 
 Lectures meet on Tuesday and Thursday 10:00-10:50am
 
-<!--
 
 |Date   | Topic | Instructor | Slides| Notes | Reading |
 |-------|-------|------------|-------|-------|------------|
-| 1/25  | What is a System? | Jennifer Rexford | [L01]({% link lectures/L01-systems.pdf %}) | | |
+| 9/06  | What is a System? | Amit Levy | [L01]({% link lectures/L01-systems.pdf %}) | | |
+
+<!--
 | 1/27  | Course Overview  | Jennifer Rexford | [L02]({% link lectures/L02-overview.pdf %}) | | |
 | 2/01  | **Naming**       | Amit Levy   | [L03]({% link lectures/L03-naming.pdf %})  | | |
 | 2/03  | Unix File System | Amit Levy   | [L04]({% link lectures/L04-unix-fs.pdf %})  | [PDF]({% link notes/Naming in UNIX File Systems.pdf %}) | |
