@@ -74,20 +74,20 @@ Office Hours:
 Thu. 2:30pm-3:30pm\
 TBD
 
-* ![](images/staff/me_princeton.jpg)\
+* ![](images/staff/zhenyu-song.jpg)\
 Zhenyu Song\
 Office Hours:
 Mon. 11am-12pm\
 TBD
 
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/yue-tan.jpg)\
 Yue Tan\
 Office Hours:
 Fri. 11am-12pm\
 TBD
 
-* ![](images/staff/nobody.jpg)\
+* ![](images/staff/ryan-torok.jpg)\
 Ryan Torok\
 Office Hours:
 Fri. 3:30pm-4:30pm\
