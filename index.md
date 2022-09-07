@@ -78,7 +78,7 @@ TBD
 Zhenyu Song\
 Office Hours:
 Mon. 11am-12pm\
-TBD
+COS 401
 
 
 * ![](images/staff/yue-tan.jpg)\
