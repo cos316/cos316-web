@@ -72,7 +72,7 @@ COS 401
 Wei Luo\
 Office Hours:
 Thu. 2:30pm-3:30pm\
-TBD
+COS 401
 
 * ![](images/staff/zhenyu-song.jpg)\
 Zhenyu Song\
