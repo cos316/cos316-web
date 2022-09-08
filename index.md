@@ -66,7 +66,7 @@ TBD
 Nicolaas Kaashoek\
 Office Hours:
 Wed. 10am-11am\
-TBD
+COS 401
 
 * ![](images/staff/wei-luo.jpg)\
 Wei Luo\
