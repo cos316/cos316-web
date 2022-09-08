@@ -9,6 +9,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 |Date   | Topic | Instructor | Slides| Notes | Reading |
 |-------|-------|------------|-------|-------|------------|
 | 9/06  | What is a System? | Amit Levy | [L01]({% link lectures/L01-systems.pdf %}) | | |
+| 9/06  | Course Overview | Ravi Netravali | [L02]({% link lectures/L02-overview.pdf %}) | | |
 
 <!--
 | 1/27  | Course Overview  | Jennifer Rexford | [L02]({% link lectures/L02-overview.pdf %}) | | |
