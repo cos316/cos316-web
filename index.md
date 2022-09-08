@@ -53,7 +53,7 @@ COS 322
 * ![](images/staff/neil-agarwal.jpg)\
 Neil Agarwal\
 Office Hours:
-Mon. 3:30-4:30pm\
+Mon. 3:30pm-4:30pm\
 COS 401
 
 * ![](images/staff/shai.jpg)\
