@@ -59,7 +59,7 @@ COS 401
 * ![](images/staff/shai.jpg)\
 Shai Caspin\
 Office Hours:
-Tue. 3pm-4pm
+Tue. 3pm-4pm\
 COS 401
 
 * ![](images/staff/nick-kaashoek.jpg)\
