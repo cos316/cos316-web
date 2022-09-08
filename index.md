@@ -54,13 +54,13 @@ COS 322
 Neil Agarwal\
 Office Hours:
 Mon. 3:30-4:30pm\
-TBD
+COS 401
 
 * ![](images/staff/shai.jpg)\
 Shai Caspin\
 Office Hours:
-Tue. TBD\
-TBD
+Tue. 3pm-4pm
+COS 401
 
 * ![](images/staff/nick-kaashoek.jpg)\
 Nicolaas Kaashoek\
