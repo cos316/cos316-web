@@ -45,7 +45,7 @@ COS 307
 Prof. Ravi Netravali\
 Office Hours:
 Thu. 11am-12pm\
-TBD
+COS 322
 
 
 {:.staff}
