@@ -85,7 +85,7 @@ COS 401
 Yue Tan\
 Office Hours:
 Fri. 11am-12pm\
-TBD
+Friend 010
 
 * ![](images/staff/ryan-torok.jpg)\
 Ryan Torok\
