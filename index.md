@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{:.announce}
+Assignment 1 is released! Go to the [Assignments Dashboard]({% link dashboard.md %}) to get started!
+
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Fall 2022.
 
