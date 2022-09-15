@@ -15,16 +15,16 @@ Precepts meet on Thursdays and Fridays in the TBD
 
 Precept slides:
 
-|Date   | Topic    | Materials      |
-|-------|----------|----------------|
-|       | Go       | [PDF]({% link precepts/Go-Programming.pdf %}) |
-|       | Sockets  | [PDF]({% link precepts/Socket-Programming.pdf %}) |
-|       | HTTP     | [PDF]({% link precepts/HTTP.pdf %}) |
-|       | Tests and Benchmarks | [PDF]({% link precepts/Testing-and-Benchmarking.pdf %}) |
-|       | Caches   | [PDF]({% link precepts/Cache-Eviction.pdf %}) |
-|       | SQL      | [PDF]({% link precepts/SQL.pdf %}) |
-|       | Reflection | [PDF]({% link precepts/Reflection1.pdf %}) |
-|       | Reflection - 2 | [PDF]({% link precepts/Reflection2.pdf %}) |
-|       | Concurrency | [PDF]({% link precepts/Concurrency1.pdf %}) |
-|       | Concurrency - 2 | [PDF]({% link precepts/Concurrency2.pdf %}) |
+|Date      | Topic    | Materials      |
+|----------|----------|----------------|
+|  09/08   | Go       | [PDF]({% link precepts/Go-Programming.pdf %}) |
+|  09/15   | Sockets  | [PDF]({% link precepts/Socket-Programming.pdf %}) |
+|  09/22   | HTTP     | [PDF]({% link precepts/HTTP.pdf %}) |
+|  09/29   | Tests and Benchmarks | [PDF]({% link precepts/Testing-and-Benchmarking.pdf %}) |
+|  10/06   | Caches   | [PDF]({% link precepts/Cache-Eviction.pdf %}) |
+|  10/13   | SQL      | [PDF]({% link precepts/SQL.pdf %}) |
+|  10/27   | Reflection | [PDF]({% link precepts/Reflection1.pdf %}) |
+|  11/03   | Reflection - 2 | [PDF]({% link precepts/Reflection2.pdf %}) |
+|  11/10   | Concurrency | [PDF]({% link precepts/Concurrency1.pdf %}) |
+|  11/17   | Concurrency - 2 | [PDF]({% link precepts/Concurrency2.pdf %}) |
 
