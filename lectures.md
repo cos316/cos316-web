@@ -12,7 +12,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 9/08  | Course Overview | Ravi Netravali | [L02]({% link lectures/L02-overview.pdf %}) | | |
 | 9/13  | **Naming** | Amit Levy | [L03]({% link lectures/L03-naming.pdf %}) | | |
 | 9/15  | Unix File System | Amit Levy   | [L04]({% link lectures/L04-unix-fs.pdf %}) | [PDF]({% link notes/Naming in UNIX File Systems.pdf %}) | |
-| 9/20  | Git              | Amit Levy   |  | [PDF]({% link notes/Content Addressable Storage & Git.pdf %}) | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
+| 9/20  | Git              | Amit Levy   | [L05]({% link lectures/L05-git.pdf %}) | [PDF]({% link notes/Content Addressable Storage & Git.pdf %}) | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
 
 <!--
 | 2/08  | Git              | Amit Levy   | [L05]({% link lectures/L05-git.pdf %})  | [PDF]({% link notes/Content Addressable Storage & Git.pdf %}) | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
