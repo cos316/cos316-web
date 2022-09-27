@@ -19,7 +19,7 @@ Precept slides:
 |----------|----------|----------------|
 |  09/08   | Go       | [PDF]({% link precepts/Go-Programming.pdf %}) |
 |  09/15   | Sockets  | [PDF]({% link precepts/Socket-Programming.pdf %}) | [Updated Notes]({% link precepts/2 -- Socket Programming.pdf %}) | [Nick's Recording](https://www.youtube.com/watch?v=ctPS6Y_vuNU) |
-|  09/22   | HTTP     | [PDF]({% link precepts/HTTP.pdf %}) |
+|  09/22   | HTTP     | [PDF]({% link precepts/HTTPCode.pdf %}) |
 |  09/29   | Tests and Benchmarks | [PDF]({% link precepts/Testing-and-Benchmarking.pdf %}) |
 |  10/06   | Caches   | [PDF]({% link precepts/Cache-Eviction.pdf %}) |
 |  10/13   | SQL      | [PDF]({% link precepts/SQL.pdf %}) |
