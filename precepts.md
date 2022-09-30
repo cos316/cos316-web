@@ -11,7 +11,7 @@ Precepts meet on Thursdays and Fridays in the TBD
 | 2       | Th 1:30  | Wei       | Friend 109   |
 | 3       | Th 3:30  | Shai      | McCosh 66    |
 | 4       | F  2:30  | Nick      | Sherrerd 101 |
-| 5       | F  2:30  | Ryan      | Friend 009   |
+| 5       | F  2:30  | Ryan      | Friend 008   |
 
 Precept slides:
 
