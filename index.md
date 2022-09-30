@@ -94,4 +94,4 @@ Friend 010
 Ryan Torok\
 Office Hours:
 Fri. 3:30pm-4:30pm\
-Friend 010
+Friend 008
