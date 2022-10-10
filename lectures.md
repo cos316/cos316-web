@@ -18,7 +18,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 9/30  | CPU Caching      | Amit Levy   | [L08]({% link lectures/L08-cpucache.pdf %})  | | |
 | 10/4  | Web Caching      | Ravi Netravali |[L09]({% link lectures/L09-cdn-caching.pdf %})  | | |
 | 10/6  | Mobile App (Network+Compute) Caching (Research)   | Murali Ramanujam (guest lecturer), Ravi Netravali |[L10]({% link lectures/L10-app-caching.pdf %})  | | |
-| 10/11 | **Layering** (in Networking)  | Ravi Netravali |[L10]({% link lectures/L10-layering-networking.pdf %})   | | |
+| 10/11 | **Layering** (in Networking)  | Ravi Netravali |[L11]({% link lectures/L11-layering-networking.pdf %})   | | |
 
 <!--
 | 3/01 | **Layering** (in Networking)  | Jennifer Rexford |[L10]({% link lectures/L11-layering-networking.pdf %})   | | |
