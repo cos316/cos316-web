@@ -19,13 +19,11 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 10/4  | Web Caching      | Ravi Netravali |[L09]({% link lectures/L09-cdn-caching.pdf %})  | | |
 | 10/6  | Mobile App (Network+Compute) Caching (Research)   | Murali Ramanujam (guest lecturer), Ravi Netravali |[L10]({% link lectures/L10-app-caching.pdf %})  | | |
 | 10/11 | **Layering** (in Networking)  | Ravi Netravali |[L11]({% link lectures/L11-layering-networking.pdf %})   | | |
+| 10/13 | Challenges with Layering: Video Conference Case Study (Research)  | Ravi Netravali  | [L12]({% link lectures/L12-layering-challenges.pdf %})  | | |
+| 10/18 |  *FALL BREAK*   | | | | |
+| 10/20 |  *FALL BREAK*   | | | | |
 
 <!--
-| 3/01 | **Layering** (in Networking)  | Jennifer Rexford |[L10]({% link lectures/L11-layering-networking.pdf %})   | | |
-| 3/03 | The Cloud  | Amit Levy   | [L11]({% link lectures/L11-the-cloud.pdf %})  | | |
-| 3/08 |  *SPRING BREAK*   | | | | |
-| 3/10 |  *SPRING BREAK*   | | | | |
-| 3/15 | "Hey, you, get off of my cloud" (Research) | Amit Levy   | [L12]({% link lectures/L12-hey-you.pdf %}) | | [Hey, you, get off my cloud: Exploring Information Leakage in Third-Party Compute Clouds]({% link readings/cloudsec.pdf %}) |
 | 3/17 | **Resource Allocation** (Congestion Control)   | Jennifer Rexford | [L13]({% link lectures/L13-congestion.pdf %})  |
 | 3/22 | Tock (Research)    | Amit Levy   | [L14]({% link lectures/L14-tock.pdf %})  | | [Multiprogrammming a 64kB Computer Safely and Efficiently]({% link readings/tock.pdf %}) |
 | 3/24 | **Concurrency**   | Jennifer Rexford | [L15]({% link lectures/L15-concurrency-time.pdf %})   |
