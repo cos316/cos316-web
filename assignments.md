@@ -41,8 +41,8 @@ your Dean or Director of Studies and with our approval.
 
 |        | DATE DUE |
 |--------|----------|
-| PSET 1 |          |
-| PSET 2 |          |
+| PSET 1 |  10/05   |
+| PSET 2 |  10/26   |
 | PSET 3 |          |
 | PSET 4 |          |
 | PSET 5 |          |
