@@ -22,9 +22,9 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 10/13 | Challenges with Layering: Video Conferencing Case Study (Research)  | Ravi Netravali  | [L12]({% link lectures/L12-layering-challenges.pdf %})  | | |
 | 10/18 |  *FALL BREAK*   | | | | |
 | 10/20 |  *FALL BREAK*   | | | | |
-
+| 10/25 | Final Project Overview and Suggestions  | Course Staff | | | |
+| 10/27 | **Resource Allocation** (Congestion Control)   | Ravi Netravali | [L13]({% link lectures/L13-congestion.pdf %})  | | |
 <!--
-| 3/17 | **Resource Allocation** (Congestion Control)   | Jennifer Rexford | [L13]({% link lectures/L13-congestion.pdf %})  |
 | 3/22 | Tock (Research)    | Amit Levy   | [L14]({% link lectures/L14-tock.pdf %})  | | [Multiprogrammming a 64kB Computer Safely and Efficiently]({% link readings/tock.pdf %}) |
 | 3/24 | **Concurrency**   | Jennifer Rexford | [L15]({% link lectures/L15-concurrency-time.pdf %})   |
 | 3/29 | Logical Time      | Amit Levy | [L16]({% link lectures/L16-more-time.pdf %})  | | |
