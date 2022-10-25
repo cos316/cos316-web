@@ -22,7 +22,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 10/13 | Challenges with Layering: Video Conferencing Case Study (Research)  | Ravi Netravali  | [L12]({% link lectures/L12-layering-challenges.pdf %})  | | |
 | 10/18 |  *FALL BREAK*   | | | | |
 | 10/20 |  *FALL BREAK*   | | | | |
-| 10/25 | Final Project Overview and Suggestions  | Course Staff | | | |
+| 10/25 | Final Project Overview and Suggestions  | Course Staff | [L12.5]({% link lectures/L12.5-ta-research-inspiration.pdf %}) | | |
 | 10/27 | **Resource Allocation** (Congestion Control)   | Ravi Netravali | [L13]({% link lectures/L13-congestion.pdf %})  | | |
 
 <!--
