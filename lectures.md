@@ -24,7 +24,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 10/20 |  *FALL BREAK*   | | | | |
 | 10/25 | Final Project Overview and Suggestions  | Course Staff | [L12.5]({% link lectures/L12.5-ta-research-inspiration.pdf %}) | | |
 | 10/27 | **Resource Allocation** (Congestion Control)   | Ravi Netravali | [L13]({% link lectures/L13-congestion.pdf %})  | | |
-| 11/01 | Tock (Research)    | Amit Levy   | [L14]({% link lectures/L14-tock.pdf %})  | | [Multiprogrammming a 64kB Computer Safely and Efficiently]({% link readings/tock.pdf %}) |
+<!--| 11/01 | Tock (Research)    | Amit Levy   | [L14]({% link lectures/L14-tock.pdf %})  | | [Multiprogrammming a 64kB Computer Safely and Efficiently]({% link readings/tock.pdf %}) |-->
 
 <!--
 | 3/24 | **Concurrency**   | Jennifer Rexford | [L15]({% link lectures/L15-concurrency-time.pdf %})   |
