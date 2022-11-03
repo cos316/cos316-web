@@ -24,8 +24,7 @@ Precept slides:
 |  10/06   | Caches   | [PDF]({% link precepts/Cache-Eviction.pdf %}) |
 |  10/13   | SQL      | [PDF]({% link precepts/SQL.pdf %}) |
 |  10/27   | Reflection | [PDF]({% link precepts/Reflection1.pdf %}) |
-|  11/03   | Reflection - 2 | [PDF]({% link precepts//Copy of Copy of 7 - 2 - Reflection - Part 2 - Notes .pdf
-Go to file.pdf %}) |
+|  11/03   | Reflection - 2 | [PDF]({% link precepts/Reflection-Part2 -Notes.pdf %}) |
 |  11/10   | Concurrency | [PDF]({% link precepts/Concurrency1.pdf %}) |
 |  11/17   | Concurrency - 2 | [PDF]({% link precepts/Concurrency2.pdf %}) |
 
