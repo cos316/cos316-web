@@ -26,9 +26,9 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 10/27 | **Resource Allocation** (Congestion Control)   | Ravi Netravali | [L13]({% link lectures/L13-congestion.pdf %})  | | |
 | 11/01 | Tock (Research)    | Amit Levy   | [L14]({% link lectures/L14-tock.pdf %})  | | [Multiprogrammming a 64kB Computer Safely and Efficiently]({% link readings/tock.pdf %}) |
 | 11/03 | **Concurrency**   | Ravi Netravali | [L15]({% link lectures/L15-concurrency-time.pdf %})   | | |
+| 11/08 | Logical Time      | Amit Levy | [L16]({% link lectures/L16-more-time.pdf %})  | | |
 
 <!--
-| 3/29 | Logical Time      | Amit Levy | [L16]({% link lectures/L16-more-time.pdf %})  | | |
 | 3/31 | Consistency Models | Amit Levy | [L17]({% link lectures/L17-consistency.pdf %})  | | |
 | 4/05 | **Access Control** | Amit Levy   | [L18]({% link lectures/L19-access-control.pdf %})  | | |
 | 4/07 | ACLs & Capabilities | Amit Levy   | [L19]({% link lectures/L19-acl-capabilities.pdf %})   | | |
