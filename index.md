@@ -3,7 +3,7 @@ layout: default
 ---
 
 {:.announce}
-Assignment 3 is released! Go to the [Assignments Dashboard]({% link dashboard.md %}) to get started!
+Assignment 5 is released! Go to the [Assignments Dashboard]({% link dashboard.md %}) to get started!
 
 Welcome to the homepage for COS 316, Principles of Computer System
 Design, Fall 2022.
