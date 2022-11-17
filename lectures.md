@@ -29,9 +29,9 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 11/08 | Logical Time      | Amit Levy | [L16]({% link lectures/L16-more-time.pdf %})  | | |
 | 11/10 | Consistency Models | Amit Levy | [L17]({% link lectures/L17-consistency.pdf %})  | | |
 | 11/15 | **Access Control** | Amit Levy   | [L18]({% link lectures/L18-access-control.pdf %})  | | |
+| 11/15 | ACLs & Capabilities | Amit Levy   | [L19]({% link lectures/L19-acl-capabilities.pdf %})   | | |
 
 <!--
-| 4/07 | ACLs & Capabilities | Amit Levy   | [L19]({% link lectures/L19-acl-capabilities.pdf %})   | | |
 | 4/12 | Mandatory Access & Information Flow | Amit Levy | [L21]({% link lectures/L21-mac.pdf %}) | | |
 | 4/14 | Network Access Control  | Jennifer Rexford   | [L21]({% link lectures/L21-nacl.pdf %})   |
 | 4/19 | **Tying It All Together**    | Jennifer Rexford |[L22]({% link lectures/L23-wrapup.pdf %})   | | |
