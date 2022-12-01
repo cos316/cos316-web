@@ -36,7 +36,7 @@ Your 2 page project report must include the following 4 sections:
    316 to be able to understand why you chose to design things they you did, but
    need not include implementation choices that are either not important or
    should be obvious given the design. This section can, and should, rely
-   heavily on the princples discussed in class (naming, caching, concurrency,
+   heavily on the principles discussed in class (naming, caching, concurrency,
    resource allocation, security, etc).
 3. Testing methodology. Briefly describe your methodology for testing your new
    functionality or system.
@@ -49,6 +49,8 @@ fine.) It should show your code running with you explaining what is happening.
 One easy way to record this video is in a zoom meeting by yourself, see
 instructions from Zoom
 [here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
+
+For additional clarification about the final project, see [this document]({% link notes/Final Project Clarification.pdf %}).
 
 ### Submission
 
