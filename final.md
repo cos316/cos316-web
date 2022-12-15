@@ -16,7 +16,7 @@ precepts.
 
 ### Deliverables
 
-You will have three deliverables due on Dean's Date: 5pm Princeton Time on TBD. They are:
+You will have three deliverables due on Dean's Date: 5pm Princeton Time on Dean's Date. They are:
 1. A tarball with your code and tests.
 2. A 2-page project report (single-spaced, 1-inch margins, 11pt font).
 3. A video demo of your project that is 5 minutes or less.
@@ -54,5 +54,10 @@ For additional clarification about the final project, see [this document]({% lin
 
 ### Submission
 
-You will submit your deliverables using TBD.
+Submit your final project as three separate files on [this Canvas
+assignment](https://princeton.instructure.com/courses/7723/assignments/74763):
+
+1. A PDF of your 2-page report
+2. A gzipped tarball of your code and tests
+3. A video demo of your project as an mp4, mkv, webm, or ogv file
 
