@@ -73,8 +73,13 @@ Yinwei Dai\
 Office Hours:
 TBD
 
+* ![](images/staff/leon-schuermann.jpg)\
+Leon Schuermann\
+Office Hours:
+TBD
 
 * ![](images/staff/yue-tan.jpg)\
 Yue Tan\
 Office Hours:
 TBD
+
