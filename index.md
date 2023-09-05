@@ -2,17 +2,12 @@
 layout: default
 ---
 
-{:.announce}
-Assignment 5 is released! Go to the [Assignments Dashboard]({% link dashboard.md %}) to get started!
-
 Welcome to the homepage for COS 316, Principles of Computer System
-Design, Fall 2022.
+Design, Fall 2023.
 
 ### Quick Links
 
-  * [Ed Discussion Board](https://edstem.org/us/courses/23475)
-
-**Time** [Lectures](lectures) are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays.
+**Time** [Lectures](lectures) are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays and Fridays.
 
 **Location** [Computer Science Building](https://api.princeton.edu/campus-map/link?id=0167), Room 104
 
@@ -30,7 +25,7 @@ there is no one book that covers the right material in an up-to-date
 fashion. Some required articles/papers/blogs/etc. will be posted
 on-line.
 
-**Grading.** Programming assigments 60%, Problem Sets 20%, Final Project 20%.
+**Grading.** Coming soon... <!--Programming assigments 60%, Problem Sets 20%, Final Project 20%.-->
 
 ## Course Staff
 
@@ -53,45 +48,33 @@ COS 322
 
 {:.staff}
 
-* ![](images/staff/neil-agarwal.jpg)\
-Neil Agarwal\
+* ![](images/staff/christopher-branner-augmon.jpg)\
+Christopher Branner-Augmon\
 Office Hours:
-Mon. 3:30pm-4:30pm\
-COS 401
+TBD
 
-* ![](images/staff/shai.jpg)\
-Shai Caspin\
+* ![](images/staff/leo-chen.jfif)\
+Leo Chen\
 Office Hours:
-Tue. 3pm-4pm\
-COS 401
+TBD
 
-* ![](images/staff/nick-kaashoek.jpg)\
-Nicolaas Kaashoek\
+* ![](images/staff/mike-wong.jpg)\
+Mike Wong\
 Office Hours:
-Wed. 10am-11am\
-COS 401
+TBD
 
-* ![](images/staff/wei-luo.jpg)\
-Wei Luo\
+* ![](images/staff/rui-pan.jpg)\
+Rui Pan\
 Office Hours:
-Thu. 2:30pm-3:30pm\
-COS 401
+TBD
 
-* ![](images/staff/zhenyu-song.jpg)\
-Zhenyu Song\
+* ![](images/staff/yinwei-dai.png)\
+Yinwei Dai\
 Office Hours:
-Mon. 11am-12pm\
-COS 401
+TBD
 
 
 * ![](images/staff/yue-tan.jpg)\
 Yue Tan\
 Office Hours:
-Fri. 11am-12pm\
-Friend 010
-
-* ![](images/staff/ryan-torok.jpg)\
-Ryan Torok\
-Office Hours:
-Fri. 3:30pm-4:30pm\
-Friend 008
+TBD

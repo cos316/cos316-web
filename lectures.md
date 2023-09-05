@@ -6,33 +6,36 @@ layout: default
 Lectures meet on Tuesday and Thursday 10:00-10:50am
 
 
-|Date   | Topic | Instructor | Slides| Notes | Reading |
-|-------|-------|------------|-------|-------|------------|
-| 9/06  | What is a System? | Amit Levy | [L01]({% link lectures/L01-systems.pdf %}) | | |
-| 9/08  | Course Overview | Ravi Netravali | [L02]({% link lectures/L02-overview.pdf %}) | | |
-| 9/13  | **Naming** | Amit Levy | [L03]({% link lectures/L03-naming.pdf %}) | | |
-| 9/15  | Unix File System | Amit Levy   | [L04]({% link lectures/L04-unix-fs.pdf %}) | [PDF]({% link notes/Naming in UNIX File Systems.pdf %}) | |
-| 9/20  | Git              | Amit Levy   | [L05]({% link lectures/L05-git.pdf %}) | [PDF]({% link notes/Content Addressable Storage & Git.pdf %}) | [Git Book Chapter 10: Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) |
-| 9/22  | Network Naming   | Ravi Netravali | [L06]({% link lectures/L06-network-naming.pdf %})  | | |
-| 9/27  | **Caching**      | Ravi Netravali | [L07]({% link lectures/L07-caching.pdf %}) | | |
-| 9/30  | CPU Caching      | Amit Levy   | [L08]({% link lectures/L08-cpucache.pdf %})  | | |
-| 10/4  | Web Caching      | Ravi Netravali |[L09]({% link lectures/L09-cdn-caching.pdf %})  | | |
-| 10/6  | Mobile App (Network+Compute) Caching (Research)   | Murali Ramanujam (guest lecturer), Ravi Netravali |[L10]({% link lectures/L10-app-caching.pdf %})  | | |
-| 10/11 | **Layering** (in Networking)  | Ravi Netravali |[L11]({% link lectures/L11-layering-networking.pdf %})   | | |
-| 10/13 | Challenges with Layering: Video Conferencing Case Study (Research)  | Ravi Netravali  | [L12]({% link lectures/L12-layering-challenges.pdf %})  | | |
-| 10/18 |  *FALL BREAK*   | | | | |
-| 10/20 |  *FALL BREAK*   | | | | |
-| 10/25 | Final Project Overview and Suggestions  | Course Staff | [L12.5]({% link lectures/L12.5-ta-research-inspiration.pdf %}) | | |
-| 10/27 | **Resource Allocation** (Congestion Control)   | Ravi Netravali | [L13]({% link lectures/L13-congestion.pdf %})  | | |
-| 11/01 | Tock (Research)    | Amit Levy   | [L14]({% link lectures/L14-tock.pdf %})  | | [Multiprogrammming a 64kB Computer Safely and Efficiently]({% link readings/tock.pdf %}) |
-| 11/03 | **Concurrency**   | Ravi Netravali | [L15]({% link lectures/L15-concurrency-time.pdf %})   | | |
-| 11/08 | Logical Time      | Amit Levy | [L16]({% link lectures/L16-more-time.pdf %})  | | |
-| 11/10 | Consistency Models | Amit Levy | [L17]({% link lectures/L17-consistency.pdf %})  | | |
-| 11/15 | **Access Control** | Amit Levy   | [L18]({% link lectures/L18-access-control.pdf %})  | | |
-| 11/15 | ACLs & Capabilities | Amit Levy   | [L19]({% link lectures/L19-acl-capabilities.pdf %})   | | |
-| 11/29 | Mandatory Access & Information Flow | Amit Levy | [L20]({% link lectures/L21-mac.pdf %}) | | |
-| 12/1 | Network Access Control  | Ravi Netravali   | [L21]({% link lectures/L21-nacl.pdf %})   |
-| 12/6 | **Tying It All Together**    | Ravi Netravali |[L22]({% link lectures/L23-wrapup.pdf %})   | | |
+| Date  | Topic                                     | Instructor      | Slides | Notes | Reading |
+|-------|-------------------------------------------|-----------------|--------|-------|---------|
+| 9/05  | What is a System?                         | Amit Levy       |        |       |         |
+| 9/07  | Course Overview                           | Ravi Netravali  |        |       |         |
+| 9/12  | Systems programming & Engineering         | Leon Schuermann |        |       |         |
+| 9/14  | **Naming**                                | Amit Levy       |        |       |         |
+| 9/19  | Unix File System                          | Amit Levy       |        |       |         |
+| 9/21  | Git                                       | Amit Levy       |        |       |         |
+| 9/26  | Network Naming                            | Ravi Netravali  |        |       |         |
+| 9/28  | **Layering** (in Networking)              | Ravi Netravali  |        |       |         |
+| 10/03 | Layers of an RDBMS                        | Amit Levy       |        |       |         |
+| 10/05 | Resource allocation (congenstion control) | Ravi Netravali  |        |       |         |
+| 10/10 | **Caching**                               | Ravi Netravali  |        |       |         |
+| 10/12 | Web Caching                               | Ravi Netravali  |        |       |         |
+| 10/17 | <span class="break">*FALL BREAK*</span>   |                 |        |       |         |
+| 10/19 | <span class="break">*FALL BREAK*</span>   |                 |        |       |         |
+| 10/24 | File System Caching                       | Amit Levy       |        |       |         |
+| 10/26 | **Research Project Discussions**          | Course Staff    |        |       |         |
+| 10/31 | **Concurrency**                           | Ravi Netravali  |        |       |         |
+| 11/02 | Logical Time                              | Ravi Netravali  |        |       |         |
+| 11/07 | Consistency Models                        | Amit Levy       |        |       |         |
+| 11/09 | **Access Control**                        | Amit Levy       |        |       |         |
+| 11/14 | ACLs & Capabilities                       | Amit Levy       |        |       |         |
+| 11/16 | Mandatory Access & Information Flow       | Amit Levy       |        |       |         |
+| 10/21 | <span class="break">*THANKSGIVING*</span> |                 |        |       |         |
+| 10/23 | <span class="break">*THANKSGIVING*</span> |                 |        |       |         |
+| 11/21 | Network Access Control                    | Ravi Netravali  |        |       |         |
+| 11/28 | **Case Study**                            | Amit Levy       |        |       |         |
+| 12/05 | **Case Study**                            | Ravi Netravali  |        |       |         |
+| 12/07 | **Tying It All Together**                 | Ravi Netravali  |        |       |         |
 
 <!--
 | 4/21 | **Ask Us Anything** | Amit Levy & Jennifer Rexford | | | No slides, come with your questions about systems. |
