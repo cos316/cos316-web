@@ -51,30 +51,35 @@ COS 322
 * ![](images/staff/christopher-branner-augmon.jpg)\
 Christopher Branner-Augmon\
 Office Hours:
-TBD
+Tue. 2:00pm-3:00pm
 
 * ![](images/staff/leo-chen.jfif)\
 Leo Chen\
 Office Hours:
-TBD
+Thu. 3:00pm-4:00pm
 
 * ![](images/staff/mike-wong.jpg)\
 Mike Wong\
 Office Hours:
-TBD
+Wed. 10:00am-11:00am
 
 * ![](images/staff/rui-pan.jpg)\
 Rui Pan\
 Office Hours:
-TBD
+Fri. 12:30am-1:30pm
 
 * ![](images/staff/yinwei-dai.png)\
 Yinwei Dai\
 Office Hours:
-TBD
+Mon. 4:30pm-5:30pm
 
+* ![](images/staff/leon-schuermann.jpg)\
+Leon Schuermann\
+Office Hours:
+Thu. 2:00pm-3:00pm
 
 * ![](images/staff/yue-tan.jpg)\
 Yue Tan\
 Office Hours:
-TBD
+Tue. 4:00pm-5:00pm
+
