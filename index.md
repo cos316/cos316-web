@@ -51,33 +51,38 @@ COS 322
 * ![](images/staff/christopher-branner-augmon.jpg)\
 Christopher Branner-Augmon\
 Office Hours:
-Tue. 2:00pm-3:00pm
+Tue. 2:00pm-3:00pm\
+Precept: P02 (Thu. 1:30pm-2:20pm), Friend 109
 
 * ![](images/staff/leo-chen.jfif)\
 Leo Chen\
 Office Hours:
-Thu. 3:00pm-4:00pm
+Thu. 3:00pm-4:00pm\
+Precept: P06 (Thu. 7:30pm-8:20pm), Friend 109
 
 * ![](images/staff/mike-wong.jpg)\
 Mike Wong\
 Office Hours:
-Wed. 10:00am-11:00am
+Wed. 10:00am-11:00am\
+Precept: P01 (Thu. 12:30pm-1:20pm), Friend 109
 
 * ![](images/staff/rui-pan.jpg)\
 Rui Pan\
 Office Hours:
-Fri. 12:30am-1:30pm
+Fri. 12:30am-1:30pm\
+Precept: P04 (Fri. 1:30pm-2:20pm), Friend 109
 
 * ![](images/staff/yinwei-dai.png)\
 Yinwei Dai\
 Office Hours:
-Mon. 4:30pm-5:30pm
+Mon. 4:30pm-5:30pm\
+Precept: P08 (Fri. 1:30pm-2:20pm), Friend 009
 
 * ![](images/staff/leon-schuermann.jpg)\
 Leon Schuermann\
 Office Hours:
-Thu. 2:00pm-3:00pm\
-CS 003
+Thu. 2:00pm-3:00pm, CS 003\
+Precept: P03 (Thu. 3:30pm-4:20pm), Friend 109
 
 * ![](images/staff/yue-tan.jpg)\
 Yue Tan\
