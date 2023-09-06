@@ -76,7 +76,8 @@ Mon. 4:30pm-5:30pm
 * ![](images/staff/leon-schuermann.jpg)\
 Leon Schuermann\
 Office Hours:
-Thu. 2:00pm-3:00pm
+Thu. 2:00pm-3:00pm\
+CS 003
 
 * ![](images/staff/yue-tan.jpg)\
 Yue Tan\
