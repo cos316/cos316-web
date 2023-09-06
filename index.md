@@ -51,7 +51,7 @@ COS 322
 * ![](images/staff/christopher-branner-augmon.jpg)\
 Christopher Branner-Augmon\
 Office Hours:
-Tue. 2:00pm-3:00pm\
+Tue. 2:00pm-3:00pm, CS 003\
 Precept: P02 (Thu. 1:30pm-2:20pm), Friend 109
 
 * ![](images/staff/leo-chen.jfif)\
