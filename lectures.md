@@ -17,7 +17,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | 9/26  | Network Naming                            | Ravi Netravali  |                                            |       |         |
 | 9/28  | **Layering** (in Networking)              | Ravi Netravali  |                                            |       |         |
 | 10/03 | Layers of an RDBMS                        | Amit Levy       |                                            |       |         |
-| 10/05 | Resource allocation (congenstion control) | Ravi Netravali  |                                            |       |         |
+| 10/05 | Resource allocation (congestion control)  | Ravi Netravali  |                                            |       |         |
 | 10/10 | **Caching**                               | Ravi Netravali  |                                            |       |         |
 | 10/12 | Web Caching                               | Ravi Netravali  |                                            |       |         |
 | 10/17 | <span class="break">*FALL BREAK*</span>   |                 |                                            |       |         |
