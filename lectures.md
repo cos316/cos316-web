@@ -9,7 +9,7 @@ Lectures meet on Tuesday and Thursday 10:00-10:50am
 | Date  | Topic                                     | Instructor      | Slides                                     | Notes | Reading |
 |-------|-------------------------------------------|-----------------|--------------------------------------------|-------|---------|
 | 9/05  | What is a System?                         | Amit Levy       | [PDF]({% link lectures/L01-systems.pdf %}) |       |         |
-| 9/07  | Course Overview                           | Ravi Netravali  |                                            |       |         |
+| 9/07  | Course Overview                           | Ravi Netravali  | [PDF]({% link lectures/L02-overview.pdf %})|       |         |
 | 9/12  | Systems programming & Engineering         | Leon Schuermann |                                            |       |         |
 | 9/14  | **Naming**                                | Amit Levy       |                                            |       |         |
 | 9/19  | Unix File System                          | Amit Levy       |                                            |       |         |
