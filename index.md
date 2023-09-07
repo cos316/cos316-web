@@ -69,7 +69,7 @@ Precept: P01 (Thu. 12:30pm-1:20pm), Friend 109
 * ![](images/staff/rui-pan.jpg)\
 Rui Pan\
 Office Hours:
-Fri. 12:30am-1:30pm\
+Fri. 12:30am-1:30pm, Friend 109\
 Precept: P04 (Fri. 1:30pm-2:20pm), Friend 109
 
 * ![](images/staff/yinwei-dai.png)\
