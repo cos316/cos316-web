@@ -9,7 +9,7 @@ Design, Fall 2023.
 
 **Time** [Lectures](lectures) are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays and Fridays.
 
-**Location** [Computer Science Building](https://api.princeton.edu/campus-map/link?id=0167), Room 104
+**Location** [Friend Center](https://api.princeton.edu/campus-map/link?id=0616), Room 101
 
 **Description.** This course teaches students the design,
 implementation, and evaluation of computer systems, including operating
