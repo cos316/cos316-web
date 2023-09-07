@@ -57,7 +57,7 @@ Precept: P02 (Thu. 1:30pm-2:20pm), Friend 109
 * ![](images/staff/leo-chen.jfif)\
 Leo Chen\
 Office Hours:
-Thu. 3:00pm-4:00pm\
+Thu. 3:00pm-4:00pm, CS 003\
 Precept: P06 (Thu. 7:30pm-8:20pm), Friend 109
 
 * ![](images/staff/mike-wong.jpg)\
