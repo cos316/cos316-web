@@ -53,7 +53,7 @@ Christopher Branner-Augmon\
 Office Hours:
 Tue. 2:00pm-3:00pm, CS 003\
 Precept: P02 (Thu. 1:30pm-2:20pm), Friend 109\
-Email: cbaugmon@princeton.edu
+Email: cbaugmon(at)princeton.edu
 
 * ![](images/staff/leo-chen.jfif)\
 Leo Chen\
