@@ -64,8 +64,9 @@ Precept: P06 (Thu. 7:30pm-8:20pm), Friend 109
 * ![](images/staff/mike-wong.jpg)\
 Mike Wong\
 Office Hours:
-Wed. 10:00am-11:00am\
-Precept: P01 (Thu. 12:30pm-1:20pm), Friend 109
+Wed. 10:00am-11:00am, CS 003\
+Precept: P01 (Thu. 12:30pm-1:20pm), Friend 109\
+Email: mikedwong@cs.princeton.edu
 
 * ![](images/staff/rui-pan.jpg)\
 Rui Pan\
