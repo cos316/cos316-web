@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
+
+# Nix build outputs
+/result
+/result-*

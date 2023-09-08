@@ -21,13 +21,34 @@ again before going to office hours.
         center: 'title',
         right: 'dayGridMonth,timeGridWeek,timeGridDay'
       },
-      height: 500,
+      height: 1000,
+      scrollTime: '08:00:00',
       events: [
-        {
-          title: 'Lecture: What is a System?',
-          start: '2022-01-25T10:00:00',
-          end: '2022-01-25T10:50:00'
-        }
+        {% for lecture in site.data.syllabus.lectures %}
+          {
+            title: 'Lecture: {{ lecture.topic }}',
+            start: '{{ lecture.start | date: "%FT%T%:z" }}',
+            end: '{{ lecture.end | date: "%FT%T%:z" }}',
+          },
+        {% endfor %}
+        {% for precept in site.data.syllabus.precepts %}
+          {% for precept_slot in site.data.syllabus.precept_slots %}
+            {% if precept.week_fixed != false and precept.hidden != true and precept_slot[1].week_map[precept.week] %}
+              {
+                title: 'Precept {{ precept_slot[0] }}: {{ precept.topic }} ({{ precept_slot[1].week_map[precept.week].location }})',
+                start: '{{ precept_slot[1].week_map[precept.week].start | date: "%FT%T%:z" }}',
+                end: '{{ precept_slot[1].week_map[precept.week].end | date: "%FT%T%:z" }}',
+              },
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        {% for oh in site.data.syllabus.office_hours %}
+          {
+            title: 'Office Hours: {{ oh.staff }} ({{ oh.location }})',
+            start: '{{ oh.start | date: "%FT%T%:z" }}',
+            end: '{{ oh.end | date: "%FT%T%:z" }}',
+          },
+        {% endfor %}
       ]
     });
 

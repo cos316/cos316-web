@@ -2,6 +2,19 @@
 
 with pkgs;
 let
+  gitignoreSource = (
+    import (
+      pkgs.fetchFromGitHub {
+        owner = "hercules-ci";
+        repo = "gitignore.nix";
+        rev = "9e21c80adf67ebcb077d75bd5e7d724d21eeafd6";
+        sha256 = "sha256-vky6VPK1n1od6vXbqzOXnekrQpTL4hbPAwUhT5J9c9E=";
+      }
+    ) {
+      inherit (pkgs) lib;
+    }
+  ).gitignoreSource;
+
   gems = bundlerEnv {
     name = "cos316-web";
     inherit ruby;
@@ -18,5 +31,5 @@ in stdenv.mkDerivation {
     mkdir -p $out
     cp -r _site/* $out/
     '';
-  src = ./.;
+  src = gitignoreSource ./.;
 }
