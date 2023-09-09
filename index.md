@@ -77,7 +77,7 @@ Precept: P04 (Fri. 1:30pm-2:20pm), Friend 109
 * ![](images/staff/yinwei-dai.png)\
 Yinwei Dai\
 Office Hours:
-Mon. 4:30pm-5:30pm\
+Mon. 4:30pm-5:30pm, Friend 010\
 Precept: P08 (Fri. 1:30pm-2:20pm), Friend 009
 
 * ![](images/staff/leon-schuermann.jpg)\
