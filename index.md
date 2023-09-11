@@ -90,5 +90,5 @@ Email: lschuermann(at)princeton.edu
 * ![](images/staff/yue-tan.jpg)\
 Yue Tan\
 Office Hours:
-Tue. 4:00pm-5:00pm
+Tue. 4:00pm-5:00pm, CS 003
 
