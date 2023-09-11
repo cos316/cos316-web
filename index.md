@@ -84,7 +84,7 @@ Precept: P08 (Fri. 1:30pm-2:20pm), Friend 009
 Leon Schuermann\
 Office Hours:
 Thu. 2:00pm-3:00pm, CS 003\
-Precept: P03 (Thu. 3:30pm-4:20pm), Friend 109
+Precept: P03 (Thu. 3:30pm-4:20pm), Friend 109\
 Email: lschuermann(at)princeton.edu
 
 * ![](images/staff/yue-tan.jpg)\
