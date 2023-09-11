@@ -3,28 +3,61 @@ title: Precepts
 layout: default
 ---
 
-Precepts meet on Thursdays and Fridays in the TBD
+<table class="wide-table">
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Precept Topic</th>
+      <th>Precept Slots</th>
+	  <th>Resources</th>
+    </tr>
+  </thead>
 
-| Precept | Time     | Preceptor | Room         |
-|---------|----------|-----------|--------------|
-| 1       | Th 12:30 | Neil      | Friend 109   |
-| 2       | Th 1:30  | Wei       | Friend 109   |
-| 3       | Th 3:30  | Shai      | McCosh 66    |
-| 4       | F  2:30  | Nick      | Sherrerd 101 |
-| 5       | F  2:30  | Ryan      | Friend 008   |
-
-Precept slides:
-
-|Date      | Topic    | Materials      |
-|----------|----------|----------------|
-|  09/08   | Go       | [PDF]({% link precepts/Go-Programming.pdf %}) |
-|  09/15   | Sockets  | [PDF]({% link precepts/Socket-Programming.pdf %}) | [Updated Notes]({% link precepts/2 -- Socket Programming.pdf %}) | [Nick's Recording](https://www.youtube.com/watch?v=ctPS6Y_vuNU) |
-|  09/22   | HTTP     | [PDF]({% link precepts/HTTPCode.pdf %}) |
-|  09/29   | Tests and Benchmarks | [PDF]({% link precepts/Testing-and-Benchmarking.pdf %}) |
-|  10/06   | Caches   | [PDF]({% link precepts/Cache-Eviction.pdf %}) |
-|  10/13   | SQL      | [PDF]({% link precepts/SQL.pdf %}) |
-|  10/27   | Reflection | [PDF]({% link precepts/Reflection1.pdf %}) |
-|  11/03   | Reflection - 2 | [PDF]({% link precepts/Reflection-Part2 -Notes .pdf %}) |
-|  11/10   | Concurrency | [PDF]({% link precepts/Concurrency1.pdf %}) |
-|  11/17   | Concurrency - 2 | [PDF]({% link precepts/Concurrency2.pdf %}) |
-
+  <tbody>
+    <tr>
+      <td>2023-09-03</td>
+      <td>The Go Programming Language</td>
+      <td>
+        <details>
+          <summary>
+              P01, P02, P03, P04, P06, P08
+          </summary>
+          <p style="text-align: left">
+              P01:
+              09/07 12:30pm,
+              Mike Wong,
+              Friend 109
+              <br>
+              P02:
+              09/07  1:30pm,
+              Christopher Branner-Augmon,
+              Friend 109
+              <br>
+              P03:
+              09/07  3:30pm,
+              Leon Schuermann,
+              Friend 109
+              <br>
+              P04:
+              09/08  1:30pm,
+              Rui Pan,
+              Friend 109
+              <br>
+              P06:
+              09/07  7:30pm,
+              Leo Chen,
+              Friend 109
+              <br>
+              P08:
+              09/08  1:30pm,
+              Yinwei Dai,
+              Friend 009
+          </p>
+        </details>
+      </td>
+	  <td>
+		  <a href="{% link precepts/01_the_go_programming_language.md %}">Resource Page</a>
+	  </td>
+    </tr>
+  </tbody>
+</table>
