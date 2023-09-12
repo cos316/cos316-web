@@ -7,7 +7,7 @@ Design, Fall 2023.
 
 ### Quick Links
 
-**Time** [Lectures](lectures) are Tuesday and Thursday, 10:00am-10:50am, [Precepts](precepts) are on Thursdays and Fridays.
+**Time** [Lectures]({% link lectures.md %}) are Tuesday and Thursday, 10:00am-10:50am, [Precepts]({% link precepts.md %}) are on Thursdays and Fridays.
 
 **Location** [Friend Center](https://api.princeton.edu/campus-map/link?id=0616), Room 101
 
