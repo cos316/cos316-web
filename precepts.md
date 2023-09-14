@@ -43,7 +43,7 @@ This precept schedule is preliminary and subject to change.
             {% for precept_slot in site.data.syllabus.precept_slots %}
             {% if precept.week_fixed != false and precept_slot[1].week_map[precept.week] %}
               {{ precept_slot[0] }}:
-              {{ precept_slot[1].week_map[precept.week].start | date: "%m/%d %l:%M%P" }},
+              {{ precept_slot[1].week_map[precept.week].start | date: "%a %m/%d %l:%M%P" }},
               {{ precept_slot[1].preceptor }},
               {{ precept_slot[1].week_map[precept.week].location }}
               {% if forloop.last == false %}<br />{% endif %}

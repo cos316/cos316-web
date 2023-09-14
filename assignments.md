@@ -33,8 +33,8 @@ This assignment schedule is preliminary and subject to change. See
 		  {% endif %}
 	    </td>
         <td style="text-align: left">{{ assignment.title }}</td>
-        <td>{{ assignment.release | date: "%m/%d" }}</td>
-        <td>{{ assignment.due | date: "%m/%d %l:%M%P" }}</td>
+        <td>{{ assignment.release | date: "%a %m/%d" }}</td>
+        <td>{{ assignment.due | date: "%a %m/%d %l:%M%P" }}</td>
         <td>
 		  {% capture assignment_links %}
 		  {% for link in assignment.links %}

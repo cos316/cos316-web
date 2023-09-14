@@ -52,7 +52,7 @@ This schedule is preliminary and subject to change.
         {% assign last_section = lecture.section %}
       {% endif %}
       <tr>
-        <td title="{{ lecture.start }}">{{ lecture.start | date: "%m/%d" }}</td>
+        <td title="{{ lecture.start }}">{{ lecture.start | date: "%a %m/%d" }}</td>
         <td style="text-align: left">{{ lecture.topic }}</td>
         <td>{{ lecture.instructor }}</td>
         <td>
