@@ -3,6 +3,10 @@ title: Programming Assignments and Problem Sets
 layout: default
 ---
 
+<div id="app" data-grader="{{ site.course }}" data-github="{{ site.github }}">
+</div>
+<script type="module" src="https://unpkg.com/graderbot-dashboard?module"></script>
+
 This assignment schedule is preliminary and subject to change. See
 [grading and course / assignment policies]({% link policies.md %}).
 
