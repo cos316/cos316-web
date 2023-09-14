@@ -1105,8 +1105,8 @@ assignments:
   due: 2023-09-13T23:00:00-04:00
 - type: programming
   title: "Programming Assignment #1"
-  release: 2023-09-13T00:00:00-04:00
-  due: 2023-09-20T23:00:00-04:00
+  release: 2023-09-14T00:00:00-04:00
+  due: 2023-09-21T23:00:00-04:00
 - type: pset
   title: "Problem Set #1: Naming"
   release: 2023-09-20T00:00:00-04:00
