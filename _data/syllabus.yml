@@ -175,6 +175,8 @@ precepts:
 - week: 2023-09-03
   topic: The Go Programming Language
   links:
+    Slides:
+      path: precepts/01_the_go_programming_language.pdf
     Precept Resources:
       path: precepts/01_the_go_programming_language.md
 - week: 2023-09-10
