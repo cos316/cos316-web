@@ -195,6 +195,8 @@ precepts:
   links:
     Slides:
       path: precepts/02_socket_programming.pdf
+- week: 2023-09-17
+  topic: HTTP
 - week: 2023-09-24
   topic: Testing and Benchmarking
   week_fixed: false
