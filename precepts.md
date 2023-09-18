@@ -11,7 +11,7 @@ This precept schedule is preliminary and subject to change.
       <th>Week</th>
       <th>Precept Topic</th>
       <th>Precept Slots</th>
-	  <th>Resources</th>
+      <th>Resources</th>
     </tr>
   </thead>
 
@@ -33,18 +33,22 @@ This precept schedule is preliminary and subject to change.
             {% endif %}
             {% if has_one_precept_slot and forloop.last == false %}, {% endif %}
             {% endfor %}
-			{% if precept.week_fixed == false %}
-			  To be scheduled.
-	        {% elsif has_one_precept_slot == false %}
-			  No precept slot assigned yet.
-			{% endif %}
+            {% if precept.week_fixed == false %}
+              To be scheduled.
+            {% elsif has_one_precept_slot == false %}
+              No precept slot assigned yet.
+            {% endif %}
           </summary>
           <p style="text-align: left">
             {% for precept_slot in site.data.syllabus.precept_slots %}
             {% if precept.week_fixed != false and precept_slot[1].week_map[precept.week] %}
               {{ precept_slot[0] }}:
               {{ precept_slot[1].week_map[precept.week].start | date: "%a %m/%d %l:%M%P" }},
-              {{ precept_slot[1].preceptor }},
+              {% if precept_slot[1].week_map[precept.week].preceptor %}
+                {{ precept_slot[1].week_map[precept.week].preceptor }},
+              {% else %}
+                {{ precept_slot[1].preceptor }},
+              {% endif %}
               {{ precept_slot[1].week_map[precept.week].location }}
               {% if forloop.last == false %}<br />{% endif %}
             {% endif %}
@@ -52,18 +56,18 @@ This precept schedule is preliminary and subject to change.
           </p>
         </details>
       </td>
-	  <td>
-	    {% capture precept_links %}
-	    {% for link in precept.links %}
-	      [<a
-			  href="{% if link[1].path %}{% link {{ link[1].path }} %}{% else %}{{ link[1].url }}{% endif %}"
-			  {% if link[1].new_tab == true %}target="_blank"{% endif %}
-			  >{{ link[0] }}</a>]
-			{% if forloop.last == false %}, {% endif %}
-		{% endfor %}
-		{% endcapture %}
-		{{ precept_links | strip_newlines }}
-	  </td>
+      <td>
+        {% capture precept_links %}
+        {% for link in precept.links %}
+          [<a
+              href="{% if link[1].path %}{% link {{ link[1].path }} %}{% else %}{{ link[1].url }}{% endif %}"
+              {% if link[1].new_tab == true %}target="_blank"{% endif %}
+              >{{ link[0] }}</a>]
+            {% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+        {% endcapture %}
+        {{ precept_links | strip_newlines }}
+      </td>
     </tr>
     {% endif %}
     {% endfor %}
