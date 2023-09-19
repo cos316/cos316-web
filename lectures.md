@@ -60,7 +60,11 @@ This schedule is preliminary and subject to change.
             <a href="{% link {{ lecture.slides.pdf_file }} %}">PDF</a>
           {% endif %}
         </td>
-        <td></td>
+        <td>
+          {% if lecture.notes.pdf_file %}
+            <a href="{% link {{ lecture.notes.pdf_file }} %}">PDF</a>
+          {% endif %}
+        </td>
         <td></td>
       </tr>
     {% endfor %}

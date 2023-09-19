@@ -38,6 +38,9 @@ lectures:
   instructor: Amit Levy
   location: Friend 101
   slides:
+    pdf_file: lectures/L04-unix-fs.pdf
+  notes:
+    pdf_file: notes/Naming in UNIX File Systems.pdf
 - start: 2023-09-21T10:00:00-04:00
   end: 2023-09-21T10:50:00-04:00
   topic: Git
