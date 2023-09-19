@@ -25,15 +25,16 @@ latter shall prevail.
 your preceptor with a short note describing the potential mistake. You must do
 this within two weeks of the work being returned.
 
-**Late days:** You may use up to seven (7) late days for programming
-assignments. The late days are assigned retroactively to give you the best
-possible overall grade on your programming assignments.  Programming assignments
-are due at 11:00pm Eastern (Princeton) time.  This is a hard deadline; a
-submission at 11:02pm will count as one full late day. Your score for one
-programming assignment is the commit with the highest graded score and valid
-submission time. You do not declare the use of late days. At the end of the
-semester, we find the best allocation of late days across all your programming
-assignments, such that all your submissions sum to the highest score.
+**Late days:** You may use up to seven (7) late days for programming assignments
+(**not problem sets or design prompts**). The late days are assigned
+retroactively to give you the best possible overall grade on your programming
+assignments.  Programming assignments are due at 11:00pm Eastern (Princeton)
+time.  This is a hard deadline; a submission at 11:02pm will count as one full
+late day. Your score for one programming assignment is the commit with the
+highest graded score and valid submission time. You do not declare the use of
+late days. At the end of the semester, we find the best allocation of late days
+across all your programming assignments, such that all your submissions sum to
+the highest score.
 
 You may not use late days for problem sets and the Dean\'s Date project
 
