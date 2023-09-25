@@ -58,6 +58,7 @@ lectures:
   instructor: Ravi Netravali
   location: Friend 101
   slides:
+    pdf_file: lectures/L07-network-naming.pdf
 - start: 2023-09-28T10:00:00-04:00
   end: 2023-09-28T10:50:00-04:00
   topic: Layers of the Network
