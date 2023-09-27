@@ -65,7 +65,7 @@ lectures:
   section: Layering
   instructor: Ravi Netravali
   location: Friend 101
-  slides:
+  slides: lectures/L08-layering-networking.pdf
 - start: 2023-10-03T10:00:00-04:00
   end: 2023-10-03T10:50:00-04:00
   topic: Layers of an RDBMS
