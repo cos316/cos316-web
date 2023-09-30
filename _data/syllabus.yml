@@ -210,6 +210,9 @@ precepts:
       path: precepts/03_http.pdf
 - week: 2023-09-24
   topic: Testing and Benchmarking
+  links:
+    Slides:
+      path: precepts/04_testing_and_benchmarking.pdf
 - week: 2023-10-01
   topic: Cache Eviction
   week_fixed: false
