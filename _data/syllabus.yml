@@ -214,9 +214,9 @@ precepts:
     Slides:
       path: precepts/04_testing_and_benchmarking.pdf
 - week: 2023-10-01
-  topic: Cache Eviction
-- week: 2023-10-08
   topic: SQL
+- week: 2023-10-08
+  topic: Cache Eviction
   week_fixed: false
   hidden: true
 - week: 2023-10-22
