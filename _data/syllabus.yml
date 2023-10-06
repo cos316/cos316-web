@@ -216,17 +216,17 @@ precepts:
       path: precepts/04_testing_and_benchmarking.pdf
 - week: 2023-10-01
   topic: SQL
-- week: 2023-10-22
+- week: 2023-10-08
   topic: Cache Eviction
-- week: 2023-10-29
+- week: 2023-10-22
   topic: Reflection (1)
   week_fixed: false
   hidden: true
-- week: 2023-11-05
+- week: 2023-10-29
   topic: Reflection (2)
   week_fixed: false
   hidden: true
-- week: 2023-11-12
+- week: 2023-11-05
   topic: Concurrency
   week_fixed: false
   hidden: true
