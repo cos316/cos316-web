@@ -98,6 +98,7 @@ lectures:
   instructor: Ravi Netravali
   location: Friend 101
   slides:
+    pdf_file: lectures/L12-cdn-caching.pdf
 - start: 2023-10-24T10:00:00-04:00
   end: 2023-10-24T10:50:00-04:00
   topic: File System Caching
