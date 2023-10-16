@@ -224,6 +224,9 @@ precepts:
       path: precepts/05_sql.pdf
 - week: 2023-10-08
   topic: Reflection
+  links:
+    Slides:
+      path: precepts/06_reflection.pdf
 - week: 2023-10-22
   topic: Cache Eviction
   week_fixed: false
