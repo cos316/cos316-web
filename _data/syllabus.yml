@@ -633,10 +633,11 @@ office_hours:
   start: 2023-10-12T14:00:00-04:00
   end: 2023-10-12T15:00:00-04:00
   location: CS 003
-- staff: Leon Schuermann
-  start: 2023-10-26T14:00:00-04:00
-  end: 2023-10-26T15:00:00-04:00
-  location: CS 003
+# Cancelled due to SOSP'23 travel
+# - staff: Leon Schuermann
+#   start: 2023-10-26T14:00:00-04:00
+#   end: 2023-10-26T15:00:00-04:00
+#   location: CS 003
 - staff: Leon Schuermann
   start: 2023-11-02T14:00:00-04:00
   end: 2023-11-02T15:00:00-04:00
