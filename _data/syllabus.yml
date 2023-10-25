@@ -229,8 +229,6 @@ precepts:
       path: precepts/06_reflection.pdf
 - week: 2023-10-22
   topic: Cache Eviction
-  week_fixed: false
-  hidden: true
 - week: 2023-10-29
   topic: Reflection (2)
   week_fixed: false
