@@ -232,6 +232,9 @@ precepts:
       path: precepts/06_reflection.pdf
 - week: 2023-10-22
   topic: Cache Eviction
+  links:
+    Slides:
+      path: precepts/07_cache_eviction.pdf
 - week: 2023-10-29
   topic: Concurrency
   links:
