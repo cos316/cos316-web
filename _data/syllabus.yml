@@ -130,57 +130,57 @@ lectures:
   location: Friend 101
   slides:
     pdf_file: lectures/L16-more-time.pdf
-- start: 2023-11-07T10:00:00-04:00
-  end: 2023-11-07T10:50:00-04:00
+- start: 2023-11-07T10:00:00-05:00
+  end: 2023-11-07T10:50:00-05:00
   topic: Consistency Models
   section: Concurrency
   instructor: Amit Levy
   location: Friend 101
   slides:
-- start: 2023-11-09T10:00:00-04:00
-  end: 2023-11-09T10:50:00-04:00
+- start: 2023-11-09T10:00:00-05:00
+  end: 2023-11-09T10:50:00-05:00
   topic: security is for everyone
   section: Security
   instructor: Amit Levy
   location: Friend 101
   slides:
-- start: 2023-11-14T10:00:00-04:00
-  end: 2023-11-14T10:50:00-04:00
+- start: 2023-11-14T10:00:00-05:00
+  end: 2023-11-14T10:50:00-05:00
   topic: Isolation
   section: Security
   instructor: Amit Levy
   location: Friend 101
   slides:
-- start: 2023-11-16T10:00:00-04:00
-  end: 2023-11-16T10:50:00-04:00
+- start: 2023-11-16T10:00:00-05:00
+  end: 2023-11-16T10:50:00-05:00
   topic: Access Control
   section: Security
   instructor: Amit Levy
   location: Friend 101
   slides:
-- start: 2023-11-28T10:00:00-04:00
-  end: 2023-11-28T10:50:00-04:00
+- start: 2023-11-28T10:00:00-05:00
+  end: 2023-11-28T10:50:00-05:00
   topic: Network Access Control
   section: Security
   instructor: Ravi Netravali
   location: Friend 101
   slides:
-- start: 2023-11-30T10:00:00-04:00
-  end: 2023-11-30T10:50:00-04:00
+- start: 2023-11-30T10:00:00-05:00
+  end: 2023-11-30T10:50:00-05:00
   topic: TBD
   section: Case Studies
   instructor: Amit Levy
   location: Friend 101
   slides:
-- start: 2023-12-05T10:00:00-04:00
-  end: 2023-12-05T10:50:00-04:00
+- start: 2023-12-05T10:00:00-05:00
+  end: 2023-12-05T10:50:00-05:00
   topic: TBD
   section: Case Studies
   instructor: Ravi Netravali
   location: Friend 101
   slides:
-- start: 2023-12-07T10:00:00-04:00
-  end: 2023-12-07T10:50:00-04:00
+- start: 2023-12-07T10:00:00-05:00
+  end: 2023-12-07T10:50:00-05:00
   topic: Tying It All Together
   section: Conclusion
   instructor: Ravi Netravali
@@ -194,8 +194,8 @@ breaks:
   end: 2023-10-22T23:59:59-04:00
 - type: holiday
   label: Thanksgiving Recess
-  start: 2023-11-21T18:00:00-04:00
-  end: 2023-11-26T23:59:59-04:00
+  start: 2023-11-21T18:00:00-05:00
+  end: 2023-11-26T23:59:59-05:00
 
 precepts:
 - week: 2023-09-03
@@ -282,28 +282,28 @@ precept_slots:
         end: 2023-11-02T13:20:00-04:00
         location: Friend 109
       2023-11-05:
-        start: 2023-11-09T12:30:00-04:00
-        end: 2023-11-09T13:20:00-04:00
+        start: 2023-11-09T12:30:00-05:00
+        end: 2023-11-09T13:20:00-05:00
         location: Friend 109
       2023-11-12:
-        start: 2023-11-16T12:30:00-04:00
-        end: 2023-11-16T13:20:00-04:00
+        start: 2023-11-16T12:30:00-05:00
+        end: 2023-11-16T13:20:00-05:00
         location: Friend 109
       2023-11-19:
-        start: 2023-11-23T12:30:00-04:00
-        end: 2023-11-23T13:20:00-04:00
+        start: 2023-11-23T12:30:00-05:00
+        end: 2023-11-23T13:20:00-05:00
         location: Friend 109
       2023-11-26:
-        start: 2023-11-30T12:30:00-04:00
-        end: 2023-11-30T13:20:00-04:00
+        start: 2023-11-30T12:30:00-05:00
+        end: 2023-11-30T13:20:00-05:00
         location: Friend 109
       2023-12-03:
-        start: 2023-12-07T12:30:00-04:00
-        end: 2023-12-07T13:20:00-04:00
+        start: 2023-12-07T12:30:00-05:00
+        end: 2023-12-07T13:20:00-05:00
         location: Friend 109
       2023-12-10:
-        start: 2023-12-14T12:30:00-04:00
-        end: 2023-12-14T13:20:00-04:00
+        start: 2023-12-14T12:30:00-05:00
+        end: 2023-12-14T13:20:00-05:00
         location: Friend 109
   P02:
     preceptor: Christopher Branner-Augmon
@@ -341,28 +341,28 @@ precept_slots:
         end: 2023-11-02T14:20:00-04:00
         location: Friend 109
       2023-11-05:
-        start: 2023-11-09T13:30:00-04:00
-        end: 2023-11-09T14:20:00-04:00
+        start: 2023-11-09T13:30:00-05:00
+        end: 2023-11-09T14:20:00-05:00
         location: Friend 109
       2023-11-12:
-        start: 2023-11-16T13:30:00-04:00
-        end: 2023-11-16T14:20:00-04:00
+        start: 2023-11-16T13:30:00-05:00
+        end: 2023-11-16T14:20:00-05:00
         location: Friend 109
       2023-11-19:
-        start: 2023-11-23T13:30:00-04:00
-        end: 2023-11-23T14:20:00-04:00
+        start: 2023-11-23T13:30:00-05:00
+        end: 2023-11-23T14:20:00-05:00
         location: Friend 109
       2023-11-26:
-        start: 2023-11-30T13:30:00-04:00
-        end: 2023-11-30T14:20:00-04:00
+        start: 2023-11-30T13:30:00-05:00
+        end: 2023-11-30T14:20:00-05:00
         location: Friend 109
       2023-12-03:
-        start: 2023-12-07T13:30:00-04:00
-        end: 2023-12-07T14:20:00-04:00
+        start: 2023-12-07T13:30:00-05:00
+        end: 2023-12-07T14:20:00-05:00
         location: Friend 109
       2023-12-10:
-        start: 2023-12-14T13:30:00-04:00
-        end: 2023-12-14T14:20:00-04:00
+        start: 2023-12-14T13:30:00-05:00
+        end: 2023-12-14T14:20:00-05:00
         location: Friend 109
   P03:
     preceptor: Leon Schuermann
@@ -402,28 +402,28 @@ precept_slots:
         end: 2023-11-02T16:20:00-04:00
         location: Friend 109
       2023-11-05:
-        start: 2023-11-09T15:30:00-04:00
-        end: 2023-11-09T16:20:00-04:00
+        start: 2023-11-09T15:30:00-05:00
+        end: 2023-11-09T16:20:00-05:00
         location: Friend 109
       2023-11-12:
-        start: 2023-11-16T15:30:00-04:00
-        end: 2023-11-16T16:20:00-04:00
+        start: 2023-11-16T15:30:00-05:00
+        end: 2023-11-16T16:20:00-05:00
         location: Friend 109
       2023-11-19:
-        start: 2023-11-23T15:30:00-04:00
-        end: 2023-11-23T16:20:00-04:00
+        start: 2023-11-23T15:30:00-05:00
+        end: 2023-11-23T16:20:00-05:00
         location: Friend 109
       2023-11-26:
-        start: 2023-11-30T15:30:00-04:00
-        end: 2023-11-30T16:20:00-04:00
+        start: 2023-11-30T15:30:00-05:00
+        end: 2023-11-30T16:20:00-05:00
         location: Friend 109
       2023-12-03:
-        start: 2023-12-07T15:30:00-04:00
-        end: 2023-12-07T16:20:00-04:00
+        start: 2023-12-07T15:30:00-05:00
+        end: 2023-12-07T16:20:00-05:00
         location: Friend 109
       2023-12-10:
-        start: 2023-12-14T15:30:00-04:00
-        end: 2023-12-14T16:20:00-04:00
+        start: 2023-12-14T15:30:00-05:00
+        end: 2023-12-14T16:20:00-05:00
         location: Friend 109
   P04:
     preceptor: Rui Pan
@@ -466,28 +466,28 @@ precept_slots:
         end: 2023-11-03T14:20:00-04:00
         location: Friend 109
       2023-11-05:
-        start: 2023-11-10T13:30:00-04:00
-        end: 2023-11-10T14:20:00-04:00
+        start: 2023-11-10T13:30:00-05:00
+        end: 2023-11-10T14:20:00-05:00
         location: Friend 109
       2023-11-12:
-        start: 2023-11-17T13:30:00-04:00
-        end: 2023-11-17T14:20:00-04:00
+        start: 2023-11-17T13:30:00-05:00
+        end: 2023-11-17T14:20:00-05:00
         location: Friend 109
       2023-11-19:
-        start: 2023-11-24T13:30:00-04:00
-        end: 2023-11-24T14:20:00-04:00
+        start: 2023-11-24T13:30:00-05:00
+        end: 2023-11-24T14:20:00-05:00
         location: Friend 109
       2023-11-26:
-        start: 2023-11-31T13:30:00-04:00
-        end: 2023-11-31T14:20:00-04:00
+        start: 2023-11-31T13:30:00-05:00
+        end: 2023-11-31T14:20:00-05:00
         location: Friend 109
       2023-12-03:
-        start: 2023-12-08T13:30:00-04:00
-        end: 2023-12-08T14:20:00-04:00
+        start: 2023-12-08T13:30:00-05:00
+        end: 2023-12-08T14:20:00-05:00
         location: Friend 109
       2023-12-10:
-        start: 2023-12-15T13:30:00-04:00
-        end: 2023-12-15T14:20:00-04:00
+        start: 2023-12-15T13:30:00-05:00
+        end: 2023-12-15T14:20:00-05:00
         location: Friend 109
   P06:
     preceptor: Leo Chen
@@ -525,28 +525,28 @@ precept_slots:
         end: 2023-11-02T20:20:00-04:00
         location: Friend 109
       2023-11-05:
-        start: 2023-11-09T19:30:00-04:00
-        end: 2023-11-09T20:20:00-04:00
+        start: 2023-11-09T19:30:00-05:00
+        end: 2023-11-09T20:20:00-05:00
         location: Friend 109
       2023-11-12:
-        start: 2023-11-16T19:30:00-04:00
-        end: 2023-11-16T20:20:00-04:00
+        start: 2023-11-16T19:30:00-05:00
+        end: 2023-11-16T20:20:00-05:00
         location: Friend 109
       2023-11-19:
-        start: 2023-11-23T19:30:00-04:00
-        end: 2023-11-23T20:20:00-04:00
+        start: 2023-11-23T19:30:00-05:00
+        end: 2023-11-23T20:20:00-05:00
         location: Friend 109
       2023-11-26:
-        start: 2023-11-30T19:30:00-04:00
-        end: 2023-11-30T20:20:00-04:00
+        start: 2023-11-30T19:30:00-05:00
+        end: 2023-11-30T20:20:00-05:00
         location: Friend 109
       2023-12-03:
-        start: 2023-12-07T19:30:00-04:00
-        end: 2023-12-07T20:20:00-04:00
+        start: 2023-12-07T19:30:00-05:00
+        end: 2023-12-07T20:20:00-05:00
         location: Friend 109
       2023-12-10:
-        start: 2023-12-14T19:30:00-04:00
-        end: 2023-12-14T20:20:00-04:00
+        start: 2023-12-14T19:30:00-05:00
+        end: 2023-12-14T20:20:00-05:00
         location: Friend 109
   P08:
     preceptor: Yinwei Dai
@@ -588,28 +588,28 @@ precept_slots:
         end: 2023-11-03T14:20:00-04:00
         location: Friend 009
       2023-11-05:
-        start: 2023-11-10T13:30:00-04:00
-        end: 2023-11-10T14:20:00-04:00
+        start: 2023-11-10T13:30:00-05:00
+        end: 2023-11-10T14:20:00-05:00
         location: Friend 009
       2023-11-12:
-        start: 2023-11-17T13:30:00-04:00
-        end: 2023-11-17T14:20:00-04:00
+        start: 2023-11-17T13:30:00-05:00
+        end: 2023-11-17T14:20:00-05:00
         location: Friend 009
       2023-11-19:
-        start: 2023-11-24T13:30:00-04:00
-        end: 2023-11-24T14:20:00-04:00
+        start: 2023-11-24T13:30:00-05:00
+        end: 2023-11-24T14:20:00-05:00
         location: Friend 009
       2023-11-26:
-        start: 2023-11-31T13:30:00-04:00
-        end: 2023-11-31T14:20:00-04:00
+        start: 2023-11-31T13:30:00-05:00
+        end: 2023-11-31T14:20:00-05:00
         location: Friend 009
       2023-12-03:
-        start: 2023-12-08T13:30:00-04:00
-        end: 2023-12-08T14:20:00-04:00
+        start: 2023-12-08T13:30:00-05:00
+        end: 2023-12-08T14:20:00-05:00
         location: Friend 009
       2023-12-10:
-        start: 2023-12-15T13:30:00-04:00
-        end: 2023-12-15T14:20:00-04:00
+        start: 2023-12-15T13:30:00-05:00
+        end: 2023-12-15T14:20:00-05:00
         location: Friend 009
 
 office_hours:
@@ -648,28 +648,28 @@ office_hours:
   end: 2023-11-02T15:00:00-04:00
   location: CS 003
 - staff: Leon Schuermann
-  start: 2023-11-09T14:00:00-04:00
-  end: 2023-11-09T15:00:00-04:00
+  start: 2023-11-09T14:00:00-05:00
+  end: 2023-11-09T15:00:00-05:00
   location: CS 003
 - staff: Leon Schuermann
-  start: 2023-11-16T14:00:00-04:00
-  end: 2023-11-16T15:00:00-04:00
+  start: 2023-11-16T14:00:00-05:00
+  end: 2023-11-16T15:00:00-05:00
   location: CS 003
 - staff: Leon Schuermann
-  start: 2023-11-23T14:00:00-04:00
-  end: 2023-11-23T15:00:00-04:00
+  start: 2023-11-23T14:00:00-05:00
+  end: 2023-11-23T15:00:00-05:00
   location: CS 003
 - staff: Leon Schuermann
-  start: 2023-11-30T14:00:00-04:00
-  end: 2023-11-30T15:00:00-04:00
+  start: 2023-11-30T14:00:00-05:00
+  end: 2023-11-30T15:00:00-05:00
   location: CS 003
 - staff: Leon Schuermann
-  start: 2023-12-07T14:00:00-04:00
-  end: 2023-12-07T15:00:00-04:00
+  start: 2023-12-07T14:00:00-05:00
+  end: 2023-12-07T15:00:00-05:00
   location: CS 003
 - staff: Leon Schuermann
-  start: 2023-12-14T14:00:00-04:00
-  end: 2023-12-14T15:00:00-04:00
+  start: 2023-12-14T14:00:00-05:00
+  end: 2023-12-14T15:00:00-05:00
   location: CS 003
 
 # Ravi's office hours
@@ -706,28 +706,28 @@ office_hours:
   end: 2023-11-02T12:00:00-04:00
   location: CS 322
 - staff: Ravi Netravali
-  start: 2023-11-09T11:00:00-04:00
-  end: 2023-11-09T12:00:00-04:00
+  start: 2023-11-09T11:00:00-05:00
+  end: 2023-11-09T12:00:00-05:00
   location: CS 322
 - staff: Ravi Netravali
-  start: 2023-11-16T11:00:00-04:00
-  end: 2023-11-16T12:00:00-04:00
+  start: 2023-11-16T11:00:00-05:00
+  end: 2023-11-16T12:00:00-05:00
   location: CS 322
 - staff: Ravi Netravali
-  start: 2023-11-23T11:00:00-04:00
-  end: 2023-11-23T12:00:00-04:00
+  start: 2023-11-23T11:00:00-05:00
+  end: 2023-11-23T12:00:00-05:00
   location: CS 322
 - staff: Ravi Netravali
-  start: 2023-11-30T11:00:00-04:00
-  end: 2023-11-30T12:00:00-04:00
+  start: 2023-11-30T11:00:00-05:00
+  end: 2023-11-30T12:00:00-05:00
   location: CS 322
 - staff: Ravi Netravali
-  start: 2023-12-07T11:00:00-04:00
-  end: 2023-12-07T12:00:00-04:00
+  start: 2023-12-07T11:00:00-05:00
+  end: 2023-12-07T12:00:00-05:00
   location: CS 322
 - staff: Ravi Netravali
-  start: 2023-12-14T11:00:00-04:00
-  end: 2023-12-14T12:00:00-04:00
+  start: 2023-12-14T11:00:00-05:00
+  end: 2023-12-14T12:00:00-05:00
   location: CS 322
 
 # Leo's office hours
@@ -764,28 +764,28 @@ office_hours:
   end: 2023-11-02T16:00:00-04:00
   location: CS 003
 - staff: Leo Chen
-  start: 2023-11-09T15:00:00-04:00
-  end: 2023-11-09T16:00:00-04:00
+  start: 2023-11-09T15:00:00-05:00
+  end: 2023-11-09T16:00:00-05:00
   location: CS 003
 - staff: Leo Chen
-  start: 2023-11-16T15:00:00-04:00
-  end: 2023-11-16T16:00:00-04:00
+  start: 2023-11-16T15:00:00-05:00
+  end: 2023-11-16T16:00:00-05:00
   location: CS 003
 - staff: Leo Chen
-  start: 2023-11-23T15:00:00-04:00
-  end: 2023-11-23T16:00:00-04:00
+  start: 2023-11-23T15:00:00-05:00
+  end: 2023-11-23T16:00:00-05:00
   location: CS 003
 - staff: Leo Chen
-  start: 2023-11-30T15:00:00-04:00
-  end: 2023-11-30T16:00:00-04:00
+  start: 2023-11-30T15:00:00-05:00
+  end: 2023-11-30T16:00:00-05:00
   location: CS 003
 - staff: Leo Chen
-  start: 2023-12-07T15:00:00-04:00
-  end: 2023-12-07T16:00:00-04:00
+  start: 2023-12-07T15:00:00-05:00
+  end: 2023-12-07T16:00:00-05:00
   location: CS 003
 - staff: Leo Chen
-  start: 2023-12-14T15:00:00-04:00
-  end: 2023-12-14T16:00:00-04:00
+  start: 2023-12-14T15:00:00-05:00
+  end: 2023-12-14T16:00:00-05:00
   location: CS 003
 
 # Mike's office hours
@@ -822,28 +822,28 @@ office_hours:
   end: 2023-11-01T11:00:00-04:00
   location: CS 003
 - staff: Mike Wong
-  start: 2023-11-08T10:00:00-04:00
-  end: 2023-11-08T11:00:00-04:00
+  start: 2023-11-08T10:00:00-05:00
+  end: 2023-11-08T11:00:00-05:00
   location: CS 003
 - staff: Mike Wong
-  start: 2023-11-15T10:00:00-04:00
-  end: 2023-11-15T11:00:00-04:00
+  start: 2023-11-15T10:00:00-05:00
+  end: 2023-11-15T11:00:00-05:00
   location: CS 003
 - staff: Mike Wong
-  start: 2023-11-22T10:00:00-04:00
-  end: 2023-11-22T11:00:00-04:00
+  start: 2023-11-22T10:00:00-05:00
+  end: 2023-11-22T11:00:00-05:00
   location: CS 003
 - staff: Mike Wong
-  start: 2023-11-29T10:00:00-04:00
-  end: 2023-11-29T11:00:00-04:00
+  start: 2023-11-29T10:00:00-05:00
+  end: 2023-11-29T11:00:00-05:00
   location: CS 003
 - staff: Mike Wong
-  start: 2023-12-06T10:00:00-04:00
-  end: 2023-12-06T11:00:00-04:00
+  start: 2023-12-06T10:00:00-05:00
+  end: 2023-12-06T11:00:00-05:00
   location: CS 003
 - staff: Mike Wong
-  start: 2023-12-13T10:00:00-04:00
-  end: 2023-12-13T11:00:00-04:00
+  start: 2023-12-13T10:00:00-05:00
+  end: 2023-12-13T11:00:00-05:00
   location: CS 003
 
 # Yue's office hours
@@ -880,28 +880,28 @@ office_hours:
   end: 2023-10-31T17:00:00-04:00
   location: CS 003
 - staff: Yue Tan
-  start: 2023-11-07T16:00:00-04:00
-  end: 2023-11-07T17:00:00-04:00
+  start: 2023-11-07T16:00:00-05:00
+  end: 2023-11-07T17:00:00-05:00
   location: CS 003
 - staff: Yue Tan
-  start: 2023-11-14T16:00:00-04:00
-  end: 2023-11-14T17:00:00-04:00
+  start: 2023-11-14T16:00:00-05:00
+  end: 2023-11-14T17:00:00-05:00
   location: CS 003
 - staff: Yue Tan
-  start: 2023-11-21T16:00:00-04:00
-  end: 2023-11-21T17:00:00-04:00
+  start: 2023-11-21T16:00:00-05:00
+  end: 2023-11-21T17:00:00-05:00
   location: CS 003
 - staff: Yue Tan
-  start: 2023-11-28T16:00:00-04:00
-  end: 2023-11-28T17:00:00-04:00
+  start: 2023-11-28T16:00:00-05:00
+  end: 2023-11-28T17:00:00-05:00
   location: CS 003
 - staff: Yue Tan
-  start: 2023-12-05T16:00:00-04:00
-  end: 2023-12-05T17:00:00-04:00
+  start: 2023-12-05T16:00:00-05:00
+  end: 2023-12-05T17:00:00-05:00
   location: CS 003
 - staff: Yue Tan
-  start: 2023-12-12T16:00:00-04:00
-  end: 2023-12-12T17:00:00-04:00
+  start: 2023-12-12T16:00:00-05:00
+  end: 2023-12-12T17:00:00-05:00
   location: CS 003
 
 # Yinwei's office hours
@@ -938,28 +938,28 @@ office_hours:
   end: 2023-10-30T17:30:00-04:00
   location: CS 003
 - staff: Yinwei Dai
-  start: 2023-11-06T16:30:00-04:00
-  end: 2023-11-06T17:30:00-04:00
+  start: 2023-11-06T16:30:00-05:00
+  end: 2023-11-06T17:30:00-05:00
   location: CS 003
 - staff: Yinwei Dai
-  start: 2023-11-13T16:30:00-04:00
-  end: 2023-11-13T17:30:00-04:00
+  start: 2023-11-13T16:30:00-05:00
+  end: 2023-11-13T17:30:00-05:00
   location: CS 003
 - staff: Yinwei Dai
-  start: 2023-11-20T16:30:00-04:00
-  end: 2023-11-20T17:30:00-04:00
+  start: 2023-11-20T16:30:00-05:00
+  end: 2023-11-20T17:30:00-05:00
   location: CS 003
 - staff: Yinwei Dai
-  start: 2023-11-27T16:30:00-04:00
-  end: 2023-11-27T17:30:00-04:00
+  start: 2023-11-27T16:30:00-05:00
+  end: 2023-11-27T17:30:00-05:00
   location: CS 003
 - staff: Yinwei Dai
-  start: 2023-12-04T16:30:00-04:00
-  end: 2023-12-04T17:30:00-04:00
+  start: 2023-12-04T16:30:00-05:00
+  end: 2023-12-04T17:30:00-05:00
   location: CS 003
 - staff: Yinwei Dai
-  start: 2023-12-11T16:30:00-04:00
-  end: 2023-12-11T17:30:00-04:00
+  start: 2023-12-11T16:30:00-05:00
+  end: 2023-12-11T17:30:00-05:00
   location: CS 003
 
 # Rui's office hours
@@ -996,28 +996,28 @@ office_hours:
   end: 2023-11-03T13:30:00-04:00
   location: Friend 010
 - staff: Rui Pan
-  start: 2023-11-10T12:30:00-04:00
-  end: 2023-11-10T13:30:00-04:00
+  start: 2023-11-10T12:30:00-05:00
+  end: 2023-11-10T13:30:00-05:00
   location: Friend 010
 - staff: Rui Pan
-  start: 2023-11-17T12:30:00-04:00
-  end: 2023-11-17T13:30:00-04:00
+  start: 2023-11-17T12:30:00-05:00
+  end: 2023-11-17T13:30:00-05:00
   location: Friend 010
 - staff: Rui Pan
-  start: 2023-11-24T12:30:00-04:00
-  end: 2023-11-24T13:30:00-04:00
+  start: 2023-11-24T12:30:00-05:00
+  end: 2023-11-24T13:30:00-05:00
   location: Friend 010
 - staff: Rui Pan
-  start: 2023-11-31T12:30:00-04:00
-  end: 2023-11-31T13:30:00-04:00
+  start: 2023-11-31T12:30:00-05:00
+  end: 2023-11-31T13:30:00-05:00
   location: Friend 010
 - staff: Rui Pan
-  start: 2023-12-08T12:30:00-04:00
-  end: 2023-12-08T13:30:00-04:00
+  start: 2023-12-08T12:30:00-05:00
+  end: 2023-12-08T13:30:00-05:00
   location: Friend 010
 - staff: Rui Pan
-  start: 2023-12-15T12:30:00-04:00
-  end: 2023-12-15T13:30:00-04:00
+  start: 2023-12-15T12:30:00-05:00
+  end: 2023-12-15T13:30:00-05:00
   location: Friend 010
 
 # Chris' office hours
@@ -1054,28 +1054,28 @@ office_hours:
   end: 2023-10-31T15:00:00-04:00
   location: CS 003
 - staff: Christopher Branner-Augmon
-  start: 2023-11-07T14:00:00-04:00
-  end: 2023-11-07T15:00:00-04:00
+  start: 2023-11-07T14:00:00-05:00
+  end: 2023-11-07T15:00:00-05:00
   location: CS 003
 - staff: Christopher Branner-Augmon
-  start: 2023-11-14T14:00:00-04:00
-  end: 2023-11-14T15:00:00-04:00
+  start: 2023-11-14T14:00:00-05:00
+  end: 2023-11-14T15:00:00-05:00
   location: CS 003
 - staff: Christopher Branner-Augmon
-  start: 2023-11-21T14:00:00-04:00
-  end: 2023-11-21T15:00:00-04:00
+  start: 2023-11-21T14:00:00-05:00
+  end: 2023-11-21T15:00:00-05:00
   location: CS 003
 - staff: Christopher Branner-Augmon
-  start: 2023-11-28T14:00:00-04:00
-  end: 2023-11-28T15:00:00-04:00
+  start: 2023-11-28T14:00:00-05:00
+  end: 2023-11-28T15:00:00-05:00
   location: CS 003
 - staff: Christopher Branner-Augmon
-  start: 2023-12-05T14:00:00-04:00
-  end: 2023-12-05T15:00:00-04:00
+  start: 2023-12-05T14:00:00-05:00
+  end: 2023-12-05T15:00:00-05:00
   location: CS 003
 - staff: Christopher Branner-Augmon
-  start: 2023-12-12T14:00:00-04:00
-  end: 2023-12-12T15:00:00-04:00
+  start: 2023-12-12T14:00:00-05:00
+  end: 2023-12-12T15:00:00-05:00
   location: CS 003
 
 # Amit' office hours
@@ -1112,28 +1112,28 @@ office_hours:
   end: 2023-10-31T12:00:00-04:00
   location: CS 307
 - staff: Amit Levy
-  start: 2023-11-07T11:00:00-04:00
-  end: 2023-11-07T12:00:00-04:00
+  start: 2023-11-07T11:00:00-05:00
+  end: 2023-11-07T12:00:00-05:00
   location: CS 307
 - staff: Amit Levy
-  start: 2023-11-14T11:00:00-04:00
-  end: 2023-11-14T12:00:00-04:00
+  start: 2023-11-14T11:00:00-05:00
+  end: 2023-11-14T12:00:00-05:00
   location: CS 307
 - staff: Amit Levy
-  start: 2023-11-21T11:00:00-04:00
-  end: 2023-11-21T12:00:00-04:00
+  start: 2023-11-21T11:00:00-05:00
+  end: 2023-11-21T12:00:00-05:00
   location: CS 307
 - staff: Amit Levy
-  start: 2023-11-28T11:00:00-04:00
-  end: 2023-11-28T12:00:00-04:00
+  start: 2023-11-28T11:00:00-05:00
+  end: 2023-11-28T12:00:00-05:00
   location: CS 307
 - staff: Amit Levy
-  start: 2023-12-05T11:00:00-04:00
-  end: 2023-12-05T12:00:00-04:00
+  start: 2023-12-05T11:00:00-05:00
+  end: 2023-12-05T12:00:00-05:00
   location: CS 307
 - staff: Amit Levy
-  start: 2023-12-12T11:00:00-04:00
-  end: 2023-12-12T12:00:00-04:00
+  start: 2023-12-12T11:00:00-05:00
+  end: 2023-12-12T12:00:00-05:00
   location: CS 307
 
 assignments:
@@ -1183,13 +1183,13 @@ assignments:
   due: 2023-11-15T23:00:00-04:00
 - type: programming
   title: "Programming Assignment #5"
-  release: 2023-11-08T00:00:00-04:00
-  due: 2023-11-29T23:00:00-04:00
+  release: 2023-11-08T00:00:00-05:00
+  due: 2023-11-29T23:00:00-05:00
 - type: pset
   title: "Problem Set #5: Access Control"
-  release: 2023-11-15T00:00:00-04:00
-  due: 2023-12-06T23:00:00-04:00
+  release: 2023-11-15T00:00:00-05:00
+  due: 2023-12-06T23:00:00-05:00
 - type: prompt
   title: "Design Prompt #2"
   links:
-  due: 2023-12-08T23:00:00-04:00
+  due: 2023-12-08T23:00:00-05:00
