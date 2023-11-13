@@ -246,6 +246,7 @@ precepts:
       path: precepts/08_concurrency.pdf
 - week: 2023-11-05
   topic: Concurrency (2)
+  links:
     Slides:
       path: precepts/09_concurrency_2.pdf
 - week: 2023-11-12
