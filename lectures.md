@@ -59,6 +59,9 @@ This schedule is preliminary and subject to change.
           {% if lecture.slides.pdf_file %}
             <a href="{% link {{ lecture.slides.pdf_file }} %}">PDF</a>
           {% endif %}
+          {% if lecture.slides.link %}
+            <a href="{{ lecture.slides.link }}">Link</a>
+          {% endif %}
         </td>
         <td>
           {% if lecture.notes.pdf_file %}
