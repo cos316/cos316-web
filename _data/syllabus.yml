@@ -169,6 +169,7 @@ lectures:
   instructor: Ravi Netravali
   location: Friend 101
   slides:
+    pdf_file: lectures/L21-nacl.pdf
 - start: 2023-11-30T10:00:00-05:00
   end: 2023-11-30T10:50:00-05:00
   topic: TBD
@@ -178,9 +179,9 @@ lectures:
   slides:
 - start: 2023-12-05T10:00:00-05:00
   end: 2023-12-05T10:50:00-05:00
-  topic: TBD
+  topic: Systems for ML, ML for systems
   section: Case Studies
-  instructor: Ravi Netravali
+  instructor: Neil Agarwal (guest lecture)
   location: Friend 101
   slides:
 - start: 2023-12-07T10:00:00-05:00
