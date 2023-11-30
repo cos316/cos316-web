@@ -5,14 +5,14 @@ layout: default
 
 ## Deliverables
 
-* A write-up of your project. Write-ups should be at most five pages
-  single-spaced, and include a description of your project goal, describe the
-  design and implementation of your system, and a relevant performance
-  evaluation.
-  
+* A write-up of your project, at most 5-page, single-spaced, 11pt font, 1 inch
+  margins. Write-ups should include a description of your project goal,
+  describe the design and implementation of your system, and a relevant
+  performance evaluation.
+
 * A 5-minute video describing your project. Where relevant you may show a demo
   of your implementation.
-  
+
 * All project code along with instructions necessary to compile and run your
   system.
 
