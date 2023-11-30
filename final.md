@@ -1,63 +1,74 @@
 ---
+title: Final Project
 layout: default
 ---
 
-## Final Project
+## Deliverables
 
-Your final project is to build some new system functionality. It is open-ended,
-you get to define your project. Its scope should be about twice what you've done
-in each of the programming assignments throughout the course. You can work in a
-group of 2 or 3, or individually with prior approval.
+* A write-up of your project. Write-ups should be at most five pages
+  single-spaced, and include a description of your project goal, describe the
+  design and implementation of your system, and a relevant performance
+  evaluation.
+  
+* A 5-minute video describing your project. Where relevant you may show a demo
+  of your implementation.
+  
+* All project code along with instructions necessary to compile and run your
+  system.
 
-In your project you can build a new system, modify or evaluate an existing real
-system, or _significantly_ extend one of the programming assignments. Our
-wonderful TAs will help you select and refine your final project topic during
-precepts.
+## Grading
 
-### Deliverables
+The final project will be evaluated on two broad categories:
 
-You will have three deliverables due on Dean's Date: 5pm Princeton Time on Dean's Date. They are:
-1. A tarball with your code and tests.
-2. A 2-page project report (single-spaced, 1-inch margins, 11pt font).
-3. A video demo of your project that is 5 minutes or less.
+  1. **Scope**: The scope of your project will determine the maximum grade you can
+     receive. For examples of projects that would receive full points for scope
+     (and therefore have a maximum possible grade of 100%), see below.
 
-**Tarball** Your tarball should contain all of your code, including your tests.
-If your code is in a directory called `code`, you can create a tarball with this
-command while in the parent directory: `tar -czvf code.tgz code`.
+  2. **Execution**: How well you deliver on the promised scope of your project. This
+     includes the video, write-up, and code deliverables and determines your
+     final grade on the assignment.
 
-**Project Report**
-Your 2 page project report must include the following 4 sections:
-1. Project description. Briefly describe the base system you are modifying, the
-   new functionality you are adding, and your rationale for why you wanted to
-   add that new functionality. If you are building a system from scratch,
-   describe its purpose and the problem it should help solve.
-2. Design overview. Briefly describe the design of your new functionality or new
-   system. This should be explained in sufficient for someone who has taken COS
-   316 to be able to understand why you chose to design things they you did, but
-   need not include implementation choices that are either not important or
-   should be obvious given the design. This section can, and should, rely
-   heavily on the principles discussed in class (naming, caching, concurrency,
-   resource allocation, security, etc).
-3. Testing methodology. Briefly describe your methodology for testing your new
-   functionality or system.
-4. Outcome. Describe the outcome of your project. Was it fully successful or
-   partially successful? What works completely, what works mostly, and what
-   doesn't work?
+At least one person from each group must attend their precept to double check
+for your project to be approved and assigned a maximum grade for the scope.
 
-**Video Demo** Your video demo should be at most 5 minutes long. (Shorter is
-fine.) It should show your code running with you explaining what is happening.
-One easy way to record this video is in a zoom meeting by yourself, see
-instructions from Zoom
-[here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
+## Example Projects
 
-For additional clarification about the final project, see [this document]({% link notes/Final Project Clarification.pdf %}).
+Here are 8 example projects and their maximum grade:
 
-### Submission
+1. Extending assignment 4 (DORM) to support arbitrary SQL queries. _Max grade 85%_
+2. Implementing and evaluating a non-queue-based caching algorithm. Examples of such algorithms include: LIRS, ARCS, and Hyperbolic. _Max grade 85%_
 
-Submit your final project as three separate files on [this Canvas
-assignment](https://princeton.instructure.com/courses/7723/assignments/74763):
+3. Implementing and evaluating a machine learning-based caching algorithm. Examples you could use for inspiration include: Cacheus, LRB, and LeCaR - _Max grade 85%_
 
-1. A PDF of your 2-page report
-2. A gzipped tarball of your code and tests
-3. A video demo of your project as an mp4, mkv, webm, or ogv file
+4. Building a shell in Go (or another language of your choice) that supports process backgrounding. See this page for help/guidance getting started on implementing a linux shell - _Max grade up to 100%, depending on completeness of shell_
 
+5. Build a browser plugin that does something cool. There are lots of options here: analyzing a user’s traffic, encrypting/decrypting form inputs, etc - _Max grade up to 100%, depending on creativity and implementation difficulty_
+
+6. Build an IPTables-like application in Go. See the Basic Concepts section on this page for an overview of what IPTables does. You do not need to replicate all this functionality - a very basic firewall will suffice. - _Max grade up to 100%_
+
+7. Build a cache for some other medium such as a file system, SSD, or Hard Drive - _Max grade up to to 100% depending on details_
+
+## FAQs
+
+### I want to do one of the example projects but don’t know how to get started!
+
+Come to office hours, make an Ed Post, or send us an email! We’re happy to help you get off the ground.
+
+### How much work should we put into the final project?
+
+About twice as much as the average programming assignment.
+
+### Does our project fulfill the expected scope for the course?
+
+Come to precept and we’ll tell you
+
+### I want to work on a project that isn’t included in the examples
+
+Please do! Get approval from your preceptor
+
+### What should we include in our video?
+
+The video should be 5 minutes or shorter, should include a screen share
+demonstrating your project's functionality (if applicable), and explain how and
+why it works. If you want to show specific code snippets that’s fine as well.
+The goal is for you to show us that you built something systems-y that works.

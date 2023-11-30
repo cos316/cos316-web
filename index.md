@@ -25,8 +25,6 @@ there is no one book that covers the right material in an up-to-date
 fashion. Some required articles/papers/blogs/etc. will be posted
 on-line.
 
-**Grading.** Coming soon... <!--Programming assigments 60%, Problem Sets 20%, Final Project 20%.-->
-
 ## Course Staff
 
 You may contact course staff via the Ed discussion board. Office hours are in
